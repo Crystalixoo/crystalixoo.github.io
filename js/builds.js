@@ -661,23 +661,114 @@ const ARCH = {
 };
 
 function generateBuilds(champ) {
+  // Determine archetype and base definition
   const arch = archetypeOf(champ);
   const def = ARCH[arch] || ARCH.ad_bruiser;
-  const fill = s => s.replace(/\{N\}/g, champ.name);
-  const mapSet = b => ({
-    title: b.title,
+  const fill = s => (s || "").replace(/\{N\}/g, champ.name);
+
+  // Map a build entry to the public format and optionally add a small variation suffix
+  const mapSet = (b, idx, kind) => ({
+    title: b.title + (kind === 'urf' ? ` (${idx + 1})` : ''),
     analysis: fill(b.analysis),
-    items: b.items,
+    items: b.items || [],
     keystone: b.keystone,
     primaryPath: b.primaryPath,
     minors: b.minors,
     secondaryPath: b.secondaryPath,
     secondary: b.secondary
   });
+
+  // Clear existing builds conceptually by always generating a fresh, deterministic set:
+  // - exactly 1 normal build (take the first available)
+  // - exactly 3 URF builds (repeat/rotate base URF entries if fewer than 3)
+  const normalBase = (def.normal && def.normal.length) ? def.normal[0] : null;
+  const normal = normalBase ? [mapSet(normalBase, 0, 'normal')] : [];
+
+  const urfBase = def.urf || [];
+  const urf = [];
+  if (urfBase.length === 0) {
+    // fallback: reuse normal build as URF variations if no URF definitions present
+    if (normalBase) {
+      for (let i = 0; i < 3; i++) urf.push(mapSet(normalBase, i, 'urf'));
+    }
+  } else {
+    for (let i = 0; i < 3; i++) {
+      // rotate through available urfBase entries to create up to 3 distinct builds
+      const base = urfBase[i % urfBase.length];
+      urf.push(mapSet(base, i, 'urf'));
+    }
+  }
+
   return {
     archetype: arch,
     label: def.label,
-    normal: def.normal.map(mapSet),
-    urf: (def.urf || []).map(mapSet)
+    normal,
+    urf
   };
+}
+
+// Helper: validate runes and items against meta lists (if present on page)
+try {
+  const VALID_ITEMS = typeof ITEM_INFO !== 'undefined' ? Object.keys(ITEM_INFO) : null;
+  const VALID_RUNES = typeof RUNE_INFO !== 'undefined' ? Object.keys(RUNE_INFO) : null;
+  // Wrap original generateBuilds to post-process and ensure availability
+  const _origGenerate = generateBuilds;
+  generateBuilds = function(champ) {
+    const out = _origGenerate(champ);
+
+    // Validate normal build
+    if (out.normal && out.normal.length > 0) {
+      out.normal = out.normal.map(b => validateBuild(b, VALID_ITEMS, VALID_RUNES, out));
+    }
+
+    // Validate urf builds
+    if (out.urf && out.urf.length > 0) {
+      out.urf = out.urf.map(b => validateBuild(b, VALID_ITEMS, VALID_RUNES, out));
+    }
+    return out;
+  };
+
+  function validateBuild(b, validItems, validRunes, out) {
+    const res = Object.assign({}, b);
+    // Validate runes: keystone, minors (array of 3), secondary
+    if (validRunes) {
+      if (!validRunes.includes(res.keystone)) res.keystone = res.keystone && validRunes.includes(res.keystone) ? res.keystone : Object.keys(RUNE_INFO)[0];
+      if (Array.isArray(res.minors)) {
+        res.minors = res.minors.map(m => validRunes.includes(m) ? m : Object.keys(RUNE_INFO)[0]);
+      } else {
+        res.minors = [Object.keys(RUNE_INFO)[0], Object.keys(RUNE_INFO)[0], Object.keys(RUNE_INFO)[0]];
+      }
+      if (!validRunes.includes(res.secondary)) res.secondary = Object.keys(RUNE_INFO)[0];
+      if (!res.primaryPath) res.primaryPath = res.primaryPath || 'Precision';
+      if (!res.secondaryPath) res.secondaryPath = res.secondaryPath || 'Sorcery';
+    }
+
+    // Validate items: ensure items exist in ITEM_INFO and length == 6
+    const basePool = [];
+    if (out && out.label) {
+      // collect archetype pools from ARCH
+      const archDef = ARCH[out.archetype] || {};
+      if (archDef.normal) archDef.normal.forEach(x => (x.items || []).forEach(it => basePool.push(it)));
+      if (archDef.urf) archDef.urf.forEach(x => (x.items || []).forEach(it => basePool.push(it)));
+    }
+    // start with provided items filtered
+    let items = Array.isArray(res.items) ? res.items.filter(it => !validItems || validItems.includes(it)) : [];
+    // append from basePool in order, avoid duplicates
+    for (const it of basePool) {
+      if (items.length >= 6) break;
+      if ((!validItems || validItems.includes(it)) && !items.includes(it)) items.push(it);
+    }
+    // if still short, append any valid item
+    if (validItems) {
+      for (const it of validItems) {
+        if (items.length >= 6) break;
+        if (!items.includes(it)) items.push(it);
+      }
+    }
+    // trim to 6
+    res.items = items.slice(0, 6);
+    return res;
+  }
+} catch (e) {
+  // If meta globals not available, silently skip validation
 }

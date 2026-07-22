@@ -122,13 +122,13 @@
 
     <section class="panel">
       <h2 class="panel-title">Zestawy klasyczne</h2>
-      <p class="panel-sub">Dwa zestawy dopasowane do archetypu i umiejętności ${esc(champ.name)} — po 5 run i 6 przedmiotów. Najedź na ikonę po szczegóły.</p>
+      <p class="panel-sub">Jeden zestaw dopasowany do archetypu i umiejętności ${esc(champ.name)} — po 5 run i 6 przedmiotów. Najedź na ikonę po szczegóły.</p>
       <div class="sets">${gen.normal.map((s, i) => setCard(s, i + 1, "normal")).join("")}</div>
     </section>
 
     ${gen.urf && gen.urf.length ? `<section class="panel">
       <h2 class="panel-title">Zestawy URF <span class="urf-tag">∞ mana · zerowe cooldowny</span></h2>
-      <p class="panel-sub">Dwa zestawy pod Ultra Rapid Fire: zero itemów na manę, maksymalny ability haste i pasywki wyzwalane ciągłym castowaniem.</p>
+      <p class="panel-sub">Trzy zestawy pod Ultra Rapid Fire: zero itemów na manę, maksymalny ability haste i pasywki wyzwalane ciągłym castowaniem.</p>
       <div class="sets">${gen.urf.map((s, i) => setCard(s, i + 1, "urf")).join("")}</div>
     </section>` : ""}
 

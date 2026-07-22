@@ -642,21 +642,92 @@ const ARCH = {
 function generateBuilds(champ) {
   const arch = archetypeOf(champ);
   const def = ARCH[arch] || ARCH.ad_bruiser;
-  const fill = (s) => s.replace(/\{N\}/g, champ.name);
-  const mapSet = (b) => ({
-    title: b.title,
+  const fill = s => (s || "").replace(/\{N\}/g, champ.name);
+
+  const mapSet = (b, idx, kind) => ({
+    title: b.title + (kind === 'urf' ? ` (${idx + 1})` : ''),
     analysis: fill(b.analysis),
-    items: b.items,
+    items: b.items || [],
     keystone: b.keystone,
     primaryPath: b.primaryPath,
     minors: b.minors,
     secondaryPath: b.secondaryPath,
     secondary: b.secondary
   });
+
+  const normalBase = (def.normal && def.normal.length) ? def.normal[0] : null;
+  const normal = normalBase ? [mapSet(normalBase, 0, 'normal')] : [];
+
+  const urfBase = def.urf || [];
+  const urf = [];
+  if (urfBase.length === 0) {
+    if (normalBase) {
+      for (let i = 0; i < 3; i++) urf.push(mapSet(normalBase, i, 'urf'));
+    }
+  } else {
+    for (let i = 0; i < 3; i++) {
+      const base = urfBase[i % urfBase.length];
+      urf.push(mapSet(base, i, 'urf'));
+    }
+  }
+
   return {
     archetype: arch,
     label: def.label,
-    normal: def.normal.map(mapSet),
-    urf: (def.urf || []).map(mapSet)
+    normal,
+    urf
   };
+}
+
+try {
+  const VALID_ITEMS = typeof ITEM_INFO !== 'undefined' ? Object.keys(ITEM_INFO) : null;
+  const VALID_RUNES = typeof RUNE_INFO !== 'undefined' ? Object.keys(RUNE_INFO) : null;
+  const _origGenerate = generateBuilds;
+  generateBuilds = function(champ) {
+    const out = _origGenerate(champ);
+    if (out.normal && out.normal.length > 0) {
+      out.normal = out.normal.map(b => validateBuild(b, VALID_ITEMS, VALID_RUNES, out));
+    }
+    if (out.urf && out.urf.length > 0) {
+      out.urf = out.urf.map(b => validateBuild(b, VALID_ITEMS, VALID_RUNES, out));
+    }
+    return out;
+  };
+
+  function validateBuild(b, validItems, validRunes, out) {
+    const res = Object.assign({}, b);
+    if (validRunes) {
+      if (!validRunes.includes(res.keystone)) res.keystone = Object.keys(RUNE_INFO)[0];
+      if (Array.isArray(res.minors)) {
+        res.minors = res.minors.map(m => validRunes.includes(m) ? m : Object.keys(RUNE_INFO)[0]);
+      } else {
+        res.minors = [Object.keys(RUNE_INFO)[0], Object.keys(RUNE_INFO)[0], Object.keys(RUNE_INFO)[0]];
+      }
+      if (!validRunes.includes(res.secondary)) res.secondary = Object.keys(RUNE_INFO)[0];
+      if (!res.primaryPath) res.primaryPath = 'Precision';
+      if (!res.secondaryPath) res.secondaryPath = 'Sorcery';
+    }
+
+    const basePool = [];
+    if (out && out.archetype) {
+      const archDef = ARCH[out.archetype] || {};
+      if (archDef.normal) archDef.normal.forEach(x => (x.items || []).forEach(it => basePool.push(it)));
+      if (archDef.urf) archDef.urf.forEach(x => (x.items || []).forEach(it => basePool.push(it)));
+    }
+    let items = Array.isArray(res.items) ? res.items.filter(it => !validItems || validItems.includes(it)) : [];
+    for (const it of basePool) {
+      if (items.length >= 6) break;
+      if ((!validItems || validItems.includes(it)) && !items.includes(it)) items.push(it);
+    }
+    if (validItems) {
+      for (const it of validItems) {
+        if (items.length >= 6) break;
+        if (!items.includes(it)) items.push(it);
+      }
+    }
+    res.items = items.slice(0, 6);
+    return res;
+  }
+} catch (e) {
+  // If ITEM_INFO or RUNE_INFO aren't available at runtime, skip validation silently.
 }
