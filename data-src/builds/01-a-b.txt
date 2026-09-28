@@ -1,0 +1,152 @@
+# Format: patrz tools/compile_builds.py
+# N = tryb zwykły, A = ARAM, U = URF, S = przedmioty sytuacyjne
+
+@ aatrox
+I Baron | Bruiser, który leczy się z każdego trafienia (wampiryzm fizyczny z E) i rośnie w siłę w długich walkach. Kluczem jest trafianie krawędziami Q oraz wydłużanie superumiejętności kolejnymi zabójstwami.
+N|Klasyczny bruiser|Baron|conq|triumph laststand bloodline|bone|steel|ecl sky bc dd ga|Eclipse daje burst w krótkich wymianach, Sundered Sky i Death's Dance utrzymują przy życiu w długich walkach, a Black Cleaver pomaga drużynie przeciw tankom.
+N|Goredrinker – walka w tłumie|Baron|conq|triumph laststand haste|unshake|mercs|gore shojin sterak dd ga|Aktywny Goredrinker leczy za każdego trafionego wroga, więc Aatrox wygrywa teamfighty w środku wrogiej drużyny. Mercury's Treads przeciw kontroli tłumu.
+A|Wampir teamfightów|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd chem|W ARAM walka trwa bez przerwy – omnivamp z butów, Goredrinker i Sundered Sky dają ogromne leczenie, a Chempunk tnie leczenie wrogów.
+A|Tankowaty frontliner|Tank|conq|unshake secondwind overgrowth|triumph|steel|ecl bloodmail sterak dd thorn|Wariant odporny na poke: dużo zdrowia i pancerza, a Overlord's Bloodmail zamienia zdrowie w obrażenia. Thornmail karze wrogie autoataki i leczenie.
+U|Nieśmiertelny rzeźnik|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl sky sery dd ga|W URF Aatrox ciągle używa Q i E – czyste obrażenia z przebiciem pancerza i leczenie ze wszystkich trafień.
+U|Goredrinker bez przerwy|Bruiser|conq|zeal cutdown bloodline|bone|steel|gore sterak shojin bc ga|Krótkie czasy odnowienia pozwalają używać Goredrinkera w każdej wymianie, a Spear of Shojin wzmacnia obrażenia umiejętności.
+S maw ga chem bc sery thorn qss titanic hull sunderer
+
+@ ahri
+I Mid | Mobilna magini z burstem: urok (E) zamyka cel, a trzy doskoki superumiejętności pozwalają ścigać lub uciekać. Świetna w pick-offach i roamingu.
+N|Burst z urokiem|Mid|elec|impact hubris eyeball|transc|bmana|luden surge rab void zhonya|Electrocute i Luden's Echo zabijają cel po jednym trafieniu uroku. Stormsurge przyspiesza po zabójstwie, a Zhonya's chroni przed zabójcami.
+N|Rocketbelt – roaming|Mid|elec|impact hubris relentless|focus|ionian|belt malig rab crypt zhonya|Hextech Rocketbelt daje dodatkowy doskok do łapania uroku z zaskoczenia, a Malignance skraca odnowienie superumiejętności do częstego roamingu.
+A|Poke i pick-off|Poke|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet i Scorch nagradzają trafianie Q z dystansu; Horizon Focus wzmacnia poke z ponad 600 jednostek.
+A|Bezpieczny burst|Burst|elec|impact tyrant eyeball|secondwind|mercs|luden surge rab zhonya banshee|Wersja defensywna na ARAM pełen kontroli tłumu – Banshee's Veil blokuje inicjację, a Zhonya's ratuje przed nurkującymi wrogami.
+U|Nieskończone doskoki|Burst|elec|impact tyrant eyeball|focus|bmana|luden surge orb rab void|W URF superumiejętność jest dostępna niemal stale – maksymalne obrażenia i Infinity Orb do dobijania.
+U|Rocketbelt i dobijanie|Burst|dh|impact tyrant eyeball|gstorm|bmana|belt luden orb rab void|Dark Harvest zbiera dusze z każdej potyczki, a Rocketbelt daje czwarty doskok.
+S zhonya banshee void crypt orb morello horizon rab ocean
+
+@ akali
+I Mid, Baron | Zabójczyni oparta na energii, niewidzialna w chmurze dymu (W). Wchodzi w walkę E i superumiejętnością, a Q zadaje obrażenia obszarowe i spowalnia.
+N|Klasyczny zabójca AP|Mid|elec|impact hubris eyeball|focus|bmana|surge lich rab void banshee|Stormsurge i Lich Bane dają ogromny burst w jednym combo (Q–E–R), a Banshee's chroni przed kontrolą tłumu przy wejściu.
+N|Hybrydowy wojownik|Baron|conq|triumph laststand bloodline|bone|glut|rift dnd rab void banshee|Na Baronie Akali gra dłuższe wymiany: Conqueror, Riftmaker i Dusk and Dawn dają leczenie i obrażenia w długich walkach.
+A|Wejście w tłum|Bruiser|conq|triumph laststand bloodline|secondwind|glut|rift dnd liandry rab banshee|W ARAM trudno o izolowane cele – Riftmaker i Liandry's pozwalają przetrwać i niszczyć tanki.
+A|Burst z flanki|Burst|elec|impact tyrant eyeball|bone|mercs|surge orb rab void banshee|Dla drużyn z silnym frontem: wejście z boku, szybkie zabójstwo celu i ucieczka.
+U|Spam Q|Bruiser|conq|triumph laststand bloodline|focus|glut|rift liandry dnd rab void|W URF energia i odnowienia nie ograniczają – Akali leczy się stale dzięki Riftmaker i Conqueror.
+U|Nieuchwytna zabójczyni|Burst|elec|impact tyrant eyeball|gstorm|bmana|surge lich orb rab void|Maksymalny burst: doskoki co kilka sekund, Lich Bane po każdej umiejętności i Infinity Orb do dobijania.
+S banshee void rab liandry morello rift crypt lich orb
+
+@ akshan
+I Mid, Baron | Dystansowy zabójca: hak (E) do kiting-u, niewidzialność W i wskrzeszanie sojuszników przez zabicie ich zabójcy. Pasywka zadaje dodatkowe obrażenia co trzeci atak.
+N|Krytyczny zabójca|Mid|fleet|triumph laststand alacrity|bone|bers|storm ie hexop ldr shieldbow|Stormrazor wzmacnia pasywkę i daje prędkość ruchu, Infinity Edge i Hexoptics dają obrażenia z dystansu.
+N|Lethality – roaming|Mid|elec|impact hubris relentless|celerity|dyn|ghost coll eon sery ga|Szybkie zabijanie celów z W i E: przebicie pancerza i prędkość ruchu z Youmuu's.
+A|Teamfight z dystansu|DPS|fleet|triumph laststand bloodline|bone|bers|yuntal ie runaan ldr shieldbow|Runaan's Hurricane i Yun Tal dają obrażenia na wielu celach; Immortal Shieldbow chroni przed wejściami.
+A|Kiting i sustain|DPS|lt|triumph cutdown bloodline|secondwind|bers|kraken bork pd ldr ga|Lethal Tempo i Kraken Slayer do długich wymian, BoRK daje kradzież życia.
+U|Karabin maszynowy|DPS|lt|triumph coup alacrity|focus|bers|kraken ie pd ldr bt|W URF hak jest dostępny niemal ciągle – dużo prędkości ataku i obrażeń krytycznych.
+U|Egzekutor|Burst|dh|impact tyrant eyeball|gstorm|dyn|coll ghost eon sery ga|Dark Harvest i The Collector dobijają cele po każdej wymianie.
+S ga shieldbow ldr mr eon qss wits bt
+
+@ alistar
+I Support | Tank inicjujący z potężną kontrolą tłumu (combo W+Q) i superumiejętnością redukującą obrażenia. Leczy sojuszników pasywką.
+N|Inicjator|Support|ice|colossus bone overgrowth|hexflash|steel|locket zeke virtue twin garg|Ice Overlord i Courage of the Colossus nagradzają combo W+Q. Locket i Zeke's wzmacniają drużynę przy każdym wejściu.
+N|Ochroniarz|Support|guard|unshake nullorb revital|transc|mercs|locket vow trap virtue fh|Guardian i Knight's Vow chronią strzelca, a Yordle Trap daje drużynie prędkość ataku po każdej kontroli tłumu.
+A|Front drużyny|Tank|ice|colossus secondwind overgrowth|transc|steel|locket zeke virtue despair twin|W ARAM Alistar ciągle wchodzi w walkę – dużo tarcz i leczenia dla drużyny.
+A|Anty-dive|Tank|guard|unshake bone persev|celerity|mercs|locket vow fh despair virtue|Ochrona carry przed zabójcami: Frozen Heart spowalnia ataki wrogów.
+U|Pinball|Tank|ice|colossus secondwind overgrowth|focus|steel|zeke virtue despair twin garg|W URF combo W+Q jest dostępne co kilka sekund – Ice Overlord i Zeke's zadają obrażenia przy każdym wejściu.
+U|Niezniszczalny|Tank|grasp|colossus secondwind overgrowth|triumph|mercs|heart despair twin garg thorn|Grasp i Heartsteel skalują z częstym wchodzeniem w walkę; ogromne zdrowie i leczenie.
+S fh thorn kaenic fon abyssal mandate dawn randuin
+
+@ ambessa
+I Baron, Dżungla | Wojowniczka z krótkimi doskokami przy każdej umiejętności. Zadaje obrażenia seriami ataków i przyciąga cel superumiejętnością.
+N|Agresywny bruiser|Baron|conq|zeal laststand haste|bone|dyn|ecl sky sery dd ga|Eclipse i Serylda's Grudge dają burst w krótkich wymianach, a Death's Dance utrzymuje przy życiu po wejściu superumiejętnością.
+N|Łowczyni z dżungli|Dżungla|conq|triumph laststand bloodline|celerity|glut|ecl shojin bc sterak ga|Spear of Shojin wzmacnia ciągłe używanie umiejętności, a Black Cleaver pomaga zabijać tanki.
+A|Wojowniczka frontowa|Bruiser|conq|triumph laststand bloodline|secondwind|glut|ecl sky sterak dd chem|Sundered Sky i Sterak's utrzymują w ciągłej walce, Chempunk tnie leczenie wroga.
+A|Łowczyni carry|Burst|conq|zeal cutdown haste|bone|dyn|ecl ghost sery eon ga|Wersja zabójcy: superumiejętność na strzelca i szybkie zabójstwo.
+U|Ciągłe doskoki|Bruiser|conq|zeal laststand bloodline|focus|glut|ecl sky sery dd ga|W URF Ambessa używa umiejętności non stop – ogrom doskoków i leczenia.
+U|Burst egzekutora|Burst|elec|impact tyrant eyeball|gstorm|dyn|ecl ghost sery eon ga|Electrocute i lethality do zabijania celów jednym combo.
+S ga maw sterak chem bc sery eon titanic hull
+
+@ amumu
+I Dżungla, Support | Tank z kontrolą tłumu obszarową – superumiejętność ogłusza całą drużynę wroga, a W zadaje obrażenia w czasie.
+N|Tank z dżungli|Dżungla|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin fon thorn|Sunfire Aegis wzmacnia czyszczenie obozów i obrażenia obszarowe, a Ice Overlord nagradza superumiejętność.
+N|AP bomba|Dżungla|elec|cheap tyrant eyeball|transc|bmana|liandry rylai rab void banshee|Wariant AP: Liandry's i Rylai's zamieniają superumiejętność w ogromne obrażenia.
+A|Mumia-inicjator|Tank|ice|colossus secondwind overgrowth|transc|mercs|hollow despair abyssal twin thorn|Hollow Radiance i Unending Despair zadają obrażenia w tłumie, Abyssal Mask wzmacnia magów w drużynie.
+A|Magiczny tank|Tank AP|grasp|colossus secondwind overgrowth|scorch|steel|liandry rylai despair abyssal twin|Połączenie tankowania i obrażeń z Liandry's.
+U|Obrażenia w obszarze|Burst|elec|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void cosmic|W URF superumiejętność co chwilę – AP zamienia każde wejście w zabójstwo.
+U|Wieczny tank|Tank|ice|colossus secondwind overgrowth|focus|steel|hollow despair heart twin thorn|Wieczne wejścia w wroga i ciągłe obrażenia z Hollow Radiance.
+S thorn fon kaenic randuin fh abyssal mantle garg dmp
+
+@ annie
+I Mid, Support | Magini z burstem – co czwarta umiejętność ogłusza, a Tibbers wchodzi w walkę jak drugi tank. Idealna do pick-offów z Mignięcia.
+N|Burst z ogłuszeniem|Mid|elec|cheap tyrant eyeball|transc|bmana|luden surge rab void zhonya|Klasyczne combo Mignięcie + Tibbers: Luden's i Stormsurge zabijają cel w sekundę.
+N|Wsparcie z kontrolą|Support|aery|manaflow transc scorch|bone|ionian|mandate helia zhonya rab void|Na supporcie Annie ogłusza i wzmacnia obrażenia sojuszników dzięki Imperial Mandate.
+A|Bomba teamfightowa|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden liandry rab void zhonya|Tibbers na kilku wrogów – Liandry's podpala wszystkich w obszarze.
+A|Przetrwanie|Poke|comet|manaflow transc scorch|bone|mercs|luden rylai rab banshee zhonya|Bezpieczniejsza wersja z Rylai's do spowalniania i Banshee's przeciw kontroli tłumu.
+U|Ciągłe ogłuszenia|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden surge orb rab void|W URF pasywka ładuje się niemal od razu – ogłuszenie co 2 sekundy i maksymalny burst.
+U|Tibbers wiecznie|Burst|dh|cheap tyrant eyeball|focus|bmana|liandry rylai rab void zhonya|Dark Harvest i obrażenia w czasie – Tibbers pali wrogów w każdej walce.
+S zhonya banshee void morello rylai orb horizon liandry
+
+@ ashe
+I Dragon, Support | Strzelczyni z użytkową kontrolą tłumu – każdy atak spowalnia, a strzała superumiejętności ogłusza z drugiego końca mapy.
+N|Krytyczna salwa|Dragon|lt|triumph cutdown alacrity|bone|bers|yuntal ie runaan ldr shieldbow|Yun Tal i Runaan's Hurricane z Q Ashe dają gigantyczny DPS; Infinity Edge wzmacnia krytyki.
+N|On-hit Ashe|Dragon|lt|triumph cutdown alacrity|celerity|bers|kraken rage bork ldr ga|Guinsoo's i Kraken Slayer nakładają efekty on-hit, a BoRK spowalnia i leczy.
+A|Wsparcie ze strzałą|DPS|lt|triumph laststand bloodline|bone|bers|yuntal ie runaan ldr ga|W ARAM Runaan's trafia kilka celów naraz, a strzała superumiejętności inicjuje walki.
+A|Utility i ochrona|DPS|fleet|triumph cutdown bloodline|secondwind|bers|kraken bork runaan mr shieldbow|Fleet Footwork i BoRK dają sustain w długich walkach; Mortal Reminder przeciw leczeniu.
+U|Kaskada strzał|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie runaan ldr bt|W URF Q Ashe jest aktywne niemal stale – maksymalna prędkość ataku i krytyki.
+U|Spowalniająca maszyna|DPS|lt|triumph laststand bloodline|bone|bers|kraken rage runaan bork ga|Efekty on-hit na wielu celach dzięki Runaan's i Rageblade.
+S ga shieldbow mr ldr qss scimitar wits bt runaan
+
+@ aurelion-sol
+I Mid | Mag skalujący się z ładunkami Gwiezdnego Pyłu. Oddech (Q) zadaje ciągłe obrażenia, W pozwala latać nad ścianami, a superumiejętność zrzuca gwiazdę.
+N|Skalujący smok|Mid|comet|manaflow transc gstorm|bone|bmana|roa liandry rab void zhonya|Rod of Ages i Liandry's pasują do ciągłego oddechu; Gathering Storm dodaje obrażeń w późnej grze.
+N|Mana i burst|Mid|elec|cheap tyrant eyeball|transc|ionian|aa torch rab void zhonya|Archangel's Staff zasila spam Q, a Blackfire Torch podpala wszystkich w oddechu.
+A|Artyleria|Poke|comet|manaflow transc scorch|secondwind|bmana|torch liandry rab void zhonya|Ciągły oddech w grupę wrogów – Blackfire Torch i Liandry's przy wielu celach.
+A|Bezpieczny mag|Poke|aery|manaflow transc gstorm|bone|mercs|roa rylai liandry rab banshee|Rylai's utrudnia ucieczkę, Banshee's chroni przed wejściami.
+U|Nieskończony oddech|DPS|dh|cheap tyrant eyeball|gstorm|bmana|torch liandry rab void zhonya|Brak kosztu many – Aurelion zieje ogniem non stop, podpalając wszystkich.
+U|Gwiezdny grad|Burst|comet|axiom celerity scorch|bone|bmana|luden surge rab void orb|Superumiejętność co kilka sekund i duży burst.
+S zhonya banshee void morello rylai liandry crypt roa
+
+@ aurora
+I Mid, Baron | Mobilna magini, która skacze między światami. Q przyciąga klątwy, W daje niewidzialność i resetuje się przy zabójstwach.
+N|Burst z resetami|Mid|elec|impact hubris eyeball|transc|bmana|luden surge rab void zhonya|Zabójstwa resetują W – Luden's i Stormsurge dobijają cele, a Zhonya's ratuje po wejściu.
+N|Bruiser na Baronie|Baron|conq|triumph laststand bloodline|bone|glut|rift liandry rab void zhonya|Pasywka leczy, a Riftmaker i Conqueror wzmacniają długie wymiany na linii.
+A|Leczenie z duchów|Bruiser|conq|triumph laststand bloodline|secondwind|glut|rift liandry rab void zhonya|W ARAM pasywka leczy bez przerwy – Riftmaker i Liandry's zwiększają obrażenia w długich walkach.
+A|Łowczyni celów|Burst|elec|impact tyrant eyeball|bone|mercs|luden surge rab banshee zhonya|Szybkie zabicie jednego celu i ucieczka przez W.
+U|Ciągłe resety|Burst|elec|impact tyrant eyeball|gstorm|bmana|luden surge orb rab void|Maksymalny burst – każde zabójstwo daje reset i nowy skok.
+U|Wieczna walka|Bruiser|conq|triumph laststand bloodline|focus|glut|rift liandry rab void zhonya|Conqueror i omnivamp z Riftmaker dają leczenie przy ciągłym spamie umiejętności.
+S zhonya banshee void morello liandry crypt orb rab
+
+@ bard
+I Support | Wędrujący wsparcie – zbiera dzwonki, spowalnia i ogłusza Q, leczy kapliczkami (W) i tworzy tunele (E). Superumiejętność zatrzymuje czas.
+N|Wędrowiec|Support|guard|colossus bone revital|celerity|ionian|shurelya helia zeke locket abyssal|Guardian i Shurelya's pomagają w roamingu i ochronie; Echoes of Helia zamienia obrażenia w leczenie.
+N|Ofensywny Bard|Support|elec|cheap tyrant eyeball|celerity|bmana|helia mandate rab void zhonya|Wariant obrażeń: Q ogłusza, Electrocute i Imperial Mandate zwiększają obrażenia drużyny.
+A|Kapliczki i ogłuszenia|Wsparcie|aery|manaflow transc scorch|revital|ionian|helia mandate harmonic redemp abyssal|W ARAM Bard ogłusza i leczy – Harmonic Echo i Redemption wzmacniają sustain drużyny.
+A|Obrońca|Wsparcie|guard|unshake bone revital|celerity|mercs|locket helia shurelya zeke abyssal|Tarcze i prędkość ruchu dla drużyny w długich teamfightach.
+U|Superumiejętność co chwilę|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void zhonya|W URF ogłuszenia i superumiejętność niemal bez przerwy – AP daje realne obrażenia.
+U|Taktyk wsparcia|Wsparcie|guard|unshake bone revital|celerity|ionian|helia redemp shurelya locket abyssal|Pełne wsparcie drużyny: tarcze, leczenie i przyspieszenie.
+S mikael redemp locket zeke abyssal fh kaenic banshee
+
+@ blitzcrank
+I Support | Tank z hakiem – przyciąga pojedynczy cel i podrzuca go E. Jeden trafiony hak decyduje o wyniku walki.
+N|Łowca haków|Support|ice|colossus bone overgrowth|celerity|ionian|locket zeke virtue trap abyssal|Ice Overlord i Courage of the Colossus po każdym trafionym haku; Zeke's i Yordle Trap wzmacniają drużynę.
+N|Agresywny chwytacz|Support|fs|cheap tyrant relentless|bone|mercs|trap locket zeke fh abyssal|First Strike nagradza trafione haki złotem, a Relentless Hunter pomaga w roamingu.
+A|Hak w tłum|Tank|ice|colossus secondwind overgrowth|celerity|steel|locket zeke virtue despair twin|W ARAM każdy hak to wejście drużyny – dużo tarcz i leczenia.
+A|Zbójnik|Wsparcie|guard|unshake bone revital|transc|mercs|locket trap fh abyssal virtue|Guardian chroni sojuszników po wyciągnięciu celu.
+U|Hak co 2 sekundy|Tank|ice|colossus secondwind overgrowth|focus|steel|zeke despair twin virtue garg|W URF hak niemal bez przerwy – tankowatość i obrażenia z Zeke's.
+U|Magiczny Blitz|Burst|elec|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void banshee|Wariant AP: każde przyciągnięcie to burst obrażeń.
+S fh thorn kaenic fon abyssal mandate dawn randuin
+
+@ brand
+I Mid, Support | Mag podpalający wszystko – pasywka eksploduje po 3 ładunkach, a superumiejętność odbija się między wrogami. Najlepszy w walkach grupowych.
+N|Płonący mag|Mid|dh|cheap tyrant eyeball|transc|bmana|torch liandry rab void zhonya|Blackfire Torch i Liandry's zadają ogromne obrażenia w czasie i skalują z liczbą podpalonych wrogów.
+N|Ofensywne wsparcie|Support|aery|manaflow transc scorch|bone|bmana|torch liandry bloodletter rylai zhonya|Na supporcie Brand zadaje obrażenia od początku gry; Bloodletter's Curse redukuje odporność na magię całej drużyny wroga.
+A|Pożar teamfightu|DPS|dh|cheap tyrant eyeball|transc|bmana|torch liandry bloodletter rab zhonya|W ARAM wrogowie stoją w grupie – idealne warunki do podpalenia wszystkich.
+A|Spowalniający ogień|Poke|comet|manaflow transc scorch|secondwind|mercs|liandry rylai morello rab void|Rylai's dla stałego spowolnienia i Morellonomicon przeciw leczeniu.
+U|Wieczny ogień|DPS|dh|cheap tyrant eyeball|gstorm|bmana|torch liandry rab void zhonya|W URF Brand podpala co sekundę – maksymalne skalowanie z Blackfire Torch.
+U|Seryjne eksplozje|DPS|comet|axiom celerity scorch|bone|bmana|liandry bloodletter rylai rab zhonya|Bloodletter's i Rylai's – wrogowie są spowolnieni i coraz mniej odporni.
+S zhonya banshee void morello rylai bloodletter liandry torch
+
+@ braum
+I Support | Obrońca z tarczą blokującą pociski (E) i ogłuszeniem pasywki. Najlepszy w ochronie strzelca przed dystansowymi zagrożeniami.
+N|Tarcza drużyny|Support|guard|unshake bone revital|celerity|steel|locket vow zeke fh virtue|Guardian i Knight's Vow chronią strzelca; Frozen Heart spowalnia ataki wrogów.
+N|Agresywne ogłuszenia|Support|ice|colossus nullorb overgrowth|celerity|mercs|locket trap zeke abyssal twin|Ice Overlord po ogłuszeniu pasywką, Yordle Trap daje sojusznikom prędkość ataku.
+A|Mur z lodu|Wsparcie|guard|unshake bone revital|transc|steel|locket vow fh despair virtue|Tarcza E blokuje poke w ARAM – Locket i Knight's Vow wzmacniają ochronę.
+A|Ogłuszający tank|Tank|ice|colossus secondwind overgrowth|celerity|mercs|zeke trap despair twin abyssal|Ogłuszenia i spowolnienia co chwilę, Unending Despair leczy w tłumie.
+U|Nieprzebijalny|Wsparcie|guard|unshake bone revital|celerity|steel|locket vow fh twin despair|Tarcza niemal zawsze aktywna – drużyna nie dostaje obrażeń od pocisków.
+U|Ogłuszenia z pasywki|Tank|ice|colossus secondwind overgrowth|focus|mercs|zeke despair twin garg thorn|Ciągła kontrola tłumu i obrażenia z Zeke's.
+S fh thorn kaenic fon abyssal randuin dawn mandate

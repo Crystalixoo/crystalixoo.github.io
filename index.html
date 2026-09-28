@@ -3,14 +3,45 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nowa strona</title>
+  <title>Wild Rift – buildy championów (patch 7.3)</title>
+  <meta name="description" content="Poradnik do Wild Rift: wszyscy championowie, rekomendowane buildy na tryb zwykły, ARAM i URF oraz przedmioty sytuacyjne dla patcha 7.3." />
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <main>
-    <h1>Nowa strona</h1>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><span class="logo-mark">WR</span><span>Rift Poradnik<small>Buildy do Wild Rift</small></span></a>
+      <span class="patch-badge" id="patch-badge">Patch 7.3</span>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Championowie Wild Rift</h1>
+      <p>Wybierz championa, aby zobaczyć jego opis, umiejętności oraz rekomendowane buildy: 2 na tryb zwykły, 2 na ARAM i 2 na URF, a także listę przedmiotów sytuacyjnych. Wszystkie przedmioty i runy pochodzą z aktualnego patcha Wild Rift.</p>
+    </section>
+
+    <div class="toolbar">
+      <label class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Szukaj championa…" autocomplete="off" aria-label="Szukaj championa" />
+      </label>
+      <div class="chips" id="roles" role="group" aria-label="Filtr ról"></div>
+    </div>
+    <p class="count" id="count"></p>
+    <div class="grid" id="grid"></div>
   </main>
 
-  <script src="js/main.js"></script>
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Dane: patch 7.3 (22.09.2026) – oficjalne patch notes Wild Rift 7.1–7.3, strona championów Wild Rift, statystyki przedmiotów i run z WildRiftFire.</p>
+      <p>Nieoficjalny poradnik fanowski. Wild Rift i League of Legends są znakami towarowymi Riot Games.</p>
+    </div>
+  </footer>
+
+  <script src="js/data/champions.js"></script>
+  <script src="js/data/builds.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/index.js"></script>
 </body>
 </html>
