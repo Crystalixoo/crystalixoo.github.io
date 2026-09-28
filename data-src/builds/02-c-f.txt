@@ -1,0 +1,139 @@
+@ caitlyn
+I Dragon | Strzelczyni z najdłuższym zasięgiem ataku – dominuje linię pułapkami (W) i strzałami w głowę z pasywki. Silna w oblężeniach wież.
+N|Snajper krytyczny|Dragon|fleet|triumph cutdown alacrity|bone|bers|yuntal ie hexop ldr shieldbow|Yun Tal i Infinity Edge wzmacniają strzały w głowę, a Hexoptics C44 zwiększa obrażenia z dystansu i zasięg po zabójstwach.
+N|Presja na linii|Dragon|lt|triumph cutdown alacrity|celerity|bers|storm ie pd ldr ga|Stormrazor wygrywa wymiany na linii dzięki naładowanym atakom, a Phantom Dancer daje prędkość ataku i ruchu do kitingu.
+A|Poke z dystansu|Poke|fleet|triumph cutdown bloodline|bone|bers|rfc ie hexop ldr shieldbow|W ARAM zasięg to życie – Rapid Firecannon pozwala atakować bez wchodzenia w zasięg wrogów.
+A|Teamfightowy DPS|DPS|lt|triumph laststand bloodline|secondwind|bers|yuntal ie runaan ldr ga|Runaan's Hurricane trafia kilka celów w ciasnej linii ARAM.
+U|Grad strzałów w głowę|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie hexop ldr bt|W URF pułapki i siatka są dostępne ciągle – każda pułapka to strzał w głowę.
+U|Egzekucja z dystansu|Burst|dh|impact tyrant eyeball|gstorm|dyn|coll hexop ie ldr ga|Dark Harvest i The Collector dobijają cele serią Q + E + strzał w głowę.
+S ga shieldbow ldr mr qss scimitar wits bt rfc
+
+@ camille
+I Baron | Precyzyjna wojowniczka: przylgnięcie do ściany (E), obrażenia nieuchronne z Q i superumiejętność izolująca cel. Świetna w pojedynkach i split-pushu.
+N|Pojedynki na linii|Baron|conq|triumph laststand haste|bone|steel|tri ecl sky dd ga|Trinity Force i Spellblade idealnie pasują do wzmocnionego Q; Sundered Sky i Death's Dance dają przeżywalność.
+N|Zabójca z hakiem|Baron|conq|zeal cutdown haste|celerity|dyn|tri ecl sery eon ga|Wariant na agresywne wejścia na carry: przebicie pancerza i Edge of Night przeciw kontroli tłumu.
+A|Bruiser frontowy|Bruiser|conq|triumph laststand bloodline|secondwind|steel|tri sky sterak dd chem|W ARAM Camille łapie cele superumiejętnością i walczy długo dzięki Sterak's i Sundered Sky.
+A|Dive na carry|Burst|conq|zeal cutdown haste|bone|mercs|tri ecl sery maw ga|Wejście na strzelca z E i superumiejętnością; Maw chroni przed burstem magów.
+U|Wieczne przylgnięcie|Bruiser|conq|triumph laststand bloodline|focus|glut|tri ecl sky dd ga|W URF E jest dostępne co chwilę – Camille skacze od ściany do ściany i leczy się w walce.
+U|Obrażenia nieuchronne|Burst|conq|zeal coup bloodline|bone|dyn|tri ecl sery bt ga|Seria wzmocnionych Q z Trinity Force i przebiciem pancerza.
+S ga maw sterak chem bc sery eon hull titanic qss
+
+@ chogath
+I Baron, Dżungla | Tank rosnący z każdą zjedzoną ofiarą superumiejętności. Q podrzuca, W ucisza, a pasywka regeneruje zdrowie.
+N|Nieskończony wzrost|Baron|grasp|demolish secondwind overgrowth|haste|steel|heart sunfire twin despair fon|Heartsteel i Overgrowth dodają zdrowie, które wzmacnia superumiejętność i Grasp.
+N|AP Cho'Gath|Baron|elec|cheap tyrant eyeball|transc|bmana|liandry rylai rab zhonya void|Wariant AP: Rylai's spowalnia, a podrzucenie Q + ucieczka + superumiejętność zabijają nieostrożnych.
+A|Wielki front|Tank|grasp|colossus secondwind overgrowth|haste|steel|heart despair twin warmog thorn|W ARAM Heartsteel i Warmog's dają ogromne zdrowie – Cho'Gath rośnie z każdym zjedzeniem.
+A|Magiczny tank|Tank AP|elec|cheap tyrant eyeball|secondwind|mercs|liandry rylai rift rab zhonya|Liandry's i Riftmaker zamieniają zdrowie w obrażenia, Rylai's spowalnia całą grupę.
+U|Pożeracz|Tank|grasp|colossus secondwind overgrowth|focus|steel|heart despair twin warmog garg|W URF superumiejętność co kilka sekund – Cho'Gath rośnie do gigantycznych rozmiarów.
+U|Artyleria z pustki|Burst|dh|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void zhonya|Dark Harvest i AP – każde Q i superumiejętność to ogromne obrażenia.
+S thorn fon kaenic randuin fh abyssal garg mantle rylai zhonya
+
+@ corki
+I Mid, Dragon | Hybrydowy strzelec z obrażeniami magicznymi i fizycznymi. Rakiety superumiejętności nękają z daleka, a Pakunek daje szansę na dużą rotację.
+N|Artyleria hybrydowa|Mid|comet|manaflow transc scorch|bone|dyn|er ie hexop ldr ga|Essence Reaver i Spellblade wzmacniają rakiety i ataki, Hexoptics C44 nagradza walkę z dystansu; Arcane Comet nagradza poke.
+N|Hybrydowe DPS|Dragon|fleet|triumph cutdown alacrity|celerity|bers|er rage ie ldr ga|Guinsoo's daje obrażenia magiczne przy ataku, pasujące do obrażeń mieszanych Corkiego.
+A|Rakietowy poke|Poke|comet|manaflow transc scorch|secondwind|dyn|er manamune ie ldr ga|W ARAM rakiety bez przerwy – Manamune i Essence Reaver zasilają manę.
+A|Frontowy DPS|DPS|fleet|triumph laststand bloodline|bone|bers|er ie bt ldr shieldbow|Kradzież życia i tarcza Shieldbow do przetrwania ciągłych walk.
+U|Deszcz rakiet|Poke|comet|axiom celerity scorch|bone|dyn|er hexop ie ldr bt|W URF rakiety superumiejętności spadają co chwilę.
+U|Hybrydowa egzekucja|Burst|elec|impact tyrant eyeball|gstorm|dyn|er coll ie ldr ga|Electrocute i The Collector – szybkie zabicie celu serią rakiet.
+S ga shieldbow ldr mr sery qss wits bt maw
+
+@ darius
+I Baron | Juggernaut kumulujący krwawienie (pasywka) i wykonujący egzekucję superumiejętnością, która resetuje się po zabójstwie.
+N|Egzekutor Noxusu|Baron|conq|triumph laststand haste|bone|steel|stride sky sterak dd ga|Stridebreaker daje doskok i spowolnienie potrzebne Dariusowi do przyklejenia się do celu; Sterak's i Death's Dance utrzymują przy życiu.
+N|Tankowaty juggernaut|Baron|grasp|demolish secondwind overgrowth|triumph|mercs|stride bloodmail sterak despair fon|Grasp i dużo zdrowia – Overlord's Bloodmail zamienia zdrowie w obrażenia.
+A|Rzeźnik ARAM|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd thorn|Goredrinker trafia wiele celów w ciasnej linii i leczy za każdego.
+A|Pełne ładunki|Tank|conq|unshake secondwind overgrowth|triumph|steel|stride bloodmail sterak fon twin|Wytrzymała wersja do ciągłego nakładania krwawienia.
+U|Seryjne egzekucje|Bruiser|conq|triumph laststand bloodline|focus|glut|stride sky sterak dd ga|W URF Q i superumiejętność co chwilę – leczenie z Q i resety egzekucji.
+U|Wir krwi|Bruiser|conq|zeal cutdown bloodline|bone|steel|gore bc sterak dd titanic|Goredrinker i Black Cleaver – krwawienie i redukcja pancerza na całej drużynie.
+S ga maw sterak chem bc dd thorn fon qss titanic
+
+@ diana
+I Dżungla, Mid | Wojowniczka AP z doskokiem, który resetuje się na oznaczonym celu, oraz superumiejętnością przyciągającą wrogów.
+N|Dżunglowy burst|Dżungla|elec|impact hubris eyeball|focus|bmana|surge lich rab void zhonya|Doskok Q+E i Lich Bane zadają ogromny burst; Zhonya's po wejściu w środek walki.
+N|Wojowniczka AP|Mid|conq|triumph laststand bloodline|bone|glut|rift dnd rab void zhonya|Riftmaker i Dusk and Dawn dają leczenie i obrażenia przy długiej walce w zwarciu.
+A|Nurek AP|Burst|elec|impact tyrant eyeball|secondwind|bmana|belt lich rab void zhonya|Rocketbelt i superumiejętność przyciągają kilku wrogów naraz.
+A|Wytrzymała Diana|Bruiser|conq|triumph laststand bloodline|bone|mercs|rift dnd liandry rab zhonya|W ARAM długie walki – Riftmaker i Liandry's niszczą tanki.
+U|Nieskończone doskoki|Burst|elec|impact tyrant eyeball|gstorm|bmana|belt lich orb rab void|W URF doskoki co chwilę i Infinity Orb do dobijania.
+U|Księżycowa wojowniczka|Bruiser|conq|triumph laststand bloodline|focus|glut|rift dnd liandry rab void|Leczenie z Conqueror i Riftmaker w ciągłej walce.
+S zhonya banshee void rab liandry rift crypt orb lich
+
+@ dr-mundo
+I Baron, Dżungla | Tank regenerujący ogromne ilości zdrowia (superumiejętność) i rzucający tasakiem. Staje się niemal niezniszczalny w późnej grze.
+N|Niezniszczalny lekarz|Baron|grasp|demolish secondwind overgrowth|haste|steel|heart sunfire warmog twin fon|Heartsteel i Warmog's dają ogromne zdrowie, które skaluje leczenie superumiejętności i obrażenia E.
+N|Dżunglowy Mundo|Dżungla|conq|triumph laststand haste|unshake|mercs|titanic heart sterak twin fon|Titanic Hydra i Sterak's zamieniają zdrowie w obrażenia z ataków.
+A|Tank z tasakiem|Tank|grasp|colossus secondwind overgrowth|haste|steel|heart warmog despair twin thorn|W ARAM Mundo trafia tasakiem z bezpiecznej odległości i przeżywa każdą walkę.
+A|Bruiser zdrowia|Bruiser|conq|triumph laststand bloodline|secondwind|mercs|titanic heart sterak bloodmail fon|Overlord's Bloodmail i Titanic Hydra – obrażenia skalujące ze zdrowiem.
+U|Wieczna regeneracja|Tank|grasp|colossus secondwind overgrowth|focus|steel|heart warmog despair twin garg|W URF superumiejętność co chwilę – Mundo leczy się szybciej, niż wrogowie zadają obrażenia.
+U|Tasaki bez końca|Bruiser|conq|triumph laststand bloodline|focus|mercs|titanic bloodmail sterak heart thorn|Ciągłe rzucanie tasaków i ataki z Titanic Hydra.
+S thorn fon kaenic randuin fh garg mantle despair sterak
+
+@ draven
+I Dragon | Najbardziej agresywny strzelec – łapie wirujące topory dla ogromnych obrażeń i zbiera dodatkowe złoto z pasywki.
+N|Kat z toporami|Dragon|fleet|triumph cutdown bloodline|bone|bers|hexop ie coll ldr ga|Hexoptics i Infinity Edge wzmacniają ogromne obrażenia toporów, The Collector dobija cele.
+N|Snowball z linii|Dragon|lt|triumph coup alacrity|celerity|bers|storm ie bt ldr ga|Stormrazor wygrywa wymiany na linii, a Bloodthirster daje przeżywalność.
+A|Topory w tłum|DPS|fleet|triumph laststand bloodline|secondwind|bers|yuntal ie bt ldr shieldbow|W ARAM Bloodthirster i Shieldbow pozwalają walczyć bez wracania do bazy.
+A|Burst toporami|Burst|fleet|triumph coup bloodline|bone|dyn|hexop ie coll mr ga|Mortal Reminder przeciw leczeniu i The Collector do egzekucji.
+U|Deszcz toporów|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie hexop ldr bt|W URF E i W ciągle aktywne – Draven kituje i łapie topory bez przerwy.
+U|Szybki kat|Burst|fleet|triumph cutdown bloodline|gstorm|bers|hexop ie coll ldr ga|Maksymalne obrażenia z pojedynczych toporów.
+S ga shieldbow ldr mr bt qss scimitar wits
+
+@ ekko
+I Mid, Dżungla | Zabójca manipulujący czasem – superumiejętność cofa go do pozycji sprzed kilku sekund i leczy. W tworzy strefę ogłuszenia.
+N|Burst z przeszłości|Mid|elec|impact hubris eyeball|focus|bmana|belt lich rab void zhonya|Rocketbelt i Lich Bane – szybki burst po trzecim trafieniu pasywki.
+N|Dżunglowy zabójca|Dżungla|dh|impact tyrant eyeball|celerity|bmana|belt surge rab void banshee|Dark Harvest i Stormsurge dobijają cele po gankach.
+A|Nurek AP|Burst|elec|impact tyrant eyeball|secondwind|bmana|belt lich rab zhonya void|Wejście, burst i cofnięcie superumiejętnością.
+A|Tankowaty Ekko|Bruiser|conq|triumph laststand bloodline|bone|mercs|rift dnd liandry rab zhonya|W ARAM długie walki – Riftmaker i Dusk and Dawn dają sustain.
+U|Pętla czasu|Burst|elec|impact tyrant eyeball|gstorm|bmana|belt lich orb rab void|W URF cofanie czasu co kilka sekund – praktycznie niezabijalny.
+U|Wieczny wojownik|Bruiser|conq|triumph laststand bloodline|focus|glut|rift dnd liandry rab void|Riftmaker i Conqueror dają ciągłe leczenie w walce.
+S zhonya banshee void rab lich orb crypt morello rift
+
+@ evelynn
+I Dżungla | Zabójczyni w kamuflażu – niewidzialna poza walką od 6. poziomu, urokiem (W) łapie cel i zabija go w sekundę.
+N|Cicha zabójczyni|Dżungla|elec|impact hubris eyeball|celerity|bmana|surge lich rab void banshee|Stormsurge i Lich Bane – burst po wyjściu z kamuflażu; Banshee's chroni przed kontrolą tłumu.
+N|Zbieraczka dusz|Dżungla|dh|impact tyrant relentless|focus|bmana|lich orb rab void banshee|Dark Harvest i Infinity Orb – dobijanie z superumiejętności i skalowanie w późnej grze.
+A|Burst z flanki|Burst|elec|impact tyrant eyeball|secondwind|bmana|surge lich rab void banshee|W ARAM kamuflaż słabnie, więc liczy się szybki burst na jednym celu.
+A|Przeżywająca Eve|Bruiser|conq|triumph laststand bloodline|bone|mercs|rift liandry rab void banshee|Riftmaker i Liandry's dla dłuższych walk z grupą.
+U|Nieskończony urok|Burst|elec|impact tyrant eyeball|gstorm|bmana|surge lich orb rab void|W URF superumiejętność i urok co chwilę – wejście, zabójstwo, ucieczka.
+U|Zbieraczka URF|Burst|dh|impact tyrant eyeball|focus|bmana|lich surge orb rab void|Dark Harvest rośnie z każdą walką.
+S banshee void rab lich orb morello ocean crypt
+
+@ ezreal
+I Dragon | Mobilny strzelec oparty na umiejętnościach: Q nakłada efekty przy trafieniu, a E to mignięcie. Gra na trafianiu pocisków z dystansu.
+N|Klasyczny Ezreal|Dragon|conq|triumph cutdown haste|celerity|ionian|manamune tri sery bc ga|Manamune i Trinity Force wzmacniają Q, a Serylda's i Black Cleaver przebijają pancerz.
+N|Krytyczny Ezreal|Dragon|fleet|triumph cutdown alacrity|bone|ionian|er navori ie ldr ga|Essence Reaver i Navori Quickblades skracają odnowienie Q przy każdym trafieniu.
+A|Poke z Q|Poke|comet|manaflow transc scorch|secondwind|ionian|manamune tri sery bc maw|W ARAM Ezreal nęka całą drużynę wroga z bezpiecznej odległości.
+A|Przeżywający strzelec|DPS|conq|triumph laststand bloodline|bone|steel|manamune tri dd sery ga|Death's Dance i Guardian Angel dla przetrwania częstych wejść wroga.
+U|Karabin Q|Poke|conq|triumph cutdown bloodline|focus|dyn|tri sery bc dd ga|W URF Q leci co chwilę – Trinity Force i Serylda's zamieniają każde trafienie w duże obrażenia, a Death's Dance utrzymuje przy życiu.
+U|Magiczny Ezreal|Burst|comet|axiom celerity scorch|bone|bmana|lich luden rab void zhonya|Wariant AP: Lich Bane po każdym Q i ogromny burst E + superumiejętność.
+S ga maw dd bc sery eon qss mr ldr
+
+@ fiddlesticks
+I Dżungla | Mag straszydło – przeraża (Q), wysysa zdrowie (W) i spada z nieba superumiejętnością na całą drużynę wroga.
+N|Strach z krzaków|Dżungla|dh|impact tyrant eyeball|focus|bmana|belt liandry rab zhonya void|Rocketbelt daje dodatkowe wejście po superumiejętności, Zhonya's pozwala przetrwać w środku walki.
+N|Wyssanie życia|Dżungla|elec|impact tyrant eyeball|celerity|ionian|torch liandry rab zhonya void|Blackfire Torch i Liandry's podpalają wszystkich trafionych superumiejętnością.
+A|Straszydło w tłumie|DPS|dh|cheap tyrant eyeball|secondwind|bmana|liandry torch rab zhonya void|W ARAM wszyscy stoją razem – superumiejętność i W trafiają całą drużynę.
+A|Przetrwanie|DPS|comet|manaflow transc scorch|bone|mercs|liandry rylai rift rab zhonya|Rylai's spowalnia uciekających, a Riftmaker leczy w walce.
+U|Ciągły koszmar|Burst|dh|impact tyrant eyeball|gstorm|bmana|belt liandry rab void zhonya|W URF superumiejętność co kilka sekund – teren wroga to ciągły horror.
+U|Drenaż|DPS|conq|triumph laststand bloodline|focus|glut|rift liandry rab void zhonya|Conqueror i Riftmaker wzmacniają leczenie z W.
+S zhonya banshee void morello liandry rylai crypt rab
+
+@ fiora
+I Baron | Mistrzyni pojedynków – trafia słabe punkty (pasywka), paruje umiejętności (W) i leczy drużynę superumiejętnością.
+N|Pojedynkowiczka|Baron|conq|triumph laststand bloodline|bone|steel|tri ecl sky dd ga|Trinity Force i Eclipse dają ogromne obrażenia na słabych punktach; Sundered Sky leczy przy każdym pojedynku.
+N|Split-push|Baron|grasp|demolish secondwind overgrowth|haste|dyn|tri hull sky bc ga|Hullbreaker i Demolish niszczą wieże w pojedynkę.
+A|Wojowniczka ARAM|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd chem|Goredrinker i Sundered Sky dają leczenie w ciągłej walce.
+A|Łowczyni carry|Burst|conq|zeal cutdown haste|bone|mercs|tri ecl sery maw ga|Wejście na carry i szybkie trafienie słabych punktów.
+U|Parowanie non stop|Bruiser|conq|triumph laststand bloodline|focus|glut|tri ecl sky dd ga|W URF W paruje niemal każdą umiejętność, a Q ciągle trafia słabe punkty.
+U|Miecz URF|Bruiser|conq|zeal coup bloodline|bone|steel|ecl bork sky bt ga|BoRK i Bloodthirster – obrażenia z ataków i ogromna kradzież życia.
+S ga maw sterak chem bc sery eon hull titanic qss
+
+@ fizz
+I Mid | Zabójca z wodnymi skokami – E pozwala uniknąć wszystkiego, a rekin superumiejętności podrzuca i zadaje ogromne obrażenia.
+N|Rekinowy burst|Mid|elec|impact hubris eyeball|focus|bmana|surge lich rab void zhonya|Stormsurge i Lich Bane – combo Q+W+E+R zabija cel, zanim zdąży zareagować.
+N|Wojownik AP|Mid|conq|triumph laststand bloodline|bone|glut|rift dnd rab void zhonya|Riftmaker i Dusk and Dawn do dłuższych pojedynków i walk w zwarciu.
+A|Nurek AP|Burst|elec|impact tyrant eyeball|secondwind|bmana|belt lich rab zhonya void|Rocketbelt i skok E – wejście w tłum i ucieczka.
+A|Przeżywający Fizz|Bruiser|conq|triumph laststand bloodline|bone|mercs|rift dnd liandry rab zhonya|W ARAM długie walki – Riftmaker i Liandry's.
+U|Nietykalny|Burst|elec|impact tyrant eyeball|gstorm|bmana|belt lich orb rab void|W URF E niemal ciągle – Fizz jest nietykalny i zadaje burst co kilka sekund.
+U|Wieczny rekin|Burst|dh|impact tyrant eyeball|focus|bmana|surge lich orb rab void|Dark Harvest i superumiejętność co kilka sekund.
+S zhonya banshee void rab lich orb crypt morello

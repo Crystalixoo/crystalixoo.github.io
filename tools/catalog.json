@@ -1,0 +1,1259 @@
+{
+ "items": {
+  "ecl": {
+   "name": "Eclipse",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "sky": {
+   "name": "Sundered Sky",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "shojin": {
+   "name": "Spear of Shojin",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "bc": {
+   "name": "Black Cleaver",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "dd": {
+   "name": "Death's Dance",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "ga": {
+   "name": "Guardian Angel",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "sterak": {
+   "name": "Sterak's Gage",
+   "cat": "ad",
+   "group": "lifeline",
+   "cls": null
+  },
+  "maw": {
+   "name": "Maw of Malmortius",
+   "cat": "ad",
+   "group": "lifeline",
+   "cls": null
+  },
+  "tri": {
+   "name": "Trinity Force",
+   "cat": "ad",
+   "group": "spellblade",
+   "cls": null
+  },
+  "gore": {
+   "name": "Goredrinker",
+   "cat": "ad",
+   "group": null,
+   "cls": [
+    "FIGHTER"
+   ]
+  },
+  "stride": {
+   "name": "Stridebreaker",
+   "cat": "ad",
+   "group": null,
+   "cls": [
+    "FIGHTER"
+   ]
+  },
+  "hull": {
+   "name": "Hullbreaker",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "bork": {
+   "name": "Blade of the Ruined King",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "bt": {
+   "name": "Bloodthirster",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "titanic": {
+   "name": "Titanic Hydra",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "hexplate": {
+   "name": "Experimental Hexplate",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "chem": {
+   "name": "Chempunk Chainsword",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "bloodmail": {
+   "name": "Overlord's Bloodmail",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "sunderer": {
+   "name": "Divine Sunderer",
+   "cat": "ad",
+   "group": "spellblade",
+   "cls": null
+  },
+  "manamune": {
+   "name": "Manamune",
+   "cat": "ad",
+   "group": "tear",
+   "cls": null
+  },
+  "scimitar": {
+   "name": "Mercurial Scimitar",
+   "cat": "ad",
+   "group": "qss",
+   "cls": [
+    "FIGHTER",
+    "MARKSMAN"
+   ]
+  },
+  "qss": {
+   "name": "Quicksilver Sash",
+   "cat": "ad",
+   "group": "qss",
+   "cls": [
+    "FIGHTER",
+    "MARKSMAN"
+   ]
+  },
+  "wits": {
+   "name": "Wit's End",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "term": {
+   "name": "Terminus",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "kraken": {
+   "name": "Kraken Slayer",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "sery": {
+   "name": "Serylda's Grudge",
+   "cat": "ad",
+   "group": "lastwhisper",
+   "cls": null
+  },
+  "fang": {
+   "name": "Serpent's Fang",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "eon": {
+   "name": "Edge of Night",
+   "cat": "ad",
+   "group": "annul",
+   "cls": null
+  },
+  "ghost": {
+   "name": "Youmuu's Ghostblade",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "dusk": {
+   "name": "Duskblade of Draktharr",
+   "cat": "ad",
+   "group": null,
+   "cls": null
+  },
+  "coll": {
+   "name": "The Collector",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "ie": {
+   "name": "Infinity Edge",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "ldr": {
+   "name": "Lord Dominik's Regard",
+   "cat": "mm",
+   "group": "lastwhisper",
+   "cls": null
+  },
+  "mr": {
+   "name": "Mortal Reminder",
+   "cat": "mm",
+   "group": "lastwhisper",
+   "cls": null
+  },
+  "storm": {
+   "name": "Stormrazor",
+   "cat": "mm",
+   "group": "energized",
+   "cls": null
+  },
+  "hexop": {
+   "name": "Hexoptics C44",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "er": {
+   "name": "Essence Reaver",
+   "cat": "mm",
+   "group": "spellblade",
+   "cls": null
+  },
+  "rage": {
+   "name": "Guinsoo's Rageblade",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "shiv": {
+   "name": "Statikk Shiv",
+   "cat": "mm",
+   "group": "energized",
+   "cls": null
+  },
+  "yuntal": {
+   "name": "Yun Tal Wildarrows",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "rfc": {
+   "name": "Rapid Firecannon",
+   "cat": "mm",
+   "group": "energized",
+   "cls": null
+  },
+  "runaan": {
+   "name": "Runaan's Hurricane",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "navori": {
+   "name": "Navori Quickblades",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "pd": {
+   "name": "Phantom Dancer",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "gale": {
+   "name": "Galeforce",
+   "cat": "mm",
+   "group": null,
+   "cls": [
+    "MARKSMAN"
+   ]
+  },
+  "shieldbow": {
+   "name": "Immortal Shieldbow",
+   "cat": "mm",
+   "group": "lifeline",
+   "cls": null
+  },
+  "fiend": {
+   "name": "Fiendhunter Bolts",
+   "cat": "mm",
+   "group": null,
+   "cls": null
+  },
+  "nashor": {
+   "name": "Nashor's Tooth",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "rab": {
+   "name": "Rabadon's Deathcap",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "luden": {
+   "name": "Luden's Echo",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "orb": {
+   "name": "Infinity Orb",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "ocean": {
+   "name": "Oceanid's Trident",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "crypt": {
+   "name": "Cryptbloom",
+   "cat": "ap",
+   "group": "voidpen",
+   "cls": null
+  },
+  "void": {
+   "name": "Void Staff",
+   "cat": "ap",
+   "group": "voidpen",
+   "cls": null
+  },
+  "torch": {
+   "name": "Blackfire Torch",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "aa": {
+   "name": "Archangel's Staff",
+   "cat": "ap",
+   "group": "tear",
+   "cls": null
+  },
+  "rift": {
+   "name": "Riftmaker",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "liandry": {
+   "name": "Liandry's Torment",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "lich": {
+   "name": "Lich Bane",
+   "cat": "ap",
+   "group": "spellblade",
+   "cls": null
+  },
+  "dnd": {
+   "name": "Dusk and Dawn",
+   "cat": "ap",
+   "group": "spellblade",
+   "cls": null
+  },
+  "malig": {
+   "name": "Malignance",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "belt": {
+   "name": "Hextech Rocketbelt",
+   "cat": "ap",
+   "group": null,
+   "cls": [
+    "MAGE"
+   ]
+  },
+  "surge": {
+   "name": "Stormsurge",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "mandate": {
+   "name": "Imperial Mandate",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "cosmic": {
+   "name": "Cosmic Drive",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "roa": {
+   "name": "Rod of Ages",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "horizon": {
+   "name": "Horizon Focus",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "bloodletter": {
+   "name": "Bloodletter's Curse",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "rylai": {
+   "name": "Rylai's Crystal Scepter",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "morello": {
+   "name": "Morellonomicon",
+   "cat": "ap",
+   "group": null,
+   "cls": null
+  },
+  "zhonya": {
+   "name": "Zhonya's Hourglass",
+   "cat": "ap",
+   "group": null,
+   "cls": [
+    "MAGE"
+   ]
+  },
+  "banshee": {
+   "name": "Banshee's Veil",
+   "cat": "ap",
+   "group": "annul",
+   "cls": null
+  },
+  "censer": {
+   "name": "Ardent Censer",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "harmonic": {
+   "name": "Harmonic Echo",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "mikael": {
+   "name": "Mikael's Blessing",
+   "cat": "supp",
+   "group": null,
+   "cls": [
+    "SUPPORT"
+   ]
+  },
+  "circlet": {
+   "name": "Whispering Circlet",
+   "cat": "supp",
+   "group": "tear",
+   "cls": null
+  },
+  "helia": {
+   "name": "Echoes of Helia",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "redemp": {
+   "name": "Redemption",
+   "cat": "supp",
+   "group": null,
+   "cls": [
+    "SUPPORT"
+   ]
+  },
+  "sfw": {
+   "name": "Staff of Flowing Water",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "shurelya": {
+   "name": "Shurelya's Battlesong",
+   "cat": "supp",
+   "group": null,
+   "cls": [
+    "SUPPORT"
+   ]
+  },
+  "locket": {
+   "name": "Locket of the Iron Solari",
+   "cat": "tank",
+   "group": null,
+   "cls": [
+    "SUPPORT"
+   ]
+  },
+  "vow": {
+   "name": "Knight's Vow",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "zeke": {
+   "name": "Zeke's Convergence",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "virtue": {
+   "name": "Radiant Virtue",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "trap": {
+   "name": "Yordle Trap",
+   "cat": "supp",
+   "group": null,
+   "cls": null
+  },
+  "dawn": {
+   "name": "Dawnshroud",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "abyssal": {
+   "name": "Abyssal Mask",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "fh": {
+   "name": "Frozen Heart",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "hollow": {
+   "name": "Hollow Radiance",
+   "cat": "tank",
+   "group": "immolate",
+   "cls": null
+  },
+  "despair": {
+   "name": "Unending Despair",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "mantle": {
+   "name": "Mantle of the Twelfth Hour",
+   "cat": "tank",
+   "group": "lifeline",
+   "cls": null
+  },
+  "twin": {
+   "name": "Amaranth's Twinguard",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "thorn": {
+   "name": "Thornmail",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "warmog": {
+   "name": "Warmog's Armor",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "fon": {
+   "name": "Force of Nature",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "heart": {
+   "name": "Heartsteel",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "kaenic": {
+   "name": "Kaenic Rookern",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "randuin": {
+   "name": "Randuin's Omen",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "iceborn": {
+   "name": "Iceborn Gauntlet",
+   "cat": "tank",
+   "group": "spellblade",
+   "cls": null
+  },
+  "sunfire": {
+   "name": "Sunfire Aegis",
+   "cat": "tank",
+   "group": "immolate",
+   "cls": null
+  },
+  "dmp": {
+   "name": "Dead Man's Plate",
+   "cat": "tank",
+   "group": null,
+   "cls": null
+  },
+  "garg": {
+   "name": "Gargoyle Stoneplate",
+   "cat": "tank",
+   "group": null,
+   "cls": [
+    "TANK"
+   ]
+  },
+  "winter": {
+   "name": "Winter's Approach",
+   "cat": "tank",
+   "group": "tear",
+   "cls": null
+  }
+ },
+ "boots": [
+  "bers",
+  "bmana",
+  "dyn",
+  "glut",
+  "ionian",
+  "mercs",
+  "steel"
+ ],
+ "keystones": [
+  "elec",
+  "dh",
+  "empow",
+  "lt",
+  "fleet",
+  "conq",
+  "grasp",
+  "guard",
+  "aery",
+  "comet",
+  "prush",
+  "fs",
+  "ice"
+ ],
+ "trees": {
+  "Domination": [
+   [
+    "cheap",
+    "impact",
+    "empatk"
+   ],
+   [
+    "chain",
+    "tyrant",
+    "hubris"
+   ],
+   [
+    "eyeball",
+    "relentless",
+    "zombie"
+   ]
+  ],
+  "Precision": [
+   [
+    "brutal",
+    "triumph",
+    "zeal"
+   ],
+   [
+    "laststand",
+    "cutdown",
+    "coup"
+   ],
+   [
+    "alacrity",
+    "haste",
+    "bloodline"
+   ]
+  ],
+  "Resolve": [
+   [
+    "demolish",
+    "font",
+    "colossus",
+    "unshake"
+   ],
+   [
+    "secondwind",
+    "nullorb",
+    "bone"
+   ],
+   [
+    "overgrowth",
+    "revital",
+    "persev"
+   ]
+  ],
+  "Sorcery": [
+   [
+    "axiom",
+    "manaflow",
+    "botanist",
+    "hexflash"
+   ],
+   [
+    "transc",
+    "celerity",
+    "focus"
+   ],
+   [
+    "scorch",
+    "nimbus",
+    "gstorm",
+    "seedjar"
+   ]
+  ]
+ },
+ "champions": {
+  "aatrox": [
+   "FIGHTER"
+  ],
+  "ahri": [
+   "MAGE",
+   "ASSASSIN"
+  ],
+  "akali": [
+   "ASSASSIN"
+  ],
+  "akshan": [
+   "MARKSMAN",
+   "ASSASSIN"
+  ],
+  "alistar": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "ambessa": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "amumu": [
+   "TANK"
+  ],
+  "annie": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "ashe": [
+   "MARKSMAN",
+   "SUPPORT"
+  ],
+  "aurelion-sol": [
+   "MAGE"
+  ],
+  "aurora": [
+   "MAGE",
+   "ASSASSIN"
+  ],
+  "bard": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "blitzcrank": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "brand": [
+   "MAGE"
+  ],
+  "braum": [
+   "SUPPORT",
+   "TANK"
+  ],
+  "caitlyn": [
+   "MARKSMAN"
+  ],
+  "camille": [
+   "FIGHTER"
+  ],
+  "chogath": [
+   "TANK",
+   "MAGE"
+  ],
+  "corki": [
+   "MARKSMAN"
+  ],
+  "darius": [
+   "FIGHTER"
+  ],
+  "diana": [
+   "FIGHTER",
+   "MAGE"
+  ],
+  "dr-mundo": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "draven": [
+   "MARKSMAN"
+  ],
+  "ekko": [
+   "ASSASSIN",
+   "MAGE"
+  ],
+  "evelynn": [
+   "ASSASSIN"
+  ],
+  "ezreal": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "fiddlesticks": [
+   "MAGE"
+  ],
+  "fiora": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "fizz": [
+   "ASSASSIN",
+   "MAGE"
+  ],
+  "galio": [
+   "TANK",
+   "MAGE"
+  ],
+  "garen": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "gnar": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "gragas": [
+   "TANK",
+   "MAGE"
+  ],
+  "graves": [
+   "MARKSMAN",
+   "FIGHTER"
+  ],
+  "gwen": [
+   "FIGHTER"
+  ],
+  "hecarim": [
+   "FIGHTER"
+  ],
+  "heimerdinger": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "hwei": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "irelia": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "janna": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "jarvan-iv": [
+   "TANK",
+   "FIGHTER"
+  ],
+  "jax": [
+   "FIGHTER"
+  ],
+  "jayce": [
+   "FIGHTER",
+   "MARKSMAN"
+  ],
+  "jhin": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "jinx": [
+   "MARKSMAN"
+  ],
+  "ksante": [
+   "TANK",
+   "FIGHTER"
+  ],
+  "kaisa": [
+   "MARKSMAN",
+   "ASSASSIN"
+  ],
+  "kalista": [
+   "MARKSMAN"
+  ],
+  "karma": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "kassadin": [
+   "ASSASSIN",
+   "MAGE"
+  ],
+  "katarina": [
+   "ASSASSIN",
+   "MAGE"
+  ],
+  "kayle": [
+   "FIGHTER",
+   "SUPPORT"
+  ],
+  "kayn": [
+   "FIGHTER"
+  ],
+  "kennen": [
+   "MAGE",
+   "MARKSMAN"
+  ],
+  "khazix": [
+   "ASSASSIN",
+   "FIGHTER"
+  ],
+  "kindred": [
+   "MARKSMAN"
+  ],
+  "kogmaw": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "lee-sin": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "leona": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "lillia": [
+   "FIGHTER"
+  ],
+  "lissandra": [
+   "MAGE"
+  ],
+  "lucian": [
+   "MARKSMAN"
+  ],
+  "lulu": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "lux": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "malphite": [
+   "TANK"
+  ],
+  "maokai": [
+   "TANK"
+  ],
+  "master-yi": [
+   "ASSASSIN",
+   "FIGHTER"
+  ],
+  "mel": [
+   "MAGE"
+  ],
+  "milio": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "miss-fortune": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "mordekaiser": [
+   "FIGHTER",
+   "MAGE"
+  ],
+  "morgana": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "nami": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "nasus": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "nautilus": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "nidalee": [
+   "ASSASSIN",
+   "MAGE"
+  ],
+  "nilah": [
+   "FIGHTER"
+  ],
+  "nocturne": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "norra": [
+   "MAGE"
+  ],
+  "nunu-and-willump": [
+   "TANK",
+   "MAGE"
+  ],
+  "olaf": [
+   "FIGHTER"
+  ],
+  "orianna": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "ornn": [
+   "TANK"
+  ],
+  "pantheon": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "poppy": [
+   "TANK",
+   "FIGHTER"
+  ],
+  "pyke": [
+   "ASSASSIN",
+   "SUPPORT"
+  ],
+  "rakan": [
+   "SUPPORT",
+   "TANK"
+  ],
+  "rammus": [
+   "TANK"
+  ],
+  "rell": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "renekton": [
+   "FIGHTER"
+  ],
+  "rengar": [
+   "ASSASSIN"
+  ],
+  "riven": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "rumble": [
+   "FIGHTER",
+   "MAGE"
+  ],
+  "ryze": [
+   "MAGE"
+  ],
+  "samira": [
+   "MARKSMAN",
+   "ASSASSIN"
+  ],
+  "senna": [
+   "MARKSMAN",
+   "SUPPORT"
+  ],
+  "seraphine": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "sett": [
+   "FIGHTER"
+  ],
+  "shen": [
+   "TANK",
+   "SUPPORT"
+  ],
+  "shyvana": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "singed": [
+   "TANK",
+   "MAGE"
+  ],
+  "sion": [
+   "TANK",
+   "FIGHTER"
+  ],
+  "sivir": [
+   "MARKSMAN"
+  ],
+  "skarner": [
+   "TANK",
+   "FIGHTER"
+  ],
+  "smolder": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "sona": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "soraka": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "swain": [
+   "MAGE",
+   "TANK"
+  ],
+  "syndra": [
+   "MAGE"
+  ],
+  "taliyah": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "talon": [
+   "ASSASSIN"
+  ],
+  "teemo": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "thresh": [
+   "TANK"
+  ],
+  "tristana": [
+   "MARKSMAN"
+  ],
+  "tryndamere": [
+   "FIGHTER"
+  ],
+  "twisted-fate": [
+   "MAGE",
+   "MARKSMAN"
+  ],
+  "twitch": [
+   "MARKSMAN"
+  ],
+  "urgot": [
+   "FIGHTER"
+  ],
+  "varus": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "vayne": [
+   "MARKSMAN",
+   "ASSASSIN"
+  ],
+  "veigar": [
+   "MAGE"
+  ],
+  "velkoz": [
+   "MAGE",
+   "SUPPORT"
+  ],
+  "vex": [
+   "MAGE"
+  ],
+  "vi": [
+   "FIGHTER"
+  ],
+  "viego": [
+   "ASSASSIN"
+  ],
+  "viktor": [
+   "MAGE"
+  ],
+  "vladimir": [
+   "MAGE"
+  ],
+  "volibear": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "warwick": [
+   "FIGHTER"
+  ],
+  "wukong": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "xayah": [
+   "MARKSMAN",
+   "MAGE"
+  ],
+  "xin-zhao": [
+   "FIGHTER",
+   "TANK"
+  ],
+  "yasuo": [
+   "FIGHTER",
+   "ASSASSIN"
+  ],
+  "yone": [
+   "ASSASSIN"
+  ],
+  "yunara": [
+   "MARKSMAN"
+  ],
+  "yuumi": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "zed": [
+   "ASSASSIN"
+  ],
+  "zeri": [
+   "MARKSMAN"
+  ],
+  "ziggs": [
+   "MAGE"
+  ],
+  "zilean": [
+   "SUPPORT",
+   "MAGE"
+  ],
+  "zoe": [
+   "MAGE"
+  ],
+  "zyra": [
+   "MAGE"
+  ]
+ }
+}

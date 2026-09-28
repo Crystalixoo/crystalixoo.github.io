@@ -1,145 +1,143 @@
-/* Strona bohatera – analiza + wygenerowane zestawy (klasyczne i URF), umiejętności */
+/* Strona championa – informacje, buildy i przedmioty sytuacyjne */
 (function () {
-  const root = document.getElementById("champion-root");
-  const params = new URLSearchParams(window.location.search);
-  const slug = params.get("id");
-  const champ = CHAMPIONS.find((c) => c.slug === slug);
+  const WR = window.WR;
+  const { esc, ROLE_PL, TREE_PL, champImg, abilityImg } = WR;
+  const ITEMS = window.WR_ITEMS.items;
+  const BOOTS = window.WR_ITEMS.boots;
+  const app = document.getElementById('app');
+
+  const slug = new URLSearchParams(location.search).get('c');
+  const champ = (window.WR_CHAMPIONS || []).find((c) => c.slug === slug);
+  const data = (window.WR_BUILDS || {})[slug];
 
   if (!champ) {
-    root.innerHTML =
-      '<div class="empty-state"><h1>Nie znaleziono bohatera</h1>' +
-      '<p><a class="back-link" href="index.html">← Wróć do listy bohaterów</a></p></div>';
+    app.innerHTML = '<a class="back" href="index.html">← Wszyscy championowie</a><p class="empty">Nie znaleziono championa.</p>';
     return;
   }
+  document.title = `${champ.name} – buildy Wild Rift (patch 7.3)`;
 
-  document.title = `${champ.name} – Wild Rift Buildy`;
-  const cls = CHAMP_CLASS[champ.slug] || "";
-  const WRF = "https://wildriftfire.com/images";
+  const RUNE_INDEX = WR.runeIndex();
 
-  function esc(s) {
-    return String(s == null ? "" : s)
-      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const SLOT_PL = { PASSIVE: 'Umiejętność bierna', ULTIMATE: 'Superumiejętność', 1: 'Umiejętność 1', 2: 'Umiejętność 2', 3: 'Umiejętność 3' };
+  const MODES = [
+    ['normal', 'Tryb zwykły', 'Summoner\'s Rift', 'Buildy na mecze rankingowe i normalne na Summoner\'s Rift – 5 przedmiotów + buty. Buty tier 3 (oznaczone „T3”) można ulepszyć od 10. minuty.'],
+    ['aram', 'ARAM', 'Howling Abyss', 'ARAM to jedna linia i ciągłe walki drużynowe – liczy się przeżywalność, leczenie, antyleczenie i obrażenia obszarowe. Sklep jest dostępny tylko po śmierci, więc kolejność zakupów ma znaczenie.'],
+    ['urf', 'URF', 'Ultra Rapid Fire', 'W URF mana jest nieskończona, a czasy odnowienia bardzo krótkie – przedmioty dające manę i przyspieszenie tracą wartość, liczą się czyste obrażenia, przebicie i wytrzymałość.'],
+  ];
+
+  // ---------- render ----------
+  const diffDots = '<span class="dots">' + [1, 2, 3].map((i) => `<i class="${i <= champ.diff ? 'on' : ''}"></i>`).join('') + '</span>';
+  const lanes = data ? data.lanes : [];
+
+  function itemSlot(code, i) {
+    const it = ITEMS[code];
+    return `<div class="item-slot" tabindex="0" data-tip="item:${code}">
+      <span class="order">${i}</span>
+      <img src="${it.img}" alt="${esc(it.name)}" width="52" height="52" loading="lazy" />
+      <div class="iname">${esc(it.name)}</div></div>`;
   }
-  function img(url, alt) {
-    return `<img class="ic-img" src="${url}" alt="${esc(alt)}" loading="lazy" onerror="this.style.visibility='hidden';">`;
+  function bootsSlot(code) {
+    const b = BOOTS[code];
+    return `<div class="item-slot boots" tabindex="0" data-tip="boots:${code}">
+      <img src="${b.img}" alt="${esc(b.name)}" width="52" height="52" loading="lazy" />
+      <span class="t3">T3</span>
+      <div class="iname">${esc(b.name)} → ${esc(b.t3.name)}</div></div>`;
   }
-
-  /* ---- Czary przywoływacza ---- */
-  function spellCard(s) {
-    const info = SPELL_INFO[s.slug] || {};
-    const tip = info.desc
-      ? `<div class="item-tip"><strong>${esc(s.name)}</strong><span class="tip-passive">${esc(info.desc)}</span></div>`
-      : "";
-    return `<div class="kit-item">
-      <span class="kit-ic">${img(`${WRF}/summoners/${s.slug}.png`, s.name)}</span>
-      <span class="kit-name">${esc(s.name)}</span>${tip}</div>`;
-  }
-
-  /* ---- Runa (keystone lub poboczna) ---- */
-  function runeChip(slug, isKey) {
-    const info = RUNE_INFO[slug] || {};
-    const name = info.name || slug;
-    const tip = info.desc
-      ? `<div class="item-tip"><strong>${esc(name)}</strong>
-           <span class="tip-cat tip-rune">${isKey ? "Keystone" : "Runa"}</span>
-           <span class="tip-passive">${esc(info.desc)}</span></div>`
-      : "";
-    return `<div class="kit-item${isKey ? " keystone" : ""}">
-      <span class="kit-ic">${img(`${WRF}/runes/${slug}.png`, name)}</span>
-      <span class="kit-name">${esc(name)}</span>${tip}</div>`;
+  function runeEl(code, cls) {
+    const r = RUNE_INDEX[code];
+    return `<div class="${cls}" tabindex="0" data-tip="rune:${code}">
+      <img src="${r.img}" alt="${esc(r.name)}" loading="lazy" />
+      <div class="rname">${esc(r.name)}</div></div>`;
   }
 
-  /* ---- Przedmiot ---- */
-  function itemPill(slug) {
-    const info = ITEM_INFO[slug] || {};
-    const name = info.name || slug;
-    const cost = info.cost ? `<span class="tip-cost">${esc(info.cost)} złota</span>` : "";
-    const stats = info.stats ? `<span class="tip-stats">${esc(info.stats)}</span>` : "";
-    const pass = info.passive ? `<span class="tip-passive">${esc(info.passive)}</span>` : "";
-    const tip = (info.cost || info.stats || info.passive)
-      ? `<div class="item-tip"><strong>${esc(name)}</strong>${cost}${stats}${pass}</div>`
-      : "";
-    return `<div class="item-pill">
-      <span class="item-ic">${img(`${WRF}/items/${slug}.png`, name)}</span>
-      <span class="item-name">${esc(name)}</span>${tip}</div>`;
-  }
-
-  /* ---- Karta zestawu ---- */
-  function setCard(set, idx, mode) {
-    const runes = runeChip(set.keystone, true) + set.minors.map((s) => runeChip(s, false)).join("");
-    const items = set.items.map(itemPill).join('<span class="arrow">›</span>');
-    const badge = mode === "urf"
-      ? `<span class="set-mode mode-urf">URF</span>`
-      : "";
-    return `<article class="set-card${mode === "urf" ? " set-urf" : ""}">
-      <div class="set-head">
-        <span class="set-badge">Zestaw ${idx}</span>
-        <h3 class="set-title">${esc(set.title)}</h3>
-        ${badge}
+  function buildCard(b, i, mode) {
+    const total = b.items.reduce((s, c) => s + ITEMS[c].cost, 0) + BOOTS[b.boots].cost;
+    const totalT3 = total - BOOTS[b.boots].cost + BOOTS[b.boots].t3.cost;
+    return `<article class="build">
+      <div class="build-head">
+        <div><div class="num">Build ${i + 1} · ${mode}</div><h3>${esc(b.name)}</h3></div>
+        <span class="tag lane">${esc(b.lane)}</span>
       </div>
-      <p class="set-analysis">${esc(set.analysis)}</p>
-      <div class="set-block"><div class="set-label">Runy (${1 + set.minors.length})</div><div class="kit-row">${runes}</div></div>
-      <div class="set-block"><div class="set-label">Przedmioty</div><div class="build-row">${items}</div></div>
+      <div>
+        <div class="label">Przedmioty (kolejność zakupu)</div>
+        <div class="items-row">${b.items.map((c, k) => itemSlot(c, k + 1)).join('')}<span class="plus">+</span>${bootsSlot(b.boots)}</div>
+        <div class="cost">Koszt pełnego buildu: <b>${total.toLocaleString('pl-PL')}</b> złota (z butami T3: ${totalT3.toLocaleString('pl-PL')})</div>
+      </div>
+      <div>
+        <div class="label">Runy</div>
+        <div class="runes">
+          ${runeEl(b.keystone, 'keystone')}
+          <div class="rune-trees">
+            <div class="rune-tree t-${b.tree}"><div class="tname">${TREE_PL[b.tree]} (główne)</div>
+              <div class="list">${b.primary.map((r) => runeEl(r, 'rune')).join('')}</div></div>
+            <div class="rune-tree t-${b.secTree}"><div class="tname">${TREE_PL[b.secTree]}</div>
+              <div class="list">${runeEl(b.secondary, 'rune')}</div></div>
+          </div>
+        </div>
+      </div>
+      <p class="build-desc">${esc(b.desc)}</p>
     </article>`;
   }
 
-  /* ---- Umiejętności ---- */
-  function abilities(arr) {
-    return arr.map((a) => `
-      <div class="ability">
-        <span class="ability-ic">${img(a.icon, a.name)}</span>
-        ${a.slot ? `<div class="ability-badge">${esc(a.slot)}</div>` : ""}
-        <div class="ability-body">
-          <h3 class="ability-name">${esc(a.name)}</h3>
-          <p class="ability-desc">${esc(a.desc)}</p>
+  const abilitiesHtml = champ.abilities.map((a, i) => `<div class="ability">
+      <img src="${abilityImg(champ.slug, i)}" alt="" width="48" height="48" loading="lazy" />
+      <div><div class="slot">${SLOT_PL[a.slot] || esc(a.slot)}</div><h4>${esc(a.name)}</h4><p>${esc(a.desc)}</p></div>
+    </div>`).join('');
+
+  let html = `<a class="back" href="index.html">← Wszyscy championowie</a>
+    <section class="champ-hero">
+      <div class="portrait"><img src="${champImg(champ.slug)}" alt="${esc(champ.name)}" width="285" height="323" /></div>
+      <div>
+        <h1>${esc(champ.name)}</h1>
+        <div class="subtitle">${esc(champ.title)}</div>
+        <div class="tags">
+          ${champ.roles.map((r) => `<span class="tag">${ROLE_PL[r]}</span>`).join('')}
+          ${lanes.map((l) => `<span class="tag lane">${esc(l)}</span>`).join('')}
+          <span class="tag diff">Trudność: ${esc(champ.difficulty)} ${diffDots}</span>
         </div>
-      </div>`).join("");
+      </div>
+      ${data ? `<p class="about">${esc(data.about)}</p>` : ''}
+    </section>
+    <h2 class="section-title">Umiejętności</h2>
+    <div class="abilities">${abilitiesHtml}</div>`;
+
+  if (!data) {
+    html += '<h2 class="section-title">Buildy</h2><p class="empty">Buildy dla tego championa są w przygotowaniu.</p>';
+    app.innerHTML = html;
+    return;
   }
 
-  const gen = generateBuilds(champ);
-  const spellsHtml = champ.spells && champ.spells.length
-    ? `<div class="kit-row">${champ.spells.map(spellCard).join("")}</div>` : '<p class="muted">Brak danych.</p>';
-
-  root.innerHTML = `
-    <div class="champ-hero">
-      <div class="hero-icon" id="hero-icon">
-        <img id="hero-img" src="${champ.icon}" alt="${esc(champ.name)}" />
-      </div>
-      <div class="hero-info">
-        <h1 class="hero-name">${esc(champ.name)}</h1>
-        <div class="hero-chips">
-          ${cls ? `<span class="chip chip-role">${esc(cls)}</span>` : ""}
-          ${champ.role ? `<span class="chip">${esc(champ.role)}</span>` : ""}
-          <span class="chip chip-dmg">Archetyp: ${esc(gen.label)}</span>
-        </div>
-      </div>
+  html += `<h2 class="section-title" id="buildy">Rekomendowane buildy</h2>
+    <div class="tabs" role="tablist">
+      ${MODES.map(([k, n, sub]) => `<button type="button" class="tab" role="tab" data-mode="${k}">${n}<span class="sub">${sub}</span></button>`).join('')}
     </div>
+    <p class="mode-info" id="mode-info"></p>
+    <div class="builds" id="builds"></div>
+    <div class="rules"><b>Jak czytać build:</b> 5 przedmiotów w kolejności zakupu + buty (tier 2, a po 10. minucie ulepszenie do tier 3). Runy: <b>keystone</b> (runa główna) + <b>3 runy</b> z jednego drzewa (po jednej z każdego rzędu) + <b>1 runa</b> z innego drzewa. Najedź lub dotknij ikonę, aby zobaczyć statystyki.</div>
+    <h2 class="section-title">Przedmioty sytuacyjne</h2>
+    <p class="mode-info">Przedmioty pasujące do championa, którymi możesz zastąpić elementy buildu zależnie od składu wrogiej drużyny.</p>
+    <div class="situational">${data.situational.map((c) => {
+      const it = ITEMS[c];
+      return `<div class="sit" tabindex="0" data-tip="item:${c}"><img src="${it.img}" alt="" width="44" height="44" loading="lazy" />
+        <div><h4>${esc(it.name)} <small>${it.cost.toLocaleString('pl-PL')} zł.</small></h4><p>${esc(it.desc)}</p></div></div>`;
+    }).join('')}</div>`;
+  app.innerHTML = html;
 
-    <section class="panel">
-      <h2 class="panel-title">Czary przywoływacza</h2>
-      ${spellsHtml}
-    </section>
+  const buildsEl = document.getElementById('builds');
+  const infoEl = document.getElementById('mode-info');
+  const tabs = app.querySelectorAll('.tab');
+  function setMode(m) {
+    const def = MODES.find((x) => x[0] === m) || MODES[0];
+    tabs.forEach((t) => { const on = t.dataset.mode === def[0]; t.classList.toggle('active', on); t.setAttribute('aria-selected', on); });
+    infoEl.textContent = def[3];
+    buildsEl.innerHTML = data[def[0]].map((b, i) => buildCard(b, i, def[1])).join('');
+    if (location.hash.slice(1) !== def[0]) history.replaceState(null, '', `#${def[0]}`);
+  }
+  app.querySelector('.tabs').addEventListener('click', (e) => {
+    const t = e.target.closest('[data-mode]');
+    if (t) setMode(t.dataset.mode);
+  });
+  setMode(location.hash.slice(1) || 'normal');
 
-    <section class="panel">
-      <h2 class="panel-title">Zestawy klasyczne</h2>
-      <p class="panel-sub">Jeden zestaw dopasowany do archetypu i umiejętności ${esc(champ.name)} — po 5 run i 6 przedmiotów. Najedź na ikonę po szczegóły.</p>
-      <div class="sets">${gen.normal.map((s, i) => setCard(s, i + 1, "normal")).join("")}</div>
-    </section>
-
-    ${gen.urf && gen.urf.length ? `<section class="panel">
-      <h2 class="panel-title">Zestawy URF <span class="urf-tag">∞ mana · zerowe cooldowny</span></h2>
-      <p class="panel-sub">Trzy zestawy pod Ultra Rapid Fire: zero itemów na manę, maksymalny ability haste i pasywki wyzwalane ciągłym castowaniem.</p>
-      <div class="sets">${gen.urf.map((s, i) => setCard(s, i + 1, "urf")).join("")}</div>
-    </section>` : ""}
-
-    <section class="panel">
-      <h2 class="panel-title">Umiejętności</h2>
-      <div class="abilities">${champ.abilities && champ.abilities.length ? abilities(champ.abilities) : '<p class="muted">Brak danych.</p>'}</div>
-    </section>
-
-    <div class="page-back"><a class="back-link" href="index.html">← Wróć do listy bohaterów</a></div>
-  `;
-
-  const heroImg = document.getElementById("hero-img");
-  if (heroImg) attachIconFallback(heroImg, document.getElementById("hero-icon"), champ.slug, champ.name.charAt(0));
+  WR.initTooltips(app);
 })();

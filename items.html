@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Przedmioty i runy – Wild Rift patch 7.3</title>
+  <meta name="description" content="Wszystkie przedmioty, buty (tier 2 i tier 3) oraz runy dostępne w Wild Rift w patchu 7.3 – statystyki i opisy po polsku." />
+  <link rel="icon" href="img/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><span class="logo-mark">WR</span><span>Rift Poradnik<small>Buildy do Wild Rift</small></span></a>
+      <nav class="nav"><a href="index.html">Championowie</a><a href="items.html" class="active">Przedmioty i runy</a></nav>
+      <span class="patch-badge">Patch 7.3</span>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <section class="hero">
+      <h1>Przedmioty i runy</h1>
+      <p>Pełna lista przedmiotów, butów i run dostępnych w Wild Rift w patchu 7.3. Przy każdym przedmiocie widać, u ilu championów pojawia się w rekomendowanych buildach.</p>
+    </section>
+
+    <div class="toolbar">
+      <label class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="q" type="search" placeholder="Szukaj przedmiotu lub runy…" autocomplete="off" aria-label="Szukaj przedmiotu lub runy" />
+      </label>
+      <div class="chips" id="cats" role="group" aria-label="Kategoria"></div>
+    </div>
+    <div id="content"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Dane: patch 7.3 (22.09.2026) – oficjalne patch notes Wild Rift 7.1–7.3, statystyki przedmiotów i run z WildRiftFire, układ drzewek run z League of Legends Wiki.</p>
+      <p>Nieoficjalny poradnik fanowski. Wild Rift i League of Legends są znakami towarowymi Riot Games.</p>
+    </div>
+  </footer>
+
+  <script src="js/data/items.js"></script>
+  <script src="js/data/runes.js"></script>
+  <script src="js/data/builds.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/items.js"></script>
+</body>
+</html>

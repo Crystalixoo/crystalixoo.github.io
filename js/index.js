@@ -1,84 +1,55 @@
-/* Strona główna – siatka kafelków bohaterów, wyszukiwarka i filtr klas */
+/* Strona główna – siatka championów */
 (function () {
-  const grid = document.getElementById("champion-grid");
-  const searchInput = document.getElementById("search");
-  const roleFilters = document.getElementById("role-filters");
-  const noResults = document.getElementById("no-results");
+  const { esc, ROLE_ORDER, ROLE_PL, LANES, champImg } = window.WR;
+  const champs = (window.WR_CHAMPIONS || []).slice().sort((a, b) => a.name.localeCompare(b.name, 'pl'));
+  const BUILDS = window.WR_BUILDS || {};
+  const NEW = new Set(['hwei']);
 
-  const CLASSES = ["Wszyscy", "Tank", "Wojownik", "Zabójca", "Mag", "Strzelec", "Wsparcie"];
-  let activeClass = "Wszyscy";
-  let query = "";
+  const grid = document.getElementById('grid');
+  const q = document.getElementById('q');
+  const rolesEl = document.getElementById('roles');
+  const lanesEl = document.getElementById('lanes');
+  const countEl = document.getElementById('count');
 
-  function champClass(c) {
-    return CHAMP_CLASS[c.slug] || "—";
-  }
+  const load = (k, def) => { try { return sessionStorage.getItem(k) || def; } catch (e) { return def; } };
+  const save = (k, v) => { try { sessionStorage.setItem(k, v); } catch (e) { /* brak dostępu do storage */ } };
+  let role = load('wr-role', 'ALL');
+  let lane = load('wr-lane', 'ALL');
 
-  CLASSES.forEach((r) => {
-    const btn = document.createElement("button");
-    btn.className = "filter-btn" + (r === activeClass ? " active" : "");
-    btn.textContent = r;
-    btn.addEventListener("click", () => {
-      activeClass = r;
-      document.querySelectorAll(".filter-btn").forEach((b) => b.classList.remove("active"));
-      btn.classList.add("active");
-      render();
-    });
-    roleFilters.appendChild(btn);
-  });
+  const chips = (list, active, attr) => list
+    .map(([k, v]) => `<button type="button" class="chip${k === active ? ' active' : ''}" data-${attr}="${k}" aria-pressed="${k === active}">${v}</button>`)
+    .join('');
+  rolesEl.innerHTML = chips([['ALL', 'Wszystkie role'], ...ROLE_ORDER.map((r) => [r, ROLE_PL[r]])], role, 'role');
+  lanesEl.innerHTML = chips([['ALL', 'Wszystkie linie'], ...LANES.map((l) => [l, l])], lane, 'lane');
 
-  function tile(champ) {
-    const a = document.createElement("a");
-    a.className = "champ-tile";
-    a.href = `champion.html?id=${champ.slug}`;
-
-    const icon = document.createElement("div");
-    icon.className = "champ-icon";
-    const img = document.createElement("img");
-    img.src = champ.icon;
-    img.alt = champ.name;
-    img.loading = "lazy";
-    attachIconFallback(img, icon, champ.slug, champ.name.charAt(0));
-    icon.appendChild(img);
-
-    const name = document.createElement("span");
-    name.className = "champ-name";
-    name.textContent = champ.name;
-
-    const role = document.createElement("span");
-    role.className = "champ-role";
-    const cls = champClass(champ);
-    role.textContent = champ.role ? `${cls} · ${champ.role}` : cls;
-
-    a.append(icon, name, role);
-    return a;
-  }
+  const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '');
 
   function render() {
-    grid.innerHTML = "";
-    const q = query.trim().toLowerCase();
-    const list = CHAMPIONS.filter((c) => {
-      const matchClass = activeClass === "Wszyscy" || champClass(c) === activeClass;
-      const matchQuery =
-        !q ||
-        c.name.toLowerCase().includes(q) ||
-        (c.role && c.role.toLowerCase().includes(q)) ||
-        champClass(c).toLowerCase().includes(q);
-      return matchClass && matchQuery;
-    });
-
-    list.sort((a, b) => a.name.localeCompare(b.name, "pl"));
-    list.forEach((c) => grid.appendChild(tile(c)));
-    noResults.hidden = list.length !== 0;
-
-    countEl.textContent = `${list.length} z ${CHAMPIONS.length} bohaterów`;
+    const term = norm(q.value || '');
+    const list = champs.filter((c) => (role === 'ALL' || c.roles.includes(role))
+      && (lane === 'ALL' || (BUILDS[c.slug] && BUILDS[c.slug].lanes.includes(lane)))
+      && (!term || norm(c.name).includes(term)));
+    grid.innerHTML = list
+      .map((c) => `<a class="champ-card" href="champion.html?c=${c.slug}" title="${esc(c.name)} – ${esc(c.title)}">
+          <img src="${champImg(c.slug)}" alt="${esc(c.name)}" loading="lazy" width="285" height="323" />
+          ${NEW.has(c.slug) ? '<span class="new">NOWY</span>' : ''}
+          <span class="name">${esc(c.name)}</span>
+        </a>`)
+      .join('') || '<p class="empty">Brak championów pasujących do wyszukiwania.</p>';
+    countEl.textContent = `${list.length} z ${champs.length} championów`;
   }
 
-  const countEl = document.getElementById("champ-count");
-
-  searchInput.addEventListener("input", (e) => {
-    query = e.target.value;
-    render();
-  });
-
+  function bind(el, attr, set) {
+    el.addEventListener('click', (e) => {
+      const b = e.target.closest(`[data-${attr}]`);
+      if (!b) return;
+      set(b.dataset[attr]);
+      el.querySelectorAll('.chip').forEach((c) => { const on = c === b; c.classList.toggle('active', on); c.setAttribute('aria-pressed', on); });
+      render();
+    });
+  }
+  bind(rolesEl, 'role', (v) => { role = v; save('wr-role', v); });
+  bind(lanesEl, 'lane', (v) => { lane = v; save('wr-lane', v); });
+  q.addEventListener('input', render);
   render();
 })();

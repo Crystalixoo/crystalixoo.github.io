@@ -1,0 +1,189 @@
+@ ksante
+I Baron | Tank, który superumiejętnością wyrywa cel z drużyny i zamienia się w wojownika (All Out). Skaluje z pancerzem i odpornością na magię.
+N|Tarcza Nazumah|Baron|grasp|demolish secondwind overgrowth|haste|steel|iceborn despair twin fon randuin|Iceborn Gauntlet wzmacnia Q i spowalnia, a odporności skalują obrażenia K'Sante.
+N|All Out bruiser|Baron|conq|triumph laststand haste|unshake|mercs|iceborn bc sterak dd twin|Wariant bardziej ofensywny – Black Cleaver i Sterak's dla trybu All Out.
+A|Nieprzebijalny front|Tank|grasp|colossus secondwind overgrowth|haste|steel|iceborn despair twin thorn fon|W ARAM K'Sante przyjmuje cały poke i wyciąga carry wroga superumiejętnością.
+A|Wyrywacz|Bruiser|conq|triumph laststand bloodline|unshake|mercs|iceborn sterak dd twin fon|Po superumiejętności K'Sante walczy jak wojownik i leczy się z Conqueror.
+U|Niezniszczalny|Tank|grasp|colossus secondwind overgrowth|focus|steel|iceborn despair twin garg thorn|W URF W i Q co chwilę – ogromna wytrzymałość i kontrola tłumu.
+U|All Out bez końca|Bruiser|conq|triumph laststand bloodline|focus|mercs|iceborn bc sterak twin ga|Tryb All Out niemal non stop – obrażenia i leczenie.
+S thorn fon kaenic randuin fh twin despair dd maw
+
+@ kaisa
+I Dragon | Hybrydowa strzelczyni, której umiejętności ewoluują dzięki przedmiotom. Q wypuszcza pociski, a superumiejętność pozwala doskoczyć do oznaczonego celu.
+N|Ewolucja Q|Dragon|lt|triumph cutdown alacrity|bone|bers|yuntal ie navori ldr ga|Yun Tal i Infinity Edge dają obrażenia i ewolucję Q; Navori skraca odnowienia umiejętności.
+N|Hybrydowa Kai'Sa|Dragon|lt|triumph laststand alacrity|celerity|bers|rage nashor kraken rab ga|Guinsoo's i Nashor's Tooth – ewolucja W i E, obrażenia on-hit i magiczne.
+A|Łowczyni w tłumie|DPS|lt|triumph laststand bloodline|secondwind|bers|yuntal ie runaan ldr shieldbow|W ARAM Runaan's i Q trafiają wielu wrogów naraz.
+A|Hybrydowy poke|Poke|comet|manaflow transc scorch|bone|bers|rage nashor rab void banshee|W (promień) nęka wrogów z dystansu dzięki AP – Banshee's chroni przed kontrolą tłumu.
+U|Deszcz pocisków|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie navori ldr bt|W URF Q i superumiejętność ciągle – Kai'Sa skacze między celami.
+U|Plazma AP|Burst|comet|axiom celerity scorch|bone|bmana|rage nashor rab void shiv|Promienie W z pełną mocą AP co kilka sekund.
+S ga shieldbow ldr mr qss scimitar bt wits banshee
+
+@ kalista
+I Dragon | Strzelczyni skacząca po każdym ataku. Rozrywa wrogów włóczniami (E) i ratuje związanego sojusznika superumiejętnością.
+N|Włócznia zemsty|Dragon|lt|triumph cutdown alacrity|bone|bers|bork rage kraken ldr ga|BoRK i Guinsoo's – więcej ataków to więcej włóczni do rozerwania.
+N|Krytyczna Kalista|Dragon|fleet|triumph coup alacrity|celerity|bers|yuntal ie runaan ldr ga|Runaan's nakłada włócznie na kilka celów naraz.
+A|Włócznie w tłumie|DPS|lt|triumph laststand bloodline|secondwind|bers|bork rage runaan ldr ga|Runaan's i BoRK – E rozrywa całą grupę wrogów.
+A|Nieuchwytna|DPS|fleet|triumph cutdown bloodline|bone|bers|bork kraken pd mr shieldbow|Kiting z Phantom Dancer i ochrona Shieldbow.
+U|Rozdarcie|DPS|lt|triumph coup alacrity|focus|bers|bork rage kraken ldr bt|W URF E ciągle – wrogowie giną od włóczni bez przerwy.
+U|Włócznie URF|DPS|lt|triumph laststand bloodline|bone|bers|yuntal ie runaan ldr bt|Wariant krytyczny z Runaan's.
+S ga shieldbow ldr mr qss scimitar wits bt
+
+@ karma
+I Support, Mid | Enchanterka ze wzmocnieniem Mantra – wzmocnione Q eksploduje, W unieruchamia, a E daje tarczę i przyspieszenie całej drużynie.
+N|Mantra tarcz|Support|aery|manaflow transc scorch|revital|ionian|sfw harmonic shurelya redemp mikael|Staff of Flowing Water i Harmonic Echo wzmacniają tarcze E; Shurelya's dla inicjacji.
+N|Ofensywna Karma|Mid|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet i wzmocnione Q – mocny poke z linii środkowej.
+A|Tarcze dla drużyny|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic sfw shurelya redemp locket|W ARAM wzmocnione E daje tarczę i przyspieszenie całej drużynie.
+A|Poke Mantry|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|Wzmocnione Q z daleka – ogromny poke w wąskiej linii.
+U|Mantra co chwilę|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Mantra dostępna niemal zawsze – wzmocnione Q za każdym razem.
+U|Wieczne tarcze|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic shurelya redemp locket|Tarcze dla całej drużyny co kilka sekund.
+S mikael redemp locket shurelya zhonya banshee mandate helia
+
+@ kassadin
+I Mid | Hiperkarny zabójca przeciw magom – teleportuje się superumiejętnością co chwilę, a pasywka zmniejsza obrażenia magiczne.
+N|Hiperskalowanie|Mid|elec|impact hubris eyeball|transc|bmana|aa roa rab void zhonya|Archangel's Staff i Rod of Ages – mana wzmacnia superumiejętność; w późnej grze Kassadin teleportuje się bez przerwy.
+N|Wczesny burst|Mid|fs|impact tyrant relentless|transc|bmana|luden lich rab void banshee|First Strike i Lich Bane – szybsze tempo gry i roaming.
+A|Teleport w tłum|Burst|elec|impact tyrant eyeball|secondwind|bmana|aa roa rab zhonya void|W ARAM Kassadin wchodzi teleportem i ucieka zanim wrogowie zareagują.
+A|Przeciw magom|Bruiser|conq|triumph laststand bloodline|bone|mercs|roa rift liandry rab banshee|Riftmaker i Banshee's – przetrwanie drużyn pełnych magów.
+U|Wieczny teleport|Burst|elec|impact tyrant eyeball|gstorm|bmana|lich luden rab void zhonya|W URF superumiejętność co sekundę – Kassadin jest wszędzie.
+U|Łowca dusz|Burst|dh|impact tyrant eyeball|focus|bmana|lich surge orb rab void|Dark Harvest i Infinity Orb – każdy teleport to dobicie.
+S zhonya banshee void rab lich orb morello roa
+
+@ katarina
+I Mid | Zabójczyni ze sztyletami – resetuje czasy odnowienia przy zabójstwach i asystach, a superumiejętność zadaje obrażenia wszystkim wokół.
+N|Resetujący burst|Mid|elec|impact hubris eyeball|focus|dyn|surge lich rab void zhonya|AP Katarina: sztylety i Stormsurge zabijają cel w sekundę, a resety pozwalają przejść przez całą walkę.
+N|Hybrydowa Katarina|Mid|conq|triumph laststand bloodline|bone|glut|dnd rift nashor rab void|Dusk and Dawn i Nashor's Tooth – obrażenia on-hit ze sztyletów i leczenie.
+A|Tornado ostrzy|Burst|elec|impact tyrant eyeball|secondwind|dyn|surge lich rab zhonya void|W ARAM wiele celów to wiele resetów – superumiejętność w tłum.
+A|Przeżywająca Kat|Bruiser|conq|triumph laststand bloodline|bone|mercs|rift dnd liandry rab zhonya|Riftmaker i Liandry's – dłuższe walki z grupą.
+U|Nieskończone sztylety|Burst|elec|impact tyrant eyeball|gstorm|dyn|surge lich orb rab void|W URF E praktycznie bez odnowienia – Katarina teleportuje się po całym polu.
+U|Wir śmierci|Bruiser|conq|triumph laststand bloodline|focus|glut|rift dnd liandry rab void|Leczenie z Conqueror i Riftmaker przy ciągłych obrażeniach.
+S zhonya banshee void rab lich orb morello rift
+
+@ kayle
+I Baron, Mid | Hiperkarna wojowniczka – na poziomie 5 atakuje z dystansu, na 9 zadaje obrażenia obszarowe, a na 13 staje się niepowstrzymaną serafinką.
+N|Serafinka AP|Baron|lt|triumph laststand alacrity|bone|bers|nashor rage rab void banshee|Nashor's Tooth i Guinsoo's – obrażenia magiczne z każdego ataku; Rabadon's w późnej grze.
+N|Hybrydowa Kayle|Mid|lt|triumph coup alacrity|celerity|bers|rage kraken nashor term ga|Kraken Slayer i Terminus – mieszane obrażenia z ataków.
+A|Ogniste fale|DPS|lt|triumph laststand bloodline|secondwind|bers|nashor rage rab void banshee|W ARAM fale ognia trafiają całą drużynę wroga.
+A|Nieśmiertelna|DPS|lt|triumph laststand bloodline|bone|mercs|nashor rage rift rab banshee|Riftmaker i Banshee's dla przeżywalności przed poziomem 13.
+U|Niebiańska furia|DPS|lt|triumph coup alacrity|focus|bers|nashor rage rab void banshee|W URF superumiejętność co chwilę – Kayle jest nietykalna.
+U|Święty ogień|DPS|lt|triumph laststand bloodline|bone|bers|nashor rage shiv rab void|Statikk Shiv przenosi efekty on-hit na kolejne cele.
+S banshee void rab wits ga nashor rage kraken
+
+@ kayn
+I Dżungla | Dżungler wybierający formę: Rhaast (wojownik z leczeniem) lub Zabójca Cienia (burst i przechodzenie przez ściany).
+N|Rhaast|Dżungla|conq|triumph laststand bloodline|celerity|steel|ecl sky sterak dd ga|Forma Rhaast leczy się z Q i superumiejętności – Eclipse, Sundered Sky i Sterak's.
+N|Zabójca Cienia|Dżungla|elec|impact hubris relentless|celerity|dyn|ghost eon sery dusk ga|Lethality i przechodzenie przez ściany – zabójstwa z zaskoczenia.
+A|Rhaast w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd chem|W ARAM Rhaast leczy się z każdego trafionego wroga.
+A|Cienisty zabójca|Burst|elec|impact tyrant eyeball|bone|dyn|ghost eon sery dusk ga|Szybkie zabójstwa z flanki.
+U|Wieczny Rhaast|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl sky sterak dd ga|W URF Q i E ciągle – nieustanne leczenie.
+U|Cień URF|Burst|elec|impact tyrant eyeball|gstorm|dyn|ghost eon sery ecl ga|Burst i przechodzenie przez ściany co chwilę.
+S ga maw sterak dd chem bc sery eon qss
+
+@ kennen
+I Baron | Szybki mag z ogłuszeniem po 3 ładunkach Znaku Burzy. Superumiejętność ogłusza całą drużynę wroga w obszarze.
+N|Burza z Baronu|Baron|elec|cheap tyrant eyeball|transc|bmana|belt liandry rab zhonya void|Rocketbelt + E + superumiejętność – ogłuszenie całej drużyny; Zhonya's po wejściu.
+N|Szybki atakujący|Baron|lt|triumph laststand alacrity|celerity|bers|nashor rage rab void zhonya|Nashor's Tooth i Guinsoo's – ataki szybko nakładają Znak Burzy.
+A|Burzowe wejście|Burst|elec|cheap tyrant eyeball|secondwind|bmana|belt liandry rab zhonya void|W ARAM superumiejętność trafia całą drużynę wroga.
+A|Wytrzymały Kennen|DPS|conq|triumph laststand bloodline|bone|mercs|rift liandry rab zhonya void|Riftmaker i Liandry's – dłuższe przebywanie w walce.
+U|Ciągła burza|Burst|elec|cheap tyrant eyeball|gstorm|bmana|belt liandry rab void zhonya|W URF superumiejętność co chwilę – ogłuszenia bez końca.
+U|Piorunujący strzelec|DPS|lt|triumph coup alacrity|focus|bers|nashor rage rab void zhonya|Maksymalna prędkość ataku i obrażenia magiczne on-hit.
+S zhonya banshee void rab liandry morello crypt rift
+
+@ khazix
+I Dżungla | Zabójca ewoluujący umiejętności – zadaje dodatkowe obrażenia izolowanym celom i poluje z niewidzialności.
+N|Łowca izolowanych|Dżungla|elec|impact hubris relentless|celerity|dyn|ghost eon sery dusk ga|Lethality i niewidzialność – Q na izolowanym celu zabija strzelców w sekundę.
+N|Bruiser Kha'Zix|Dżungla|conq|triumph laststand haste|celerity|glut|ecl shojin sery dd ga|Wariant z Conqueror – dłuższe walki i skoki z resetami.
+A|Łowca z flanki|Burst|elec|impact tyrant eyeball|secondwind|dyn|ghost eon sery dusk ga|W ARAM szukaj izolowanych celów po stronie wroga.
+A|Wytrzymały łowca|Bruiser|conq|triumph laststand bloodline|bone|glut|ecl sky sery dd ga|Sundered Sky i Death's Dance – przetrwanie ciągłych walk.
+U|Skoki bez końca|Burst|elec|impact tyrant eyeball|gstorm|dyn|ghost eon sery ecl ga|W URF E i niewidzialność co chwilę – polowanie non stop.
+U|Drapieżnik|Burst|dh|impact tyrant eyeball|focus|dyn|ghost dusk sery coll ga|Dark Harvest i The Collector dobijają każdy cel.
+S ga maw dd eon sery chem bc qss
+
+@ kindred
+I Dżungla | Strzelecki dżungler zbierający znaki z celów i potworów. Superumiejętność tworzy strefę, w której nikt nie może umrzeć.
+N|Łowcy znaków|Dżungla|lt|triumph laststand alacrity|celerity|bers|kraken bork rage ldr ga|Kraken Slayer i BoRK – pasywka zwiększa zasięg, a obrażenia on-hit rosną.
+N|Krytyczne Kindred|Dżungla|fleet|triumph coup alacrity|bone|bers|yuntal ie navori ldr ga|Navori skraca odnowienia Q, a Yun Tal i Infinity Edge dają obrażenia krytyczne.
+A|Strażnicy życia|DPS|lt|triumph laststand bloodline|secondwind|bers|kraken bork runaan ldr ga|Runaan's i superumiejętność ratująca drużynę w teamfightach.
+A|Przeżywający łowca|DPS|fleet|triumph cutdown bloodline|bone|bers|yuntal ie bt mr shieldbow|Bloodthirster i Shieldbow do ciągłych walk.
+U|Wieczna ochrona|DPS|lt|triumph coup alacrity|focus|bers|kraken bork rage ldr bt|W URF superumiejętność co chwilę – drużyna jest nieśmiertelna.
+U|Doskoki Q|DPS|fleet|triumph coup bloodline|bone|bers|yuntal ie navori ldr bt|Q co chwilę dzięki Navori – nieustanny kiting.
+S ga shieldbow ldr mr qss scimitar bt wits
+
+@ kogmaw
+I Dragon | Artyleryjski strzelec – W zwiększa zasięg i zadaje % zdrowia celu, superumiejętność ostrzeliwuje z ogromnej odległości.
+N|On-hit maszyna|Dragon|lt|triumph laststand alacrity|bone|bers|bork rage kraken wits ga|BoRK i Guinsoo's – W zadaje ogromne obrażenia % zdrowia z każdym atakiem.
+N|Artyleria AP|Dragon|comet|manaflow transc scorch|bone|bmana|luden rab void horizon zhonya|Wariant AP: superumiejętność i E zadają ogromne obrażenia z dystansu.
+A|Tank-niszczyciel|DPS|lt|triumph laststand bloodline|secondwind|bers|bork rage kraken wits ga|W ARAM Kog'Maw niszczy tanki z bezpiecznej pozycji za frontem.
+A|Artyleria|Poke|comet|manaflow transc scorch|bone|bmana|luden horizon rab void zhonya|Superumiejętność z daleka – ciągły poke w wąskiej linii.
+U|Karabin z pustki|DPS|lt|triumph coup alacrity|focus|bers|bork rage kraken term ga|W URF W ciągle aktywne – Kog'Maw niszczy wszystko w zasięgu.
+U|Grad artylerii|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|Superumiejętność bez odnowienia – nieustający ostrzał.
+S ga shieldbow wits bork qss scimitar term runaan
+
+@ lee-sin
+I Dżungla | Mnich z doskokami i kopnięciem superumiejętności (Insec). Silny we wczesnej grze i gankach.
+N|Mnich wojownik|Dżungla|conq|triumph laststand haste|celerity|glut|ecl bc sterak dd ga|Eclipse i Black Cleaver – mocne combo Q+Q z przebiciem pancerza.
+N|Burst mnicha|Dżungla|elec|impact hubris relentless|celerity|dyn|ecl ghost sery eon ga|Lethality: kopnięcie i dobicie w sekundę.
+A|Wojownik frontowy|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore bc sterak dd thorn|Goredrinker i E trafiają wiele celów w ARAM.
+A|Kopnięcie w drużynę|Burst|elec|impact tyrant eyeball|bone|dyn|ecl ghost sery maw ga|Kopnij carry wroga w swoją drużynę.
+U|Wieczne doskoki|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl sky sterak dd ga|W URF Q i W co chwilę – Lee Sin jest wszędzie.
+U|Insec co 10 sekund|Burst|elec|impact tyrant eyeball|gstorm|dyn|ecl ghost sery eon ga|Kopnięcie superumiejętności niemal bez odnowienia.
+S ga maw sterak dd bc chem sery eon qss
+
+@ leona
+I Support | Tank inicjujący z serią ogłuszeń – Q ogłusza, E przyciąga do celu, a superumiejętność ogłusza grupę.
+N|Świt Solari|Support|ice|colossus bone overgrowth|celerity|steel|locket zeke virtue twin dawn|Ice Overlord i Courage of the Colossus po każdym ogłuszeniu; Dawnshroud zadaje obrażenia przy każdej kontroli tłumu.
+N|Agresywna Leona|Support|grasp|colossus secondwind overgrowth|hexflash|mercs|locket trap zeke twin abyssal|Grasp i Yordle Trap – wejście w linię i prędkość ataku dla strzelca.
+A|Front słońca|Tank|ice|colossus secondwind overgrowth|celerity|steel|locket zeke virtue despair twin|W ARAM Leona wchodzi pierwsza i ogłusza kilku wrogów naraz.
+A|Wieczna tarcza|Tank|grasp|unshake secondwind overgrowth|triumph|mercs|locket dawn despair twin thorn|Grasp i W – ogromne odporności w długich walkach.
+U|Ciągłe ogłuszenia|Tank|ice|colossus secondwind overgrowth|focus|steel|zeke despair twin dawn garg|W URF ogłuszenia co chwilę – wrogowie nie mogą się ruszyć.
+U|Słoneczny miecz|Tank|grasp|colossus secondwind overgrowth|focus|mercs|heart despair twin thorn garg|Heartsteel i Grasp – rosnąca wytrzymałość.
+S fh thorn kaenic fon abyssal randuin dawn mantle
+
+@ lillia
+I Dżungla, Baron | Nieśmiała driada – kumuluje prędkość ruchu z każdym trafieniem Q i usypia wrogów superumiejętnością.
+N|Senny ogień|Dżungla|conq|triumph laststand haste|celerity|glut|torch liandry rylai rab void|Blackfire Torch i Liandry's – pasywka i Q podpalają wszystkich w pobliżu.
+N|Szybka driada|Dżungla|prush|zeal cutdown haste|unshake|mercs|torch cosmic liandry rab void|Phase Rush i Cosmic Drive – maksymalna prędkość ruchu i kiting.
+A|Kołysanka|DPS|conq|triumph laststand bloodline|secondwind|mercs|liandry torch rylai rab void|W ARAM Lillia usypia całą drużynę i pali wszystkich.
+A|Tankowa driada|Tank AP|conq|unshake secondwind overgrowth|triumph|steel|liandry rift rylai rab banshee|Riftmaker i Rylai's – wytrzymałość i spowolnienia.
+U|Nieskończony kwiat|DPS|conq|triumph laststand bloodline|focus|glut|torch liandry rylai rab void|W URF Q co chwilę – Lillia jest najszybsza na mapie.
+U|Wieczny sen|Burst|dh|cheap tyrant eyeball|gstorm|bmana|torch liandry rab void cosmic|Dark Harvest i superumiejętność co chwilę.
+S banshee void rab liandry rylai morello cosmic rift
+
+@ lissandra
+I Mid | Lodowa magini z mnóstwem kontroli tłumu – unieruchamia W, szybuje po lodowym szponie (E) i zamraża cel lub siebie superumiejętnością.
+N|Lodowa czarodziejka|Mid|elec|cheap tyrant eyeball|transc|bmana|luden malig rab void zhonya|Luden's i Malignance – burst i częsta superumiejętność do łapania celów.
+N|Kontrola tłumu|Mid|comet|manaflow transc scorch|bone|mercs|belt rylai rab zhonya void|Rocketbelt i Rylai's – wejście i spowalnianie całej drużyny.
+A|Lodowa inicjacja|Burst|elec|cheap tyrant eyeball|secondwind|bmana|belt luden rab zhonya void|W ARAM Lissandra inicjuje i przetrwa dzięki Zhonya's.
+A|Lodowy poke|Poke|comet|manaflow transc scorch|bone|mercs|luden rylai liandry rab zhonya|Rylai's i Liandry's – spowolnienia i obrażenia w czasie.
+U|Wieczna zima|Burst|elec|cheap tyrant eyeball|gstorm|bmana|belt luden rab void zhonya|W URF kontrola tłumu co chwilę – wrogowie są zamrożeni.
+U|Lodowa królowa|Burst|dh|cheap tyrant eyeball|focus|bmana|malig luden rab void zhonya|Dark Harvest i częsta superumiejętność.
+S zhonya banshee void morello rylai liandry crypt orb
+
+@ lucian
+I Dragon, Mid | Strzelec z krótkimi wymianami – po każdej umiejętności strzela podwójnie (pasywka). Doskok E pozwala szybko wejść i wyjść z walki.
+N|Podwójne strzały|Dragon|conq|triumph cutdown alacrity|bone|bers|er navori ie ldr ga|Essence Reaver i Navori – ciągłe umiejętności i podwójne strzały z pasywki.
+N|Burst Luciana|Mid|elec|impact hubris eyeball|celerity|dyn|er coll ie ldr ga|Electrocute i The Collector – szybkie zabójstwa po combo.
+A|Oczyszczający|DPS|conq|triumph laststand bloodline|secondwind|bers|er navori ie bt shieldbow|W ARAM Bloodthirster i Shieldbow dla przetrwania.
+A|Poke Q|Poke|comet|manaflow transc scorch|bone|dyn|er ie hexop ldr ga|Arcane Comet i Q z dystansu – ciągły poke.
+U|Tornado strzałów|DPS|conq|triumph coup bloodline|focus|bers|er navori ie ldr bt|W URF pasywka odpala non stop – dwa razy więcej strzałów.
+U|Egzekutor|Burst|elec|impact tyrant eyeball|gstorm|dyn|coll er ie ldr ga|Burst i dobijanie z The Collector.
+S ga shieldbow ldr mr qss scimitar bt maw
+
+@ lulu
+I Support | Wróżka-enchanterka – przemienia wrogów w zwierzątka (W), tarczuje sojuszników (E) i powiększa ich superumiejętnością.
+N|Strażniczka carry|Support|aery|manaflow transc gstorm|revital|ionian|censer harmonic sfw redemp mikael|Ardent Censer i Harmonic Echo – tarcze i przyspieszenie dla strzelca.
+N|Czarodziejska obrończyni|Support|guard|colossus bone revital|celerity|ionian|circlet shurelya harmonic locket mikael|Guardian i Whispering Circlet – maksymalna ochrona drużyny.
+A|Magiczna ochrona|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic censer sfw redemp mikael|W ARAM tarcze i przemiany non stop.
+A|Poke wróżki|Poke|comet|manaflow transc scorch|bone|bmana|helia mandate luden rab void|Echoes of Helia i Q z dystansu – obrażenia i leczenie.
+U|Wieczne tarcze|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF tarcze i przemiany co chwilę – idealne wsparcie.
+U|AP wróżka|Burst|comet|axiom celerity scorch|bone|bmana|luden rab void horizon zhonya|Pełne AP – Q i E zadają zaskakujące obrażenia.
+S mikael redemp locket shurelya censer harmonic zhonya mandate
+
+@ lux
+I Mid, Support | Magini światła z unieruchomieniem (Q), tarczą (W) i laserem superumiejętności o ogromnym zasięgu.
+N|Lśniąca artyleria|Mid|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet, Malignance i Horizon Focus – ogromny poke i częsty laser.
+N|Wsparcie z laserem|Support|aery|manaflow transc scorch|revital|ionian|mandate helia horizon rab zhonya|Imperial Mandate po każdym unieruchomieniu wzmacnia obrażenia drużyny.
+A|Laserowy poke|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|W ARAM laser i E trafiają całą grupę wrogów.
+A|Bezpieczna Lux|Burst|elec|cheap tyrant eyeball|bone|mercs|luden malig rab zhonya banshee|Zhonya's i Banshee's chronią przed wejściami.
+U|Laserowy grad|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF laser co kilka sekund.
+U|Burst światła|Burst|elec|cheap tyrant eyeball|gstorm|bmana|malig luden orb rab void|Infinity Orb do dobijania laserem.
+S zhonya banshee void horizon morello crypt orb mandate
