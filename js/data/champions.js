@@ -417,7 +417,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "ULTIMATE",
     "name": "Spadająca Gwiazda / Załamanie Firmamentu",
-    "desc": "Spadająca Gwiazda: Aurelion Sol wzywa gwiazdę. Gwiazda zadaje obrażenia magiczne i ogłusza trafionych wrogów, zapewniając przy tym ładunki Gwiezdnego Pyłu za każdego trafionego wrogiego bohatera. Gdy Aurelion Sol ma wystarczającą ilość Gwiezdnego Pyłu, jego następna superumiejętność zmienia się w Załamanie Firmamentu. \nZałamanie Firmamentu: Aurelion Sol wzywa z nieba gigantyczną gwiazdę o znacznie większej strefie uderzenia, która zadaje większe obrażenia i wyrzuca wrogów w powietrze, zamiast ich ogłuszać. Z krawędzi strefy uderzenia rozchodzi się następnie potężna fala uderzeniowa, która zadaje obrażenia i spowalnia trafionych wrogów."
+    "desc": "Spadająca Gwiazda: Aurelion Sol wzywa gwiazdę. Gwiazda zadaje obrażenia magiczne i ogłusza trafionych wrogów, zapewniając przy tym ładunki Gwiezdnego Pyłu za każdego trafionego wrogiego bohatera. Gdy Aurelion Sol ma wystarczającą ilość Gwiezdnego Pyłu, jego następna superumiejętność zmienia się w Załamanie Firmamentu.\nZałamanie Firmamentu: Aurelion Sol wzywa z nieba gigantyczną gwiazdę o znacznie większej strefie uderzenia, która zadaje większe obrażenia i wyrzuca wrogów w powietrze, zamiast ich ogłuszać. Z krawędzi strefy uderzenia rozchodzi się następnie potężna fala uderzeniowa, która zadaje obrażenia i spowalnia trafionych wrogów."
    }
   ],
   "lang": "pl"
@@ -786,7 +786,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "2",
     "name": "Walkiria",
-    "desc": "Corki przelatuje krótki dystans i zrzuca bomby, które tworzą ścieżkę płomieni zadającą obrażenia znajdującym się na niej wrogom.\n\nPrzesyłka Specjalna: Jeśli Corki ma przy sobie Paczkę, lot trwa dłużej, wrogowie zostają odrzuceni, a ścieżka spowalnia i zadaje obrażenia."
+    "desc": "Corki przelatuje krótki dystans i zrzuca bomby, które tworzą ścieżkę płomieni zadającą obrażenia znajdującym się na niej wrogom.\nPrzesyłka Specjalna: Jeśli Corki ma przy sobie Paczkę, lot trwa dłużej, wrogowie zostają odrzuceni, a ścieżka spowalnia i zadaje obrażenia."
    },
    {
     "slot": "3",
@@ -1117,7 +1117,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "1",
     "name": "Przerażenie",
-    "desc": "Biernie: Gdy Fiddlesticks przez dłuższy czas nie bierze udziału w walce i jest niewidzialny dla jednostek wroga lub pozostaje w bezruchu przez krótki czas, jego następna umiejętność przestraszy cel.\n\nFiddlesticks wypuszcza kruka w kierunku celu, zadając mu obrażenia magiczne i powodując przestraszenie. Kruk zadaje dodatkowe obrażenia, jeśli jednostka została niedawno przerażona."
+    "desc": "Biernie: Gdy Fiddlesticks przez dłuższy czas nie bierze udziału w walce i jest niewidzialny dla jednostek wroga lub pozostaje w bezruchu przez krótki czas, jego następna umiejętność przestraszy cel.\nFiddlesticks wypuszcza kruka w kierunku celu, zadając mu obrażenia magiczne i powodując przestraszenie. Kruk zadaje dodatkowe obrażenia, jeśli jednostka została niedawno przerażona."
    },
    {
     "slot": "2",
@@ -1586,17 +1586,17 @@ window.WR_CHAMPIONS = [
    {
     "slot": "1",
     "name": "Temat: Katastrofa",
-    "desc": "Hwei zamienia umiejętności w zadające obrażenia moce:\n\nNiszczycielski Ogień – wystrzeliwuje płonący pocisk;\nPrzeszywający Pocisk – ciska błyskawicą o dużym zasięgu;\nStopiona Rozpadlina – wystrzeliwuje ognistą ścieżkę, która nieustannie wybucha."
+    "desc": "Hwei zamienia umiejętności w zadające obrażenia moce:\nNiszczycielski Ogień – wystrzeliwuje płonący pocisk;\nPrzeszywający Pocisk – ciska błyskawicą o dużym zasięgu;\nStopiona Rozpadlina – wystrzeliwuje ognistą ścieżkę, która nieustannie wybucha."
    },
    {
     "slot": "2",
     "name": "Temat: Spokój",
-    "desc": "Hwei zamienia umiejętności w użytkowe wzmocnienia:\n\nPrzemijający Przepływ – zwiększa prędkość ruchu;\nKałuża Odbić – tworzy tarcze z wody;\nNastrojowe Światła – przywracają manę i zadają dodatkowe obrażenia."
+    "desc": "Hwei zamienia umiejętności w użytkowe wzmocnienia:\nPrzemijający Przepływ – zwiększa prędkość ruchu;\nKałuża Odbić – tworzy tarcze z wody;\nNastrojowe Światła – przywracają manę i zadają dodatkowe obrażenia."
    },
    {
     "slot": "3",
     "name": "Temat: Udręka",
-    "desc": "Hwei zamienia umiejętności w moce z efektami kontroli tłumu:\n\nPonure Oblicze – przestrasza i spowalnia;\nSpojrzenie Otchłani – wysyła samonaprowadzający pocisk z okiem, który posiada prawdziwe widzenie;\nMiażdżąca Paszcza – wciąga wrogów, zadaje obrażenia i spowalnia."
+    "desc": "Hwei zamienia umiejętności w moce z efektami kontroli tłumu:\nPonure Oblicze – przestrasza i spowalnia;\nSpojrzenie Otchłani – wysyła samonaprowadzający pocisk z okiem, który posiada prawdziwe widzenie;\nMiażdżąca Paszcza – wciąga wrogów, zadaje obrażenia i spowalnia."
    },
    {
     "slot": "ULTIMATE",
@@ -1921,22 +1921,22 @@ window.WR_CHAMPIONS = [
    {
     "slot": "PASSIVE",
     "name": "Niezmącony Instynkt",
-    "desc": "Zadające obrażenia umiejętności K’Santego nakładają na wrogów naznaczenie, przez co otrzymują oni więcej obrażeń przy jego następnym trafieniu. \nW stanie Na Całego ataki, umiejętności i umiejętność bierna K’Santego zadają więcej obrażeń."
+    "desc": "Zadające obrażenia umiejętności K’Santego nakładają na wrogów naznaczenie, przez co otrzymują oni więcej obrażeń przy jego następnym trafieniu.\nW stanie Na Całego ataki, umiejętności i umiejętność bierna K’Santego zadają więcej obrażeń."
    },
    {
     "slot": "1",
     "name": "Uderzenie Ntofo",
-    "desc": "K’Sante uderza swoją bronią, zadając obrażenia fizyczne i spowalniając wrogów w linii. Przy trafieniu przyznaje ładunek Uderzenia Ntofo. Dwa ładunki pozwolą mu uwolnić falę uderzeniową, która ogłusza i przyciąga przeciwników. \nW stanie Na Całego czas odnowienia jest skrócony."
+    "desc": "K’Sante uderza swoją bronią, zadając obrażenia fizyczne i spowalniając wrogów w linii. Przy trafieniu przyznaje ładunek Uderzenia Ntofo. Dwa ładunki pozwolą mu uwolnić falę uderzeniową, która ogłusza i przyciąga przeciwników.\nW stanie Na Całego czas odnowienia jest skrócony."
    },
    {
     "slot": "2",
     "name": "Taran",
-    "desc": "K’Sante przygotowuje się do ataku, zyskując niewrażliwość na przemieszczenia i zmniejszone obrażenia. Następnie doskakuje do przodu, zadając obrażenia, odrzucając i ogłuszając wrogów. \nW formie Na Całego czas odnowienia jest zresetowany, umiejętność zadaje dodatkowe obrażenia, nie odrzuca już ani nie ogłusza, ale w zamian zapewnia zwiększoną redukcję obrażeń i prędkość doskoku."
+    "desc": "K’Sante przygotowuje się do ataku, zyskując niewrażliwość na przemieszczenia i zmniejszone obrażenia. Następnie doskakuje do przodu, zadając obrażenia, odrzucając i ogłuszając wrogów.\nW formie Na Całego czas odnowienia jest zresetowany, umiejętność zadaje dodatkowe obrażenia, nie odrzuca już ani nie ogłusza, ale w zamian zapewnia zwiększoną redukcję obrażeń i prędkość doskoku."
    },
    {
     "slot": "3",
     "name": "Praca Nóg",
-    "desc": "K’Sante doskakuje i zyskuje tarczę. Jeśli doskoczy w kierunku sojusznika, zasięg doskoku zwiększy się, a obaj bohaterowie zyskają tarczę. \nW stanie Na Całego czas odnowienia jest skrócony, a prędkość doskoku zwiększona."
+    "desc": "K’Sante doskakuje i zyskuje tarczę. Jeśli doskoczy w kierunku sojusznika, zasięg doskoku zwiększy się, a obaj bohaterowie zyskają tarczę.\nW stanie Na Całego czas odnowienia jest skrócony, a prędkość doskoku zwiększona."
    },
    {
     "slot": "ULTIMATE",
@@ -2101,12 +2101,12 @@ window.WR_CHAMPIONS = [
    {
     "slot": "2",
     "name": "Piekielne Ostrze",
-    "desc": "Wzmacnia swój kolejny atak podstawowy, aby zwiększyć jego zasięg, zadać dodatkowe obrażenia magiczne oraz odzyskać określony odsetek brakującej many po trafieniu. \n\nJeśli Piekielne Ostrze zabije cel, jego pozostały czas odnowienia zostanie skrócony."
+    "desc": "Wzmacnia swój kolejny atak podstawowy, aby zwiększyć jego zasięg, zadać dodatkowe obrażenia magiczne oraz odzyskać określony odsetek brakującej many po trafieniu.\nJeśli Piekielne Ostrze zabije cel, jego pozostały czas odnowienia zostanie skrócony."
    },
    {
     "slot": "3",
     "name": "Puls Mocy",
-    "desc": "Zadaje obrażenia magiczne wrogom w formie stożka i spowalnia ich.\n\nPuls Mocy zostaje wzmocniony, gdy w okolicy ktoś rzuci inne zaklęcie. Po ulepszeniu zadaje zwiększone obrażenia magiczne i spowalnia wrogów."
+    "desc": "Zadaje obrażenia magiczne wrogom w formie stożka i spowalnia ich.\nPuls Mocy zostaje wzmocniony, gdy w okolicy ktoś rzuci inne zaklęcie. Po ulepszeniu zadaje zwiększone obrażenia magiczne i spowalnia wrogów."
    },
    {
     "slot": "ULTIMATE",
@@ -2408,7 +2408,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "ULTIMATE",
     "name": "Żywy Pocisk",
-    "desc": "Biernie: Kog'Maw zyskuje prędkość ataku.\\nKog'Maw strzela kwasem na dany obszar, zadając obrażenia magiczne i ujawniając trafionych wrogów. Obrażenia są zwiększone przy trafieniu wrogów mających niski poziom zdrowia. Ponadto im więcej żywych pocisków zostanie wystrzelonych w krótkim odstępie czasu, tym więcej many kosztuje każdy następny."
+    "desc": "Biernie: Kog'Maw zyskuje prędkość ataku.\nKog'Maw strzela kwasem na dany obszar, zadając obrażenia magiczne i ujawniając trafionych wrogów. Obrażenia są zwiększone przy trafieniu wrogów mających niski poziom zdrowia. Ponadto im więcej żywych pocisków zostanie wystrzelonych w krótkim odstępie czasu, tym więcej many kosztuje każdy następny."
    }
   ],
   "lang": "pl"
@@ -3198,7 +3198,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "1",
     "name": "Rzut Oszczepem / Dobijanie",
-    "desc": "W Ludzkiej Postaci Nidalee rzuca w cel oszczepem, który zadaje obrażenia magiczne, a obrażenia te rosną wraz z dystansem przebytym przez oszczep. \nW Postaci Pumy jej następny atak zrani cel, zadając mu tym więcej obrażeń, im niższy jest jego poziom zdrowia."
+    "desc": "W Ludzkiej Postaci Nidalee rzuca w cel oszczepem, który zadaje obrażenia magiczne, a obrażenia te rosną wraz z dystansem przebytym przez oszczep.\nW Postaci Pumy jej następny atak zrani cel, zadając mu tym więcej obrażeń, im niższy jest jego poziom zdrowia."
    },
    {
     "slot": "2",
@@ -3323,17 +3323,17 @@ window.WR_CHAMPIONS = [
    {
     "slot": "1",
     "name": "Przypływ Wspomnień",
-    "desc": "Norra ładuje i wystrzeliwuje pocisk magicznej energii w wybranym kierunku. W czasie ładowania jest spowolniona. Pocisk energii zatrzymuje się po trafieniu pierwszego wrogiego bohatera, zadając jemu i pobliskim wrogom obrażenia magiczne. Wrogowie oznaczeni Pieczęcią Nici otrzymują dodatkowe obrażenia magiczne. \\nPrzy pełnym naładowaniu wszystkie Talizmany na obszarze zostają aktywowane i trafiony cel jest traktowany, jakby je aktywował."
+    "desc": "Norra ładuje i wystrzeliwuje pocisk magicznej energii w wybranym kierunku. W czasie ładowania jest spowolniona. Pocisk energii zatrzymuje się po trafieniu pierwszego wrogiego bohatera, zadając jemu i pobliskim wrogom obrażenia magiczne. Wrogowie oznaczeni Pieczęcią Nici otrzymują dodatkowe obrażenia magiczne.\nPrzy pełnym naładowaniu wszystkie Talizmany na obszarze zostają aktywowane i trafiony cel jest traktowany, jakby je aktywował."
    },
    {
     "slot": "2",
     "name": "Podróż Donikąd",
-    "desc": "Norra ujawnia mistyczny portal na wybranym okrężnym obszarze, zadając obrażenia magiczne wszystkim znajdującym się na nim wrogim bohaterom i wypędzając ich do alternatywnej rzeczywistości. Wypędzeni wrogowie są niemożliwi do obrania za cel, spowolnieni i nie mogą używać umiejętności. \\n"
+    "desc": "Norra ujawnia mistyczny portal na wybranym okrężnym obszarze, zadając obrażenia magiczne wszystkim znajdującym się na nim wrogim bohaterom i wypędzając ich do alternatywnej rzeczywistości. Wypędzeni wrogowie są niemożliwi do obrania za cel, spowolnieni i nie mogą używać umiejętności."
    },
    {
     "slot": "3",
     "name": "Nici Powrotu Do Domu",
-    "desc": "Biernie: Zadające obrażenia Talizmany nakładają Pieczęć Nici na swoje cele.\\nNorra przywołuje portale po obu stronach wybranego obszaru. Portale wystrzeliwują między sobą magiczne nici, zadając obrażenia magiczne wszystkim wrogom na obszarze i nakładając Pieczęć Nici. Pieczęcie Nici spowalniają cele i zwiększają ich rozmiar kolizji."
+    "desc": "Biernie: Zadające obrażenia Talizmany nakładają Pieczęć Nici na swoje cele.\nNorra przywołuje portale po obu stronach wybranego obszaru. Portale wystrzeliwują między sobą magiczne nici, zadając obrażenia magiczne wszystkim wrogom na obszarze i nakładając Pieczęć Nici. Pieczęcie Nici spowalniają cele i zwiększają ich rozmiar kolizji."
    },
    {
     "slot": "ULTIMATE",
@@ -3658,7 +3658,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "PASSIVE",
     "name": "Zwariowane Skrzydła",
-    "desc": "Rakan co jakiś czas zyskuje tarczę.\n\nZjednoczenie Kochanków: Rakan może dołączyć do Powrotu Xayah."
+    "desc": "Rakan co jakiś czas zyskuje tarczę.\nZjednoczenie Kochanków: Rakan może dołączyć do Powrotu Xayah."
    },
    {
     "slot": "1",
@@ -3673,7 +3673,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "3",
     "name": "Taniec Bojowy",
-    "desc": "Podlatuje do sojusznika, osłaniając go tarczą. Przez krótki czas można użyć ponownie za darmo.\n\nW przypadku użycia na Xayah wytrzymałość jest podwojona, a czas odnowienia skrócony."
+    "desc": "Podlatuje do sojusznika, osłaniając go tarczą. Przez krótki czas można użyć ponownie za darmo.\nW przypadku użycia na Xayah wytrzymałość jest podwojona, a czas odnowienia skrócony."
    },
    {
     "slot": "ULTIMATE",
@@ -3752,7 +3752,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "2",
     "name": "Ferromancja: Roztrzaskanie",
-    "desc": "Na koniu\nBiernie: Rell zyskuje prędkość ruchu.\nUżycie: Rell schodzi z konia, skacze ku miejscu docelowemu, wyrzucając w powietrze wrogów i zyskując tarczę. \n\nPieszo\nBiernie: Po zejściu z konia Rell zyskuje pancerz, odporność na magię, prędkość ataku i zasięg ataku, ale jest spowolniona. \nUżycie: Rell tworzy swojego wierzchowca, zyskując premię do prędkości ruchu, a jej kolejny atak podstawowy wyrzuca w powietrze trafionych wrogów."
+    "desc": "Na koniu\nBiernie: Rell zyskuje prędkość ruchu.\nUżycie: Rell schodzi z konia, skacze ku miejscu docelowemu, wyrzucając w powietrze wrogów i zyskując tarczę.\nPieszo\nBiernie: Po zejściu z konia Rell zyskuje pancerz, odporność na magię, prędkość ataku i zasięg ataku, ale jest spowolniona.\nUżycie: Rell tworzy swojego wierzchowca, zyskując premię do prędkości ruchu, a jej kolejny atak podstawowy wyrzuca w powietrze trafionych wrogów."
    },
    {
     "slot": "3",
@@ -4435,7 +4435,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "3",
     "name": "Flap, Flap, Flap",
-    "desc": "Smolder takes flight ignoring terrain and bombarding the lowest health enemy. In flight Smolder’s vision range is increased. \nPassive: deal bonus magic damage for each hit and gain extra bolts."
+    "desc": "Smolder takes flight ignoring terrain and bombarding the lowest health enemy. In flight Smolder’s vision range is increased.\nPassive: deal bonus magic damage for each hit and gain extra bolts."
    },
    {
     "slot": "ULTIMATE",
@@ -4638,7 +4638,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "1",
     "name": "Threaded Volley",
-    "desc": "Taliyah throws a volley of rocks in a target direction, each rock dealing magic damage to the first enemy hit and creating a quarry in the area around them. \nIf Taliyah casts Threaded Volley in a quarry, she consumes the ground to throw a stronger boulder that damages and slows enemies."
+    "desc": "Taliyah throws a volley of rocks in a target direction, each rock dealing magic damage to the first enemy hit and creating a quarry in the area around them.\nIf Taliyah casts Threaded Volley in a quarry, she consumes the ground to throw a stronger boulder that damages and slows enemies."
    },
    {
     "slot": "2",
@@ -4652,8 +4652,8 @@ window.WR_CHAMPIONS = [
    },
    {
     "slot": "ULTIMATE",
-    "name": "Weaver'S Wall",
-    "desc": "Taliyah summons a massive wall. If she immediately casts it again, she steps on and surfs along it. \nThe wall knocks back enemies. Once it’s fully formed, Taliyah can cast again to destroy it early."
+    "name": "Weaver's Wall",
+    "desc": "Taliyah summons a massive wall. If she immediately casts it again, she steps on and surfs along it.\nThe wall knocks back enemies. Once it’s fully formed, Taliyah can cast again to destroy it early."
    }
   ],
   "lang": "en"
@@ -5510,7 +5510,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "PASSIVE",
     "name": "Czyste Cięcia",
-    "desc": "Po użyciu umiejętności kolejne podstawowe ataki Xayah trafią wszystkich wrogów na swojej drodze i upuszczą Pióro.\n\nZjednoczenie Kochanków: Xayah może dołączyć do Powrotu Rakana."
+    "desc": "Po użyciu umiejętności kolejne podstawowe ataki Xayah trafią wszystkich wrogów na swojej drodze i upuszczą Pióro.\nZjednoczenie Kochanków: Xayah może dołączyć do Powrotu Rakana."
    },
    {
     "slot": "1",
@@ -5520,7 +5520,7 @@ window.WR_CHAMPIONS = [
    {
     "slot": "2",
     "name": "Zabójcze Upierzenie",
-    "desc": "Xayah wywołuje burzę ostrzy, która zwiększa prędkość i obrażenia jej podstawowych ataków. Ponadto zapewnia jej prędkość ruchu, gdy zaatakuje bohatera.\n\nJeśli sojuszniczy Rakan jest w pobliżu, on również zyska efekty tej umiejętności."
+    "desc": "Xayah wywołuje burzę ostrzy, która zwiększa prędkość i obrażenia jej podstawowych ataków. Ponadto zapewnia jej prędkość ruchu, gdy zaatakuje bohatera.\nJeśli sojuszniczy Rakan jest w pobliżu, on również zyska efekty tej umiejętności."
    },
    {
     "slot": "3",

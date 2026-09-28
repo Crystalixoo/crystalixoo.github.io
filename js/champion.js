@@ -100,8 +100,8 @@
           ${lanes.map((l) => `<span class="tag lane">${esc(l)}</span>`).join('')}
           <span class="tag diff">Trudność: ${esc(champ.difficulty)} ${diffDots}</span>
         </div>
-        ${data ? `<p class="about">${esc(data.about)}</p>` : ''}
       </div>
+      ${data ? `<p class="about">${esc(data.about)}</p>` : ''}
     </section>
     <h2 class="section-title">Umiejętności</h2>
     <div class="abilities">${abilitiesHtml}</div>`;
