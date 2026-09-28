@@ -1,9 +1,9 @@
 /* Strona championa – informacje, buildy i przedmioty sytuacyjne */
 (function () {
-  const { esc, ROLE_PL, TREE_PL, champImg, abilityImg } = window.WR;
+  const WR = window.WR;
+  const { esc, ROLE_PL, TREE_PL, champImg, abilityImg } = WR;
   const ITEMS = window.WR_ITEMS.items;
   const BOOTS = window.WR_ITEMS.boots;
-  const RUNES = window.WR_RUNES;
   const app = document.getElementById('app');
 
   const slug = new URLSearchParams(location.search).get('c');
@@ -16,12 +16,7 @@
   }
   document.title = `${champ.name} – buildy Wild Rift (patch 7.3)`;
 
-  // ---------- indeks run ----------
-  const RUNE_INDEX = {};
-  Object.entries(RUNES.keystones).forEach(([k, r]) => { RUNE_INDEX[k] = { ...r, tree: 'Keystone' }; });
-  Object.entries(RUNES.trees).forEach(([tree, rows]) => rows.forEach((row, i) => Object.entries(row).forEach(([k, r]) => {
-    RUNE_INDEX[k] = { ...r, tree, row: i + 1 };
-  })));
+  const RUNE_INDEX = WR.runeIndex();
 
   const SLOT_PL = { PASSIVE: 'Umiejętność bierna', ULTIMATE: 'Superumiejętność', 1: 'Umiejętność 1', 2: 'Umiejętność 2', 3: 'Umiejętność 3' };
   const MODES = [
@@ -144,51 +139,5 @@
   });
   setMode(location.hash.slice(1) || 'normal');
 
-  // ---------- tooltip ----------
-  const tip = document.getElementById('tip');
-  function tipHtml(key) {
-    const [type, code] = key.split(':');
-    if (type === 'item') {
-      const it = ITEMS[code];
-      return `<h5>${esc(it.name)}</h5><div class="tcost">${it.cost.toLocaleString('pl-PL')} złota</div>
-        <ul>${it.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${esc(it.desc)}</p>
-        ${it.passive ? `<div class="en">${esc(it.passive)}</div>` : ''}`;
-    }
-    if (type === 'boots') {
-      const b = BOOTS[code];
-      return `<h5>${esc(b.name)}</h5><div class="tcost">${b.cost.toLocaleString('pl-PL')} złota · ${esc(b.desc)}</div>
-        <ul>${b.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>
-        <div class="t3box"><b>Tier 3 (od 10:00): ${esc(b.t3.name)}</b> – ${b.t3.cost.toLocaleString('pl-PL')} złota łącznie
-        <ul>${b.t3.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${esc(b.t3.effect)}</p></div>`;
-    }
-    const r = RUNE_INDEX[code];
-    const where = r.tree === 'Keystone' ? 'Keystone (runa główna)' : `${TREE_PL[r.tree]} · rząd ${r.row}`;
-    return `<h5>${esc(r.name)}</h5><div class="tcost">${where}</div><p>${esc(r.desc)}</p>`;
-  }
-  let current = null;
-  function show(el) {
-    current = el;
-    tip.innerHTML = tipHtml(el.dataset.tip);
-    tip.classList.add('show');
-    const rc = el.getBoundingClientRect();
-    const tw = tip.offsetWidth, th = tip.offsetHeight;
-    let x = rc.left + rc.width / 2 - tw / 2;
-    x = Math.max(12, Math.min(x, window.innerWidth - tw - 12));
-    let y = rc.top - th - 10;
-    if (y < 70) y = rc.bottom + 10;
-    if (y + th > window.innerHeight - 8) y = Math.max(8, window.innerHeight - th - 8);
-    tip.style.left = `${x}px`;
-    tip.style.top = `${y}px`;
-  }
-  function hide() { current = null; tip.classList.remove('show'); }
-  app.addEventListener('mouseover', (e) => { const el = e.target.closest('[data-tip]'); if (el && el !== current) show(el); });
-  app.addEventListener('mouseout', (e) => { const el = e.target.closest('[data-tip]'); if (el && !el.contains(e.relatedTarget)) hide(); });
-  app.addEventListener('focusin', (e) => { const el = e.target.closest('[data-tip]'); if (el) show(el); });
-  app.addEventListener('focusout', hide);
-  app.addEventListener('click', (e) => {
-    const el = e.target.closest('[data-tip]');
-    if (el) { if (current === el) hide(); else show(el); }
-  });
-  document.addEventListener('click', (e) => { if (!e.target.closest('[data-tip]')) hide(); });
-  window.addEventListener('scroll', hide, { passive: true });
+  WR.initTooltips(app);
 })();

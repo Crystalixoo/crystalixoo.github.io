@@ -54,8 +54,11 @@ img { display: block; max-width: 100%; }
   display: grid; place-items: center; color: #1a1406; font-weight: 900; font-size: 15px;
 }
 .logo small { display: block; font-weight: 500; color: var(--muted); font-size: 12px; letter-spacing: 0; }
-.patch-badge {
-  margin-left: auto; font-size: 12px; font-weight: 700;
+.nav { display: flex; gap: 4px; margin-left: auto; }
+.nav a { color: var(--muted); font-weight: 700; font-size: 14px; padding: 6px 10px; border-radius: 8px; }
+.nav a:hover { color: var(--text); background: var(--card); text-decoration: none; }
+.nav a.active { color: var(--gold-2); }
+.patch-badge { font-size: 12px; font-weight: 700;
   padding: 4px 10px; border-radius: 999px;
   color: var(--gold-2); border: 1px solid rgba(216, 179, 106, .45); background: rgba(216, 179, 106, .08);
   white-space: nowrap;
@@ -84,6 +87,10 @@ img { display: block; max-width: 100%; }
 }
 .chip:hover { color: var(--text); border-color: #3a4766; }
 .chip.active { color: #1a1406; background: var(--gold); border-color: var(--gold); }
+.chips.lanes { margin: -4px 0 12px; }
+.chips.lanes .chip { font-size: 12px; padding: 5px 11px; }
+.chips.lanes .chip.active { background: var(--teal); border-color: var(--teal); color: #041414; }
+.tip .tcls { color: var(--red); font-size: 12px; font-weight: 700; margin-bottom: 6px; }
 .count { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
 
 .grid {
@@ -213,6 +220,45 @@ img { display: block; max-width: 100%; }
 }
 .rules b { color: var(--text); }
 
+/* ---------- przedmioty i runy ---------- */
+.section-title .n { color: var(--muted); font-size: 14px; font-weight: 600; }
+.igrid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
+.icard, .rcard {
+  display: grid; grid-template-columns: 48px 1fr; gap: 12px; align-items: start;
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px;
+}
+.icard img { width: 48px; height: 48px; border-radius: 8px; border: 1px solid #3a4560; }
+.icard h4, .rcard h4 { margin: 0; font-size: 15px; display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
+.icard h4 small { color: var(--gold-2); font-weight: 600; }
+.icard p, .rcard p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+.icard .stats { list-style: none; margin: 6px 0 0; padding: 0; color: var(--green); font-size: 13px; }
+.badges { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 5px; }
+.badge { font-size: 10.5px; font-weight: 800; padding: 2px 7px; border-radius: 5px; letter-spacing: .3px; }
+.badge.new { background: var(--teal); color: #041414; }
+.badge.cls { background: rgba(224, 96, 94, .15); color: var(--red); border: 1px solid rgba(224, 96, 94, .4); }
+.usage { font-size: 11.5px; color: var(--gold); margin-top: 6px; font-weight: 600; }
+.icard details { margin-top: 6px; font-size: 12.5px; }
+.icard summary { cursor: pointer; color: var(--blue); }
+.icard .en { white-space: pre-line; font-size: 12px; }
+.t3line { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line); font-size: 13px; }
+.t3line b { color: var(--teal); }
+.rgrid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); }
+.rcard { grid-template-columns: 44px 1fr; }
+.rcard img { width: 44px; height: 44px; border-radius: 50%; background: #070a10; border: 2px solid var(--line); padding: 2px; }
+.rcard.key img { border-color: var(--gold); }
+.rcard.t-Precision img { border-color: var(--t-precision); }
+.rcard.t-Domination img { border-color: var(--t-domination); }
+.rcard.t-Sorcery img { border-color: var(--t-sorcery); }
+.rcard.t-Resolve img { border-color: var(--t-resolve); }
+.tree-title { margin: 22px 0 10px; font-size: 16px; }
+.tree-title.t-Precision { color: var(--t-precision); }
+.tree-title.t-Domination { color: var(--t-domination); }
+.tree-title.t-Sorcery { color: var(--t-sorcery); }
+.tree-title.t-Resolve { color: var(--t-resolve); }
+.rrow { margin-bottom: 10px; }
+.rowlabel { font-size: 11px; font-weight: 800; letter-spacing: .6px; text-transform: uppercase; color: var(--muted); margin-bottom: 6px; }
+#content { padding-bottom: 20px; }
+
 /* ---------- tooltip ---------- */
 .tip {
   position: fixed; z-index: 100; max-width: min(340px, calc(100vw - 24px));
@@ -224,6 +270,7 @@ img { display: block; max-width: 100%; }
 .tip .tcost { color: var(--muted); font-size: 12px; margin-bottom: 6px; }
 .tip ul { margin: 0 0 6px; padding-left: 16px; color: var(--green); }
 .tip p { margin: 0 0 6px; color: var(--text); }
+.tip .en b { color: var(--text); font-weight: 700; }
 .tip .en { color: var(--muted); font-size: 12px; white-space: pre-line; border-top: 1px solid var(--line); padding-top: 6px; margin: 6px 0 0; }
 .tip .t3box { border-top: 1px solid var(--line); margin-top: 6px; padding-top: 6px; }
 .tip .t3box b { color: var(--teal); }
@@ -244,4 +291,7 @@ img { display: block; max-width: 100%; }
   .keystone img { margin: 0; width: 52px; height: 52px; }
   .tabs { top: 60px; }
   .logo small { display: none; }
+  .logo > span:last-child { display: none; }
+  .nav a { padding: 6px 8px; font-size: 13px; }
+  .patch-badge { display: none; }
 }

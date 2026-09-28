@@ -1312,7 +1312,7 @@ window.WR_CHAMPIONS = [
  {
   "slug": "gnar",
   "name": "Gnar",
-  "title": "The Missing Link",
+  "title": "Brakujące Ogniwo",
   "roles": [
    "FIGHTER",
    "TANK"
@@ -1326,31 +1326,31 @@ window.WR_CHAMPIONS = [
   "abilities": [
    {
     "slot": "PASSIVE",
-    "name": "Rage Gene",
-    "desc": "Gnar generates Rage when dealing and receiving damage. At maximum Rage his next ability will transform him into Mega Gnar, granting increased health, armor, magic resistance, and attack. Back in his Mini Gnar form he will still gain move speed and attack speed and range."
+    "name": "Gen Wściekłości",
+    "desc": "Gnar zyskuje Wściekłość, zadając i otrzymując obrażenia. Przy maksymalnej Wściekłości jego następna umiejętność zamienia go w Mega Gnara, który ma więcej zdrowia, pancerza, odporności na magię i obrażeń od ataku. W formie Mini Gnara zyskuje prędkość ruchu, prędkość ataku i zasięg ataku."
    },
    {
     "slot": "1",
-    "name": "Boomerang Throw / Boulder Toss",
-    "desc": "Gnar throws a boomerang that damages and slows enemies it hits before returning to him. If he catches the boomerang its cooldown is reduced. Mega Gnar instead throws a boulder that stops on the first unit hit, damaging and slowing everything nearby. It can then be picked up to reduce the cooldown."
+    "name": "Rzut Bumerangiem / Rzut Głazem",
+    "desc": "Gnar rzuca bumerangiem, który zadaje obrażenia i spowalnia trafionych wrogów, a potem wraca. Złapanie bumerangu skraca czas odnowienia. Mega Gnar rzuca głazem, który zatrzymuje się na pierwszej trafionej jednostce, raniąc i spowalniając wszystkich w pobliżu; podniesienie głazu skraca czas odnowienia."
    },
    {
     "slot": "2",
-    "name": "Hyper / Wallop",
-    "desc": "Gnar's attacks and spells hype him up, dealing bonus damage and granting him Move Speed. Mega Gnar is too enraged to be hyper and instead can rear up on his hind legs and smash down on the area in front of him, stunning enemies in an area."
+    "name": "Nadpobudliwość / Łup",
+    "desc": "Ataki i umiejętności Gnara nakręcają go – co jakiś czas zadaje dodatkowe obrażenia i zyskuje prędkość ruchu. Mega Gnar staje na tylnych łapach i uderza w obszar przed sobą, ogłuszając wrogów."
    },
    {
     "slot": "3",
-    "name": "Hop / Crunch",
-    "desc": "Gnar leaps to a location and bounces off the head of any unit he lands on, traveling further. Mega Gnar is too large to bounce and instead lands with earth-shattering force, dealing damage in an area around him."
+    "name": "Skok / Chrup",
+    "desc": "Gnar skacze we wskazane miejsce i odbija się od głowy jednostki, na której wyląduje, lecąc dalej. Mega Gnar jest zbyt ciężki, by się odbić – ląduje z ogromną siłą, zadając obrażenia wokół siebie."
    },
    {
     "slot": "ULTIMATE",
-    "name": "Gnar!",
-    "desc": "Mega Gnar throws everything around him in a chosen direction, dealing damage and slowing them. Any enemy that hits a wall is stunned and takes bonus damage."
+    "name": "GNAR!",
+    "desc": "Mega Gnar odrzuca wszystkich wokół siebie w wybranym kierunku, zadając obrażenia i spowalniając. Wrogowie, którzy uderzą w ścianę, zostają ogłuszeni i otrzymują dodatkowe obrażenia."
    }
   ],
-  "lang": "en"
+  "lang": "pl"
  },
  {
   "slug": "gragas",
@@ -4405,7 +4405,7 @@ window.WR_CHAMPIONS = [
  {
   "slug": "smolder",
   "name": "Smolder",
-  "title": "The Fiery Fledgling",
+  "title": "Ognisty Pisklak",
   "roles": [
    "MARKSMAN",
    "MAGE"
@@ -4419,31 +4419,31 @@ window.WR_CHAMPIONS = [
   "abilities": [
    {
     "slot": "PASSIVE",
-    "name": "Dragon Practice",
-    "desc": "Hitting champions with abilities and killing enemies with Super Scorcher Breath grants a stack of Dragon Practice. Stacks increase the damage of Smolder’s basic abilities."
+    "name": "Smoczy Trening",
+    "desc": "Trafianie bohaterów umiejętnościami i zabijanie wrogów Superpalącym Oddechem daje ładunki Smoczego Treningu, które zwiększają obrażenia podstawowych umiejętności Smoldera."
    },
    {
     "slot": "1",
-    "name": "Super Scorcher Breath",
-    "desc": "Smolder breathes fire on an enemy, dealing both physical and magic damage. If the target is killed Smolder refunds mana. As he gains more stacks, this ability becomes more powerful.\nPassive: Level 1 stacks–ability deals damage to all enemies in the area. Level 2 stacks–ability triggers explosions behind the target. Level 3 stacks–abilitiy burns target for true damage, executing low-health enemy champions."
+    "name": "Superpalący Oddech",
+    "desc": "Smolder zieje ogniem w wroga, zadając obrażenia fizyczne i magiczne. Zabicie celu zwraca manę. Wraz z ładunkami umiejętność staje się silniejsza:\nPoziom 1 – zadaje obrażenia wszystkim wrogom w obszarze.\nPoziom 2 – wywołuje eksplozje za celem.\nPoziom 3 – podpala cel obrażeniami nieuchronnymi i dobija bohaterów z niskim zdrowiem."
    },
    {
     "slot": "2",
-    "name": "Achooo!",
-    "desc": "Smolder lets out an adorable flaming sneeze that explodes when hitting enemy champions. Subsequent explosions deal smaller amounts of damage.\nPassive: the explosion deals bonus magic damage."
+    "name": "Apsik!",
+    "desc": "Smolder uroczo kicha ogniem – kichnięcie wybucha po trafieniu wrogiego bohatera, a kolejne wybuchy zadają mniejsze obrażenia.\nBiernie: wybuch zadaje dodatkowe obrażenia magiczne."
    },
    {
     "slot": "3",
-    "name": "Flap, Flap, Flap",
-    "desc": "Smolder takes flight ignoring terrain and bombarding the lowest health enemy. In flight Smolder’s vision range is increased.\nPassive: deal bonus magic damage for each hit and gain extra bolts."
+    "name": "Machu, Machu, Machu",
+    "desc": "Smolder wzlatuje, ignorując teren, i ostrzeliwuje wroga z najniższym zdrowiem. W locie ma większy zasięg widzenia.\nBiernie: każde trafienie zadaje dodatkowe obrażenia magiczne, a Smolder wystrzeliwuje więcej pocisków."
    },
    {
     "slot": "ULTIMATE",
-    "name": "Mmooommmm!",
-    "desc": "Smolder calls his mom to breathe fire from above, dealing extra damage and slowing enemies in the center of her fire. Getting hit by the fire himself, Smolder gains health."
+    "name": "Mamoooo!",
+    "desc": "Smolder wzywa mamę, która zieje ogniem z góry, zadając dodatkowe obrażenia i spowalniając wrogów w środku płomieni. Trafiony tym ogniem Smolder odzyskuje zdrowie."
    }
   ],
-  "lang": "en"
+  "lang": "pl"
  },
  {
   "slug": "sona",
@@ -4618,7 +4618,7 @@ window.WR_CHAMPIONS = [
  {
   "slug": "taliyah",
   "name": "Taliyah",
-  "title": "The Stoneweaver",
+  "title": "Tkaczka Kamieni",
   "roles": [
    "MAGE",
    "SUPPORT"
@@ -4632,31 +4632,31 @@ window.WR_CHAMPIONS = [
   "abilities": [
    {
     "slot": "PASSIVE",
-    "name": "Rock Surfing",
-    "desc": "When not in combat, Taliyah gains Move Speed near walls."
+    "name": "Surfowanie po Skałach",
+    "desc": "Poza walką Taliyah zyskuje prędkość ruchu w pobliżu ścian."
    },
    {
     "slot": "1",
-    "name": "Threaded Volley",
-    "desc": "Taliyah throws a volley of rocks in a target direction, each rock dealing magic damage to the first enemy hit and creating a quarry in the area around them.\nIf Taliyah casts Threaded Volley in a quarry, she consumes the ground to throw a stronger boulder that damages and slows enemies."
+    "name": "Tkana Salwa",
+    "desc": "Taliyah miota serią kamieni we wskazanym kierunku – każdy zadaje obrażenia magiczne pierwszemu trafionemu wrogowi i tworzy wokół niego kamieniołom.\nUżyta w kamieniołomie zużywa grunt, by rzucić potężniejszy głaz, który rani i spowalnia wrogów."
    },
    {
     "slot": "2",
-    "name": "Seismic Shove",
-    "desc": "Taliyah causes an area of ground to erupt and throws enemies within it in a direction of her choosing."
+    "name": "Sejsmiczne Pchnięcie",
+    "desc": "Taliyah sprawia, że ziemia w obszarze wybucha, i odrzuca znajdujących się w nim wrogów w wybranym kierunku."
    },
    {
     "slot": "3",
-    "name": "Unraveled Earth",
-    "desc": "Taliyah creates a slowing minefield. If enemies dash through it or are knocked through it, the mines explode, damaging and slowing them."
+    "name": "Rozprute Ziemie",
+    "desc": "Taliyah tworzy spowalniające pole minowe. Jeśli wrogowie przez nie przeskoczą lub zostaną przez nie przerzuceni, miny wybuchają, raniąc i spowalniając ich."
    },
    {
     "slot": "ULTIMATE",
-    "name": "Weaver's Wall",
-    "desc": "Taliyah summons a massive wall. If she immediately casts it again, she steps on and surfs along it.\nThe wall knocks back enemies. Once it’s fully formed, Taliyah can cast again to destroy it early."
+    "name": "Ściana Tkaczki",
+    "desc": "Taliyah przywołuje ogromną ścianę. Jeśli od razu użyje umiejętności ponownie, wskakuje na nią i po niej surfuje.\nŚciana odrzuca wrogów. Gdy jest w pełni uformowana, Taliyah może ją wcześniej zniszczyć."
    }
   ],
-  "lang": "en"
+  "lang": "pl"
  },
  {
   "slug": "talon",
@@ -5120,7 +5120,7 @@ window.WR_CHAMPIONS = [
  {
   "slug": "velkoz",
   "name": "Vel'Koz",
-  "title": "The eye of the void",
+  "title": "Oko Pustki",
   "roles": [
    "MAGE",
    "SUPPORT"
@@ -5134,31 +5134,31 @@ window.WR_CHAMPIONS = [
   "abilities": [
    {
     "slot": "PASSIVE",
-    "name": "Organic Deconstruction",
-    "desc": "Vel'Koz's abilities apply Organic Deconstruction to enemies on hit. If 3 stacks are accumulated, the enemy will take a burst of true damage."
+    "name": "Rozkład Organiczny",
+    "desc": "Umiejętności Vel'Koza nakładają na trafionych wrogów Rozkład Organiczny. Po zebraniu 3 ładunków wróg otrzymuje obrażenia nieuchronne."
    },
    {
     "slot": "1",
-    "name": "Plasma Fission",
-    "desc": "Vel'Koz shoots a bolt of plasma that splits in two on reactivation or upon hitting an enemy. The bolt slows and damages on hit."
+    "name": "Rozszczepienie Plazmy",
+    "desc": "Vel'Koz wystrzeliwuje pocisk plazmy, który rozszczepia się na dwa po ponownym użyciu lub trafieniu wroga. Pocisk zadaje obrażenia i spowalnia."
    },
    {
     "slot": "2",
-    "name": "Void Rift",
-    "desc": "Vel'Koz opens a rift to the void that deals an initial burst of damage, then explodes for a second burst of damage after a delay."
+    "name": "Szczelina Pustki",
+    "desc": "Vel'Koz otwiera szczelinę do Pustki, która zadaje obrażenia natychmiast, a po chwili wybucha, zadając je ponownie."
    },
    {
     "slot": "3",
-    "name": "Tectonic Disruption",
-    "desc": "Vel'Koz causes an explosive anomaly at target location, knocking up enemies and knocking close enemies slightly away. The closer the anomaly is to Vel’Koz the stronger the knockback effect."
+    "name": "Zakłócenie Tektoniczne",
+    "desc": "Vel'Koz wywołuje wybuchową anomalię we wskazanym miejscu, podrzucając wrogów i lekko odpychając tych stojących blisko. Im bliżej Vel'Koza powstanie anomalia, tym silniejsze odepchnięcie."
    },
    {
     "slot": "ULTIMATE",
-    "name": "Life Form Disintegration Ray",
-    "desc": "Passive: Apply 3 Deconstruction stacks to an enemy champion marking them as Researched for 7 seconds.\nActive: Vel'Koz unleashes a channelled beam that he can steer in a target direction to deal magic damage and slow enemies hit. Researched enemy champions take true damage instead."
+    "name": "Promień Dezintegracji Form Życia",
+    "desc": "Biernie: nałożenie 3 ładunków Rozkładu na bohatera oznacza go jako Zbadanego na 7 s.\nAktywnie: Vel'Koz wypuszcza kierowany promień, który zadaje obrażenia magiczne i spowalnia trafionych wrogów. Zbadani bohaterowie otrzymują zamiast tego obrażenia nieuchronne."
    }
   ],
-  "lang": "en"
+  "lang": "pl"
  },
  {
   "slug": "vex",
