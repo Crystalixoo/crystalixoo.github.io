@@ -1,0 +1,159 @@
+@ galio
+I Mid, Support | Magiczny tank – tarcza przeciw magii z pasywki, prowokacja W i superumiejętność, która pozwala dolecieć do sojusznika z drugiego końca mapy.
+N|Kolos przeciw magom|Mid|elec|cheap tyrant eyeball|transc|bmana|belt rylai rab zhonya void|Rocketbelt i Rylai's pozwalają łapać cele prowokacją; Zhonya's po skoku superumiejętnością w środek walki.
+N|Tankowate wsparcie|Support|ice|colossus bone overgrowth|transc|mercs|virtue zeke abyssal twin fon|Na supporcie Galio chroni drużynę: Radiant Virtue, Zeke's i Abyssal Mask wzmacniają inicjacje superumiejętnością.
+A|Magiczny tank|Tank AP|grasp|colossus secondwind overgrowth|scorch|mercs|rift liandry abyssal fon twin|W ARAM Galio trzyma front, a Riftmaker i Liandry's zamieniają zdrowie w obrażenia.
+A|Burst z prowokacją|Burst|elec|cheap tyrant eyeball|secondwind|bmana|belt luden rab zhonya void|Wejście Rocketbelt + prowokacja W na kilku wrogów.
+U|Spadający kolos|Burst|elec|cheap tyrant eyeball|gstorm|bmana|belt rylai rab void zhonya|W URF superumiejętność co chwilę – Galio spada na każdą walkę.
+U|Nieprzebijalny mag|Tank AP|ice|colossus secondwind overgrowth|focus|mercs|rift liandry abyssal twin garg|Ice Overlord po każdej prowokacji, ogromna odporność na magię.
+S zhonya banshee void fon kaenic abyssal rylai rift mantle garg
+
+@ garen
+I Baron | Prosty, ale skuteczny wojownik: cisza z Q, wirujące E, redukcja obrażeń z W i egzekucja superumiejętnością. Regeneruje zdrowie poza walką.
+N|Wirujący wojownik|Baron|conq|triumph laststand haste|bone|steel|stride sky sterak dd ga|Stridebreaker pomaga dogonić cel, a Sundered Sky i Death's Dance dają przeżywalność w wymianach.
+N|Krytyczny Garen|Baron|fleet|triumph coup alacrity|unshake|bers|yuntal ie navori pd ga|Wariant krytyczny: Yun Tal i Navori skracają odnowienie E – każdy obrót trafia krytycznie.
+A|Wir bitewny|Bruiser|conq|triumph laststand bloodline|secondwind|glut|stride sky sterak dd thorn|Wirujące E trafia wielu wrogów – leczenie z Sundered Sky i Conqueror.
+A|Tankowaty Garen|Tank|grasp|demolish secondwind overgrowth|triumph|mercs|stride bloodmail sterak fon twin|Dużo zdrowia i odporności – Garen przeżyje cały teamfight.
+U|Bez przerwy w wirze|Bruiser|conq|triumph laststand bloodline|focus|glut|stride sky sterak dd ga|W URF E i Q ciągle dostępne – nieustanny wir i cisza.
+U|Egzekutor|Burst|conq|zeal coup haste|bone|dyn|ecl sery ghost dd ga|Przebicie pancerza i Eclipse – szybka egzekucja superumiejętnością.
+S ga maw sterak dd chem bc fon thorn qss hull
+
+@ gnar
+I Baron | Wojownik zmieniający formę: mały Gnar kituje bumerangiem, a Mega Gnar ogłusza o ściany i przejmuje teamfighty.
+N|Mini i Mega|Baron|fleet|triumph laststand haste|bone|steel|tri sky sterak dd ga|Trinity Force wzmacnia ataki małego Gnara, a Sterak's i Death's Dance pomagają przetrwać w formie Mega.
+N|Tankowaty Gnar|Baron|grasp|demolish secondwind overgrowth|haste|mercs|tri titanic twin despair fon|Grasp i dużo zdrowia – Mega Gnar staje się pełnym tankiem inicjującym.
+A|Kiting i front|Bruiser|fleet|triumph laststand bloodline|secondwind|steel|tri sky sterak dd thorn|W ARAM kiting bumerangiem, a potem wejście Mega Gnarem.
+A|Mega tank|Tank|grasp|colossus secondwind overgrowth|haste|mercs|titanic heart twin despair fon|Ogromne zdrowie i ogłuszenie o ścianę całej drużyny.
+U|Szybka przemiana|Bruiser|conq|triumph laststand bloodline|focus|glut|tri sky sterak dd ga|W URF Gnar szybko zmienia formy i ciągle rzuca bumerangiem.
+U|Mega inicjator|Tank|grasp|colossus secondwind overgrowth|focus|steel|titanic heart twin despair garg|Mega Gnar non stop – ogromne zdrowie i obrażenia z Titanic Hydra.
+S ga maw sterak dd thorn fon twin titanic randuin
+
+@ gragas
+I Dżungla, Baron | Tank-mag z beczką (Q), szarżą brzuchem (E) i eksplozją odrzucającą wrogów (superumiejętność). Świetny w izolowaniu celów.
+N|Beczka z dżungli|Dżungla|elec|cheap tyrant eyeball|focus|bmana|belt luden rab zhonya void|Rocketbelt + E + Mignięcie to niemal nieunikniona inicjacja; Luden's i Rabadon's dają burst.
+N|Tankowaty piwowar|Baron|grasp|colossus secondwind overgrowth|scorch|mercs|rift liandry twin despair fon|Grasp i Liandry's – wymiany na linii i przeżywalność w teamfightach.
+A|Magiczny tank|Tank AP|grasp|colossus secondwind overgrowth|scorch|steel|rift liandry abyssal despair twin|W ARAM Gragas odrzuca wrogów superumiejętnością w drużynę i przeżywa długie walki.
+A|Beczkowy burst|Burst|elec|cheap tyrant eyeball|secondwind|bmana|belt luden rab zhonya void|Burst beczką z dystansu i inicjacja E.
+U|Szalony piwowar|Burst|elec|cheap tyrant eyeball|gstorm|bmana|belt luden rab void zhonya|W URF beczka i szarża co chwilę – ogromny burst obszarowy.
+U|Niezniszczalna beczka|Tank AP|grasp|colossus secondwind overgrowth|focus|mercs|rift liandry despair twin fon|Leczenie z W i Riftmaker przy ciągłych walkach.
+S zhonya banshee void rab liandry rift abyssal fon kaenic
+
+@ graves
+I Dżungla | Strzelec z strzelbą – zadaje ogromne obrażenia z bliska, a E daje pancerz i przyspiesza przeładowanie.
+N|Dżunglowy burst|Dżungla|fleet|triumph coup alacrity|bone|dyn|coll ie hexop ldr ga|The Collector i Infinity Edge – każdy strzał z bliska to krytyczny wybuch.
+N|Lethality Graves|Dżungla|elec|impact hubris relentless|celerity|dyn|ghost eon sery dd ga|Przebicie pancerza i burst z umiejętności – szybkie zabijanie strzelców.
+A|Strzelba w tłumie|DPS|fleet|triumph laststand bloodline|secondwind|bers|yuntal ie bt ldr ga|W ARAM Graves walczy z bliska – Bloodthirster i Fleet Footwork leczą.
+A|Frontowy strzelec|Bruiser|conq|triumph laststand bloodline|bone|steel|ecl sky dd sery ga|Graves jako bruiser: Eclipse, Sundered Sky i Death's Dance.
+U|Nieskończone przeładowanie|DPS|fleet|triumph coup alacrity|focus|bers|yuntal ie navori ldr bt|W URF E ciągle – pancerz i przeładowanie; Navori skraca odnowienia.
+U|Wybuchowy kat|Burst|elec|impact tyrant eyeball|gstorm|dyn|coll ghost sery eon ga|Burst lethality – zabicie celu jednym combo.
+S ga dd maw ldr mr eon qss scimitar bt
+
+@ gwen
+I Baron, Dżungla | Wojowniczka AP zadająca obrażenia nożycami (Q), z mgłą chroniącą przed atakami z zewnątrz (W). Pasywka zadaje % zdrowia celu.
+N|Krawcowa|Baron|conq|triumph laststand bloodline|bone|glut|rift nashor rab void banshee|Riftmaker i Nashor's Tooth wzmacniają ataki i obrażenia nieuchronne Q.
+N|Dżunglowa Gwen|Dżungla|conq|zeal laststand haste|celerity|glut|dnd rift liandry rab void|Dusk and Dawn i Liandry's – obrażenia w długich walkach i szybkie czyszczenie obozów.
+A|Mgła w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|rift liandry dnd rab banshee|W ARAM mgła chroni przed poke, a Liandry's niszczy tanki.
+A|Przeżywająca Gwen|Tank AP|conq|unshake secondwind overgrowth|triumph|mercs|rift liandry banshee rab void|Wytrzymała wersja do długich walk frontowych.
+U|Nożyce non stop|Bruiser|conq|triumph laststand bloodline|focus|glut|rift nashor rab void banshee|W URF Q i mgła co chwilę – ciągłe obrażenia nieuchronne.
+U|Szybkie cięcia|DPS|lt|triumph coup bloodline|bone|bers|nashor rage rift rab void|Lethal Tempo i Guinsoo's – maksymalna prędkość ataku i efekty on-hit.
+S banshee void rab liandry rift morello nashor dnd
+
+@ hecarim
+I Dżungla | Szybki wojownik, który zamienia prędkość ruchu w obrażenia. Szarżuje E, odrzuca wrogów i straszy całą drużynę superumiejętnością.
+N|Szarża kawalerii|Dżungla|conq|triumph laststand haste|celerity|glut|tri ecl sterak dd ga|Trinity Force daje prędkość ruchu z ataków, a Sterak's i Death's Dance pozwalają przetrwać po wejściu.
+N|Tankowaty rycerz|Dżungla|fleet|triumph cutdown haste|unshake|steel|shojin bc sterak dmp ga|Dead Man's Plate i Black Cleaver – prędkość ruchu i redukcja pancerza całej drużyny.
+A|Szarża w tłum|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd thorn|Goredrinker i leczenie z Q przy ciągłych walkach.
+A|Tank-szarżownik|Tank|grasp|colossus secondwind overgrowth|celerity|steel|dmp sunfire twin despair fon|Szarże z Dead Man's Plate i obrażenia obszarowe ze Sunfire.
+U|Wieczna szarża|Bruiser|conq|triumph laststand bloodline|focus|glut|tri ecl sterak dd ga|W URF E i superumiejętność co chwilę – Hecarim ciągle szarżuje.
+U|Upiorny wir|Bruiser|conq|zeal coup bloodline|celerity|steel|tri shojin bc sterak ga|Spam Q ze Spear of Shojin i ciągłe obrażenia obszarowe.
+S ga maw sterak dd chem bc dmp fon titanic
+
+@ heimerdinger
+I Mid, Support | Wynalazca stawiający wieżyczki (Q), rakiety (W) i ogłuszające granaty (E). Superumiejętność wzmacnia następną umiejętność.
+N|Obrona wieżyczkami|Mid|comet|manaflow transc scorch|bone|bmana|liandry rylai rab zhonya void|Liandry's i Rylai's – wieżyczki i rakiety spowalniają i palą wrogów.
+N|Wsparcie inżynier|Support|aery|manaflow transc scorch|revital|ionian|mandate helia liandry rab zhonya|Imperial Mandate po każdym ogłuszeniu granatem wzmacnia obrażenia drużyny.
+A|Forteca|Poke|comet|manaflow transc scorch|secondwind|bmana|liandry rylai torch rab zhonya|W ARAM wieżyczki kontrolują wąską linię – Blackfire Torch podpala wszystkich.
+A|Twierdza|DPS|dh|cheap tyrant eyeball|bone|mercs|liandry rylai morello rab zhonya|Morellonomicon przeciw leczeniu i Dark Harvest do dobijania.
+U|Armia wieżyczek|DPS|dh|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void zhonya|W URF ciągle stawiane wieżyczki i rakiety – ogromne obrażenia obszarowe.
+U|Rakietowy grad|Poke|comet|axiom celerity scorch|bone|bmana|luden surge rab void zhonya|Burst rakietami i ulepszona superumiejętność co chwilę.
+S zhonya banshee void morello rylai liandry crypt torch
+
+@ hwei
+I Mid, Support | Nowy champion 7.3 – malarz z 9 umiejętnościami w trzech tematach: obrażenia (Q), użyteczność (W) i kontrola tłumu (E). Superumiejętność więzi wrogów w rozszerzającym się polu.
+N|Artysta-artylerzysta|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab horizon void|Arcane Comet i Horizon Focus nagradzają trafianie z dużej odległości; Malignance skraca odnowienie superumiejętności.
+N|Malarz wsparcia|Support|aery|manaflow transc scorch|revital|ionian|mandate helia horizon rab zhonya|Imperial Mandate po każdej kontroli tłumu z E wzmacnia drużynę, a Echoes of Helia zamienia obrażenia w leczenie.
+A|Poke z daleka|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|W ARAM Hwei nęka wrogów przeszywającym pociskiem z ogromnego dystansu.
+A|Kontrola i burst|Burst|elec|cheap tyrant eyeball|bone|mercs|luden malig rab zhonya banshee|Bezpieczna wersja: Zhonya's i Banshee's chronią przed wejściami.
+U|Galeria obrazów|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF wszystkie 9 umiejętności co chwilę – nieustanny grad obrażeń.
+U|Mistrz kontroli|Burst|elec|cheap tyrant eyeball|gstorm|bmana|malig luden rab void zhonya|Malignance i Electrocute – szybki burst po każdej kontroli tłumu.
+S zhonya banshee void horizon morello rylai crypt mandate
+
+@ irelia
+I Baron, Mid | Wojowniczka z ostrzami, która doskokiem Q resetuje się na oznaczonych i dobijanych celach. Pasywka daje prędkość ataku po stackach.
+N|Taniec ostrzy|Baron|conq|triumph laststand bloodline|bone|steel|bork tri sky dd ga|BoRK i Trinity Force wzmacniają ataki po każdym doskoku Q; Death's Dance daje przeżywalność.
+N|On-hit Irelia|Mid|lt|triumph laststand alacrity|celerity|bers|bork wits term dd ga|Lethal Tempo, Wit's End i Terminus – ogromne obrażenia on-hit w długich walkach.
+A|Resety w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|bork tri sky sterak dd|W ARAM stwory i wrogowie to ciągłe resety Q – dużo leczenia.
+A|Anty-magiczna|Bruiser|conq|triumph laststand bloodline|bone|mercs|bork wits tri maw ga|Wit's End i Maw przeciw drużynom z magami.
+U|Nieskończone Q|Bruiser|conq|triumph laststand bloodline|focus|glut|bork tri sky dd ga|W URF Q resetuje się bez przerwy – Irelia doskakuje po całej mapie.
+U|Ostrza on-hit|DPS|lt|triumph coup alacrity|bone|bers|bork rage term kraken ga|Guinsoo's i Kraken Slayer – obrażenia on-hit z każdego ataku.
+S ga maw sterak dd wits bc chem qss scimitar
+
+@ janna
+I Support | Enchanterka z wiatrem – tarcza z E, podrzucenie tornadem (Q) i superumiejętność odrzucająca wrogów i lecząca drużynę.
+N|Oko burzy|Support|aery|manaflow transc gstorm|revital|ionian|circlet sfw harmonic redemp mikael|Whispering Circlet (→ Diadem of Songs) i Staff of Flowing Water wzmacniają tarcze; Mikael's ratuje carry przed kontrolą tłumu.
+N|Ochrona strzelca|Support|guard|colossus bone revital|celerity|ionian|censer harmonic shurelya locket mikael|Ardent Censer daje strzelcowi prędkość ataku przy każdej tarczy.
+A|Wieczne tarcze|Wsparcie|aery|manaflow transc scorch|revital|ionian|circlet harmonic sfw redemp mikael|W ARAM tarcze i leczenie non stop – Redemption leczy całą drużynę.
+A|Rozproszenie|Wsparcie|guard|unshake bone revital|celerity|mercs|harmonic censer shurelya locket redemp|Odrzucanie wrogów i ochrona drużyny w długich walkach.
+U|Huragan|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF tarcze niemal ciągle – drużyna jest praktycznie nieśmiertelna.
+U|Magiczny wiatr|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void zhonya|Wariant AP: Q i W zadają zaskakująco duże obrażenia.
+S mikael redemp locket shurelya censer harmonic helia mandate
+
+@ jarvan-iv
+I Dżungla, Baron | Książę inicjujący – combo E+Q podrzuca wrogów, a superumiejętność zamyka ich na arenie. Czyni drużynę szybszą i silniejszą.
+N|Inicjator z dżungli|Dżungla|conq|triumph laststand haste|celerity|dyn|ecl bc sterak dd ga|Eclipse i Black Cleaver dają burst i redukcję pancerza po combo E+Q.
+N|Tankowaty książę|Dżungla|grasp|colossus secondwind overgrowth|celerity|steel|sunfire despair twin fon dmp|Wariant tankowy: Sunfire Aegis i Unending Despair w arenie superumiejętności.
+A|Arena śmierci|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore bc sterak dd thorn|Goredrinker trafia wszystkich zamkniętych w arenie.
+A|Frontowy tank|Tank|ice|colossus secondwind overgrowth|celerity|steel|sunfire despair twin fon garg|Ice Overlord po każdym podrzuceniu i ogromna wytrzymałość.
+U|Ciągłe podrzuty|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl bc sterak dd ga|W URF combo E+Q co chwilę – nieustanne podrzucenia.
+U|Burst księcia|Burst|elec|impact tyrant eyeball|gstorm|dyn|ecl ghost sery eon ga|Lethality: podrzucenie i natychmiastowe zabójstwo celu.
+S ga maw sterak dd bc chem fon thorn titanic
+
+@ jax
+I Baron, Dżungla | Mistrz broni – skacze do celu (Q), unika ataków (E) i rośnie w siłę z każdym atakiem. Jeden z najlepszych pojedynkowiczów w późnej grze.
+N|Mistrz pojedynków|Baron|conq|triumph laststand haste|bone|steel|tri sky sterak dd ga|Trinity Force z W i Sterak's – klasyczny build do wygrywania pojedynków.
+N|On-hit Jax|Dżungla|lt|triumph laststand alacrity|celerity|bers|tri bork term kraken ga|Lethal Tempo i obrażenia on-hit – szybkie ataki z pasywki.
+A|Wojownik frontowy|Bruiser|conq|triumph laststand bloodline|secondwind|glut|tri sky sterak dd chem|W ARAM Jax unika ataków E i walczy w środku drużyny wroga.
+A|Tankowaty Jax|Tank|grasp|colossus secondwind overgrowth|triumph|mercs|tri titanic twin despair fon|Dużo zdrowia i odporności – Jax przeżyje każdy teamfight.
+U|Kontratak bez przerwy|Bruiser|conq|triumph laststand bloodline|focus|glut|tri sky sterak dd ga|W URF E niemal ciągle aktywne – Jax unika połowy ataków i ogłusza.
+U|Latarnia URF|DPS|lt|triumph coup alacrity|bone|bers|tri bork rage kraken ga|Guinsoo's i Kraken Slayer – maksymalne obrażenia on-hit.
+S ga maw sterak dd wits chem bc qss hull titanic
+
+@ jayce
+I Baron, Mid | Obrońca Jutra zmieniający broń: młot do walki wręcz i działo do poke. E przez bramę akceleracyjną wzmacnia Q.
+N|Poke z działa|Mid|comet|manaflow transc scorch|bone|dyn|manamune ghost sery eon ga|Manamune i przebicie pancerza wzmacniają Q przez bramę; Arcane Comet nagradza poke.
+N|Bruiser z młotem|Baron|conq|triumph laststand haste|unshake|steel|manamune ecl bc dd ga|Eclipse i Black Cleaver do wymian w formie młota.
+A|Artyleria|Poke|comet|manaflow transc scorch|secondwind|dyn|manamune ghost sery eon ga|W ARAM wzmocnione Q trafia całe grupy wrogów z dystansu.
+A|Wojownik ze zmianą|Bruiser|conq|triumph laststand bloodline|bone|steel|manamune ecl dd bc ga|Wersja do dłuższych walk z Death's Dance.
+U|Działo non stop|Poke|comet|axiom celerity scorch|bone|dyn|ecl ghost sery eon ga|W URF Q przez bramę co chwilę – nieustanny poke.
+U|Burst młota|Burst|elec|impact tyrant eyeball|gstorm|dyn|ecl ghost sery dd ga|Electrocute i lethality – combo z obu form.
+S ga maw dd bc eon sery qss chem
+
+@ jhin
+I Dragon | Wirtuoz z czterema nabojami – czwarty strzał zawsze krytyczny. Pasywka zamienia szansę na kryt w obrażenia od ataku.
+N|Czwarta kula|Dragon|fleet|triumph coup alacrity|bone|bers|hexop ie coll ldr ga|Hexoptics C44 i Infinity Edge – ogromne obrażenia z dystansu przy każdym czwartym strzale.
+N|Artysta lethality|Dragon|elec|impact hubris eyeball|celerity|dyn|coll ie hexop mr shieldbow|Electrocute i The Collector – szybkie zabijanie z W i czwartej kuli.
+A|Snajper ARAM|Poke|fleet|triumph coup bloodline|secondwind|bers|hexop ie coll ldr shieldbow|Pułapki E i W z daleka – bezpieczny poke w wąskiej linii.
+A|Mocne teamfighty|DPS|fleet|triumph laststand bloodline|bone|bers|hexop ie bt ldr ga|Bloodthirster daje przeżywalność w ciągłych walkach.
+U|Kurtyna w górę|Burst|dh|impact tyrant eyeball|gstorm|dyn|coll ie hexop ldr ga|W URF superumiejętność co chwilę – każdy strzał to dobicie.
+U|Snajper URF|DPS|fleet|triumph coup bloodline|focus|bers|hexop ie coll ldr bt|Maksymalne obrażenia z dystansu i kradzież życia.
+S ga shieldbow ldr mr qss scimitar bt eon
+
+@ jinx
+I Dragon | Hiperkarna strzelczyni – przełącza broń (Q), a po zabójstwie dostaje ogromny przypływ prędkości ataku i ruchu z pasywki.
+N|Hiperkarna|Dragon|lt|triumph cutdown alacrity|bone|bers|yuntal ie runaan ldr shieldbow|Yun Tal i Runaan's Hurricane – rakiety i minigun niszczą całą drużynę po pierwszym zabójstwie.
+N|Zasięg rakiet|Dragon|fleet|triumph coup alacrity|celerity|bers|rfc ie hexop ldr ga|Rapid Firecannon i Hexoptics – ogromny zasięg rakiet i bezpieczna pozycja.
+A|Szaleństwo ARAM|DPS|lt|triumph laststand bloodline|secondwind|bers|yuntal ie runaan ldr shieldbow|W ARAM pasywka odpala niemal w każdej walce – Runaan's trafia wszystkich.
+A|Bezpieczna Jinx|DPS|fleet|triumph cutdown bloodline|bone|bers|rfc ie bt ldr ga|Zasięg i kradzież życia do przetrwania nurkujących wrogów.
+U|Wieczny szał|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie runaan ldr bt|W URF pułapki i W ciągle – Jinx łapie wrogów i przejmuje walki.
+U|Rakietowa kanonada|DPS|fleet|triumph coup bloodline|bone|bers|rfc ie hexop ldr ga|Maksymalny zasięg i obrażenia krytyczne z rakiet.
+S ga shieldbow ldr mr qss scimitar bt wits

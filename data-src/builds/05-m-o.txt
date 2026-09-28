@@ -1,0 +1,189 @@
+@ malphite
+I Baron, Support | Kamienny tank z tarczą z pasywki i niepowstrzymaną szarżą superumiejętności. Skaluje z pancerzem – idealny przeciw drużynom AD.
+N|Skała przeciw AD|Baron|grasp|demolish secondwind overgrowth|haste|steel|sunfire fh thorn twin randuin|Sunfire Aegis, Frozen Heart i Thornmail – pancerz wzmacnia obrażenia E i odbija ataki wrogów.
+N|Burst z kamienia|Baron|elec|cheap tyrant eyeball|transc|bmana|liandry rylai rab void banshee|Wariant AP: superumiejętność + E zabijają strzelca w jednej chwili.
+A|Nieprzebijalna skała|Tank|grasp|colossus secondwind overgrowth|haste|steel|sunfire fh thorn twin despair|W ARAM Malphite inicjuje superumiejętnością i ignoruje obrażenia fizyczne.
+A|Meteoryt AP|Burst|elec|cheap tyrant eyeball|secondwind|mercs|liandry rylai rab void banshee|Superumiejętność w całą drużynę i ogromny burst.
+U|Kamienny deszcz|Tank|ice|colossus secondwind overgrowth|focus|steel|sunfire fh thorn twin garg|W URF superumiejętność co chwilę – Malphite ciągle wbija się we wrogów.
+U|Pocisk z góry|Burst|elec|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void cosmic|Burst AP superumiejętnością co kilka sekund.
+S thorn fh randuin fon kaenic garg mantle abyssal dmp
+
+@ maokai
+I Dżungla, Support | Drzewiec z kontrolą tłumu: doskok W unieruchamia, Q odrzuca, a superumiejętność łapie kilku wrogów naraz. Sadzonki pomagają w wizji.
+N|Strażnik lasu|Dżungla|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin fon thorn|Sunfire i Unending Despair – obrażenia obszarowe i leczenie w teamfightach.
+N|Korzeń wsparcia|Support|guard|unshake bone revital|celerity|mercs|zeke virtue trap twin abyssal|Guardian i przedmioty dla drużyny – Zeke's i Radiant Virtue po superumiejętności.
+A|Drzewo w tłumie|Tank|ice|colossus secondwind overgrowth|haste|steel|sunfire despair twin fon abyssal|W ARAM Maokai łapie wielu wrogów superumiejętnością i W.
+A|Magiczny drzewiec|Tank AP|grasp|colossus secondwind overgrowth|scorch|mercs|liandry rylai rift despair twin|Liandry's i Rylai's – sadzonki i Q zadają obrażenia w czasie.
+U|Wieczny las|Tank|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin garg thorn|W URF kontrola tłumu co chwilę.
+U|Sadzonkowy ogień|Tank AP|grasp|colossus secondwind overgrowth|gstorm|mercs|liandry rylai rift twin despair|Sadzonki i Q z Liandry's palą wszystkich.
+S thorn fon kaenic randuin fh abyssal garg mantle despair
+
+@ master-yi
+I Dżungla | Hiperkarny zabójca – Alpha Strike (Q) omija ataki, a superumiejętność resetuje się przy zabójstwach. Niszczy drużyny w późnej grze.
+N|Wuju on-hit|Dżungla|lt|triumph laststand alacrity|celerity|bers|bork rage wits term ga|BoRK, Guinsoo's i Wit's End – E zadaje obrażenia nieuchronne przy każdym ataku.
+N|Krytyczny Yi|Dżungla|lt|triumph coup alacrity|unshake|bers|yuntal ie navori bt ga|Navori skraca odnowienie Q przy każdym ataku, Infinity Edge wzmacnia krytyki.
+A|Pentakill|DPS|lt|triumph laststand bloodline|secondwind|bers|bork rage wits sterak ga|W ARAM superumiejętność resetuje się w każdej walce – Sterak's daje przeżywalność.
+A|Anty-kontrola|DPS|lt|triumph laststand bloodline|bone|mercs|bork scimitar rage wits ga|Mercurial Scimitar i Mercury's Treads przeciw kontroli tłumu.
+U|Nieskończone Q|DPS|lt|triumph coup alacrity|focus|bers|bork rage wits term bt|W URF Q niemal ciągle – Yi jest nietykalny.
+U|Krytyczny URF|DPS|lt|triumph coup bloodline|bone|bers|yuntal ie navori bt ga|Navori i Q – nieustanne cięcia.
+S ga qss scimitar wits bt sterak maw kraken
+
+@ mel
+I Mid | Magini ze Złotym Zaćmieniem – nakłada Przytłoczenie, a superumiejętność uderza wszystkich oznaczonych wrogów na mapie. W odbija pociski.
+N|Złote zaćmienie|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Luden's i Malignance – częsta superumiejętność i duże obrażenia z Q.
+N|Burst Przytłoczenia|Mid|elec|cheap tyrant eyeball|transc|bmana|luden surge orb rab void|Electrocute i Infinity Orb – szybkie dobijanie przez Przytłoczenie.
+A|Poke promieniami|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig horizon rab void|W ARAM Q trafia wiele celów – Horizon Focus wzmacnia poke.
+A|Odbicie|DPS|dh|cheap tyrant eyeball|bone|mercs|luden liandry rab zhonya void|Dark Harvest i Liandry's – obrażenia w czasie i ochrona.
+U|Promienna salwa|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Q bez przerwy – Przytłoczenie rośnie błyskawicznie.
+U|Zaćmienie co chwilę|Burst|dh|cheap tyrant eyeball|gstorm|bmana|malig luden orb rab void|Superumiejętność bez odnowienia i Infinity Orb.
+S zhonya banshee void horizon morello crypt orb liandry
+
+@ milio
+I Support | Młody enchanter ognia – leczy i zwiększa zasięg sojuszników (W), tarczuje (E) i oczyszcza drużynę z kontroli tłumu superumiejętnością.
+N|Ciepłe ognisko|Support|aery|manaflow transc gstorm|revital|ionian|circlet harmonic sfw redemp mikael|Whispering Circlet i Harmonic Echo – leczenie i tarcze dla całej drużyny.
+N|Zasięg dla strzelca|Support|guard|colossus bone revital|celerity|ionian|censer harmonic shurelya locket mikael|Ardent Censer i zwiększony zasięg z W – strzelec niszczy wrogów z daleka.
+A|Ogień leczący|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic circlet sfw redemp mikael|W ARAM leczenie i oczyszczanie non stop.
+A|Ochronny ogień|Wsparcie|guard|unshake bone revital|celerity|mercs|harmonic censer locket redemp shurelya|Guardian i Locket – ochrona przed burstem.
+U|Wieczne ognisko|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF superumiejętność co chwilę – drużyna jest odporna na kontrolę tłumu.
+U|Płomienny poke|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void horizon|Q zadaje zaskakujące obrażenia z AP.
+S mikael redemp locket shurelya censer harmonic helia sfw
+
+@ miss-fortune
+I Dragon | Strzelczyni z odbijającym się Q i superumiejętnością zasypującą obszar kulami. Świetna w teamfightach.
+N|Deszcz kul|Dragon|fleet|triumph coup alacrity|bone|bers|yuntal ie ldr coll ga|Yun Tal i Infinity Edge – krytyczne Q i superumiejętność.
+N|Lethality MF|Dragon|elec|impact hubris eyeball|celerity|dyn|coll ghost sery eon ga|Przebicie pancerza wzmacnia superumiejętność – ogromny burst w teamfightach.
+A|Kanonada ARAM|Burst|elec|cheap tyrant eyeball|secondwind|dyn|coll ghost sery ie ga|W ARAM superumiejętność trafia całą drużynę w wąskiej linii.
+A|DPS pirata|DPS|fleet|triumph laststand bloodline|bone|bers|yuntal ie bt ldr shieldbow|Bloodthirster i Shieldbow – ciągła walka.
+U|Nieskończone kule|Burst|dh|impact tyrant eyeball|gstorm|dyn|coll ghost sery ie ga|W URF superumiejętność co chwilę – deszcz kul bez końca.
+U|Krytyczne Q|DPS|fleet|triumph coup bloodline|focus|bers|yuntal ie ldr bt ga|Odbijające się Q krytuje niemal zawsze.
+S ga shieldbow ldr mr qss scimitar bt eon
+
+@ mordekaiser
+I Baron | Juggernaut AP – wciąga wroga do Krainy Śmierci superumiejętnością, gdzie walczą 1 na 1. Pasywka zadaje obrażenia wokół niego.
+N|Władca Śmierci|Baron|conq|triumph laststand bloodline|bone|steel|rift liandry rab void banshee|Riftmaker i Liandry's – długie walki w Krainie Śmierci.
+N|Tankowaty Mordekaiser|Baron|grasp|demolish secondwind overgrowth|haste|mercs|rift liandry rylai despair twin|Grasp i Rylai's – dużo zdrowia, spowolnienia i trwałość.
+A|Żelazny upiór|Bruiser|conq|triumph laststand bloodline|secondwind|steel|rift liandry rylai rab banshee|W ARAM pasywka trafia wszystkich w pobliżu.
+A|Wieczny front|Tank AP|grasp|colossus secondwind overgrowth|triumph|mercs|rift liandry despair twin fon|Ogromne odporności – Mordekaiser trzyma front.
+U|Kraina Śmierci non stop|Bruiser|conq|triumph laststand bloodline|focus|glut|rift liandry rab void zhonya|W URF superumiejętność co chwilę – pojedynki bez końca.
+U|Metalowy potwór|Tank AP|conq|unshake secondwind overgrowth|triumph|steel|rift liandry despair twin rylai|Wytrzymała wersja z ciągłymi obrażeniami pasywki.
+S banshee zhonya void rab liandry morello despair fon
+
+@ morgana
+I Support, Mid | Upadła anielica z długim unieruchomieniem (Q), tarczą przeciw magii (E) i łańcuchami superumiejętności.
+N|Mroczne wsparcie|Support|aery|manaflow transc scorch|revital|ionian|mandate helia zhonya rab void|Imperial Mandate po każdym unieruchomieniu Q; Zhonya's przy wejściu z superumiejętnością.
+N|Magini z linii|Mid|dh|cheap tyrant eyeball|transc|bmana|liandry rylai rab zhonya void|Dark Harvest i Liandry's – W niszczy fale i wrogów.
+A|Łańcuchy w tłum|DPS|dh|cheap tyrant eyeball|secondwind|bmana|liandry rylai rab zhonya void|W ARAM superumiejętność łapie całą grupę, a Zhonya's zapewnia bezpieczeństwo.
+A|Ochrona drużyny|Wsparcie|aery|manaflow transc scorch|revital|ionian|mandate helia redemp zhonya rab|Tarcza E blokuje kontrolę tłumu, a Redemption leczy drużynę.
+U|Nieskończone unieruchomienia|Burst|dh|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void zhonya|W URF Q co chwilę – wrogowie są ciągle unieruchomieni.
+U|Poke i tarcze|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|Burst Q i ciągłe tarcze E.
+S zhonya banshee void morello rylai liandry mandate redemp
+
+@ nami
+I Support | Syrena z bańką (Q), odbijającym się leczeniem (W) i falą superumiejętności. Wzmacnia ataki sojuszników E.
+N|Fala leczenia|Support|aery|manaflow transc gstorm|revital|ionian|circlet harmonic sfw redemp mikael|Harmonic Echo i Whispering Circlet – W leczy kilku sojuszników naraz.
+N|Wzmocnione ataki|Support|elec|cheap tyrant eyeball|celerity|ionian|censer helia mandate shurelya mikael|Electrocute i Ardent Censer – wymiany na linii z E strzelca.
+A|Morze leczenia|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic circlet sfw redemp mikael|W ARAM W leczy i zadaje obrażenia bez przerwy.
+A|Przypływ|Wsparcie|guard|unshake bone revital|celerity|mercs|harmonic censer shurelya redemp locket|Ochrona i przyspieszenie drużyny.
+U|Tsunami|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF bańki i fale co chwilę.
+U|AP syrena|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void horizon|Wariant obrażeń z AP.
+S mikael redemp locket shurelya censer harmonic helia mandate
+
+@ nasus
+I Baron | Skalujący wojownik – każde zabójstwo Q zwiększa jego obrażenia na zawsze. Wysusza wrogów W i rośnie superumiejętnością.
+N|Nieskończone stacki|Baron|fleet|triumph laststand haste|unshake|steel|tri sky fh dd twin|Trinity Force i Sundered Sky wzmacniają Q; Frozen Heart spowalnia ataki wrogów.
+N|Tankowaty Nasus|Baron|grasp|demolish secondwind overgrowth|haste|mercs|iceborn sunfire twin despair fon|Iceborn Gauntlet i tankowe przedmioty – Nasus trzyma front.
+A|Wysuszenie|Tank|grasp|colossus secondwind overgrowth|haste|steel|iceborn fh twin despair thorn|W ARAM W spowalnia carry, a Nasus przeżywa każdy teamfight.
+A|Bijący Nasus|Bruiser|conq|triumph laststand bloodline|unshake|mercs|tri sky sterak dd fon|Conqueror i Sundered Sky – leczenie z Q.
+U|Q bez odnowienia|Bruiser|conq|triumph laststand bloodline|focus|steel|tri sky sterak dd ga|W URF stackowanie Q błyskawiczne – Nasus rośnie do absurdalnych obrażeń.
+U|Niezniszczalny Pies|Tank|grasp|colossus secondwind overgrowth|focus|mercs|iceborn heart twin despair garg|Heartsteel i Iceborn – nieskończone zdrowie i spowolnienia.
+S ga maw sterak dd fh thorn fon twin qss
+
+@ nautilus
+I Support, Dżungla | Tank z kotwicą – przyciąga się hakiem (Q), unieruchamia pasywką i goni cel superumiejętnością.
+N|Kotwica|Support|ice|colossus bone overgrowth|hexflash|steel|locket zeke virtue twin dawn|Ice Overlord i Dawnshroud – każde unieruchomienie to obrażenia i spowolnienie.
+N|Dżunglowy tytan|Dżungla|ice|colossus secondwind overgrowth|focus|mercs|sunfire despair twin fon thorn|Sunfire Aegis przyspiesza czyszczenie obozów.
+A|Morski tank|Tank|ice|colossus secondwind overgrowth|haste|steel|locket zeke despair twin thorn|W ARAM hak i superumiejętność łapią carry wroga.
+A|Głębinowy strażnik|Tank|grasp|unshake secondwind overgrowth|triumph|mercs|locket dawn virtue twin despair|Dużo odporności i leczenia dla drużyny.
+U|Kotwice non stop|Tank|ice|colossus secondwind overgrowth|focus|steel|zeke despair twin dawn garg|W URF hak i superumiejętność co chwilę.
+U|Tsunami głębin|Tank|grasp|colossus secondwind overgrowth|focus|mercs|heart despair twin thorn locket|Heartsteel i Grasp – rosnąca wytrzymałość.
+S fh thorn kaenic fon abyssal randuin dawn mantle
+
+@ nidalee
+I Dżungla | Łowczyni zmieniająca formę – w ludzkiej rzuca włócznią z dużego dystansu, w pumiej skacze i dobija oznaczone cele.
+N|Włócznia z dżungli|Dżungla|elec|impact hubris relentless|celerity|bmana|surge lich rab void zhonya|Lich Bane i Stormsurge – trafiona włócznia + skok pumy zabijają cel.
+N|Poke łowczyni|Dżungla|dh|impact tyrant eyeball|focus|bmana|luden surge rab void zhonya|Dark Harvest i Luden's – ogromne obrażenia z włóczni.
+A|Włócznie z daleka|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon rab void zhonya|W ARAM włócznia z Horizon Focus zadaje ogromne obrażenia.
+A|Puma w tłumie|Burst|elec|impact tyrant eyeball|bone|mercs|belt lich rab zhonya void|Rocketbelt i Lich Bane – wejście pumą.
+U|Łowczyni bez przerwy|Burst|elec|impact tyrant eyeball|gstorm|bmana|lich surge orb rab void|W URF formy i włócznie co chwilę.
+U|Nieskończone włócznie|Poke|dh|impact tyrant eyeball|focus|bmana|luden horizon rab void zhonya|Włócznia co kilka sekund – ciągły poke.
+S zhonya banshee void rab lich orb horizon morello
+
+@ nilah
+I Dragon | Wojowniczka z biczem walcząca wręcz na linii smoka. Dzieli się leczeniem i tarczami z sojusznikami, unika ataków W.
+N|Radosny bicz|Dragon|conq|triumph cutdown bloodline|bone|bers|yuntal ie bt ldr ga|Yun Tal, Infinity Edge i Bloodthirster – krytyczne ataki i ogromna kradzież życia.
+N|Wojowniczka z linii|Dragon|lt|triumph laststand alacrity|secondwind|bers|shieldbow ie bt ldr ga|Immortal Shieldbow i Guardian Angel – przeżywanie w walce wręcz.
+A|Dzielona radość|DPS|conq|triumph laststand bloodline|secondwind|bers|yuntal ie bt ldr ga|W ARAM leczenie Nilah dzieli się z sojusznikami.
+A|Przeżywająca Nilah|DPS|lt|triumph cutdown bloodline|bone|mercs|yuntal ie scimitar bt shieldbow|Mercurial Scimitar przeciw kontroli tłumu.
+U|Taniec bicza|DPS|conq|triumph coup bloodline|focus|bers|yuntal ie bt ldr ga|W URF W i E co chwilę – Nilah unika i skacze bez końca.
+U|Ogromna kradzież|DPS|lt|triumph coup bloodline|bone|bers|yuntal ie navori bt ga|Navori i Bloodthirster – szybkie umiejętności i leczenie.
+S ga shieldbow ldr mr qss scimitar bt wits
+
+@ nocturne
+I Dżungla | Koszmar, który superumiejętnością odbiera wrogom wizję i leci do celu. Tarcza W blokuje umiejętności, a E przestrasza.
+N|Paranoja|Dżungla|conq|triumph laststand haste|celerity|glut|ecl sky sterak dd ga|Eclipse i Sundered Sky – wejście superumiejętnością i przetrwanie.
+N|Zabójca z cienia|Dżungla|elec|impact hubris relentless|celerity|dyn|ghost eon sery dusk ga|Lethality: superumiejętność i natychmiastowe zabójstwo strzelca.
+A|Koszmar w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd chem|W ARAM Nocturne walczy w środku drużyny wroga.
+A|Łowca carry|Burst|elec|impact tyrant eyeball|bone|dyn|ghost eon sery ecl ga|Szybkie zabicie celu z flanki.
+U|Wieczna ciemność|Burst|elec|impact tyrant eyeball|gstorm|dyn|ghost eon sery ecl ga|W URF superumiejętność co chwilę – wrogowie ciągle bez wizji.
+U|Koszmar bez końca|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl sky sterak dd ga|Leczenie i tarcze w ciągłej walce.
+S ga maw sterak dd eon chem sery bc qss
+
+@ norra
+I Mid | Magini portali (champion unikalny dla Wild Rift) – W wysyła wrogów do alternatywnej rzeczywistości, E spowalnia nićmi, a superumiejętność ostrzeliwuje obszar czterema salwami.
+N|Mistrzyni portali|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Arcane Comet i Malignance – częsta superumiejętność i poke talizmanami.
+N|Kontrola rzeczywistości|Mid|elec|cheap tyrant eyeball|transc|bmana|luden rylai horizon rab void|Rylai's i E – wrogowie są spowolnieni, a Horizon Focus wzmacnia trafienia z dystansu.
+A|Portalowy poke|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig horizon rab void|W ARAM portale i salwy superumiejętności trafiają całą grupę.
+A|Bezpieczne portale|DPS|dh|cheap tyrant eyeball|bone|mercs|liandry rylai rab zhonya void|Liandry's i Rylai's – obrażenia w czasie i spowolnienia.
+U|Portale bez końca|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF superumiejętność co kilka sekund.
+U|Talizmany URF|Burst|dh|cheap tyrant eyeball|gstorm|bmana|malig luden orb rab void|Dark Harvest i Infinity Orb – dobijanie salwami.
+S zhonya banshee void horizon morello rylai crypt orb
+
+@ nunu-and-willump
+I Dżungla | Chłopiec i yeti – toczą ogromną śnieżkę (W), pożerają potwory i stwory (Q), rzucają śnieżkami (E) i zamrażają obszar superumiejętnością.
+N|Toczenie śnieżki|Dżungla|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin fon thorn|Sunfire Aegis i Unending Despair – tank inicjujący śnieżką.
+N|AP yeti|Dżungla|elec|cheap tyrant eyeball|celerity|bmana|liandry rylai rab void cosmic|Wariant AP: superumiejętność zadaje ogromne obrażenia.
+A|Lawina|Tank|ice|colossus secondwind overgrowth|haste|steel|sunfire despair twin fon abyssal|W ARAM śnieżka i superumiejętność łapią wielu wrogów.
+A|Magiczny mróz|Tank AP|grasp|colossus secondwind overgrowth|scorch|mercs|liandry rylai rift despair twin|Liandry's i Rylai's – obrażenia w czasie i spowolnienia.
+U|Wieczna zima|Tank|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin garg thorn|W URF śnieżka co chwilę.
+U|Absolutne zero|Burst|elec|cheap tyrant eyeball|gstorm|bmana|liandry rylai rab void cosmic|Superumiejętność bez odnowienia – ogromne obrażenia obszarowe.
+S thorn fon kaenic randuin fh abyssal garg mantle rylai
+
+@ olaf
+I Dżungla, Baron | Berserker z toporami – im mniej ma zdrowia, tym szybciej atakuje. Superumiejętność daje odporność na kontrolę tłumu.
+N|Berserker|Dżungla|conq|triumph laststand haste|celerity|glut|ecl bc sterak dd ga|Eclipse i Black Cleaver – rzucane topory i ataki niszczą pancerz.
+N|Szalony wojownik|Baron|lt|triumph laststand bloodline|unshake|steel|bork tri sterak dd ga|BoRK i Trinity Force – prędkość ataku przy niskim zdrowiu.
+A|Topory w tłum|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore bc sterak dd thorn|W ARAM Goredrinker i W dają ogromne leczenie.
+A|Nieustępliwy|Bruiser|conq|triumph laststand bloodline|bone|mercs|ecl bc sterak dd fon|Superumiejętność i Mercury's – całkowita odporność na kontrolę tłumu.
+U|Rzucanie toporami|Bruiser|conq|triumph laststand bloodline|focus|glut|ecl bc sterak dd ga|W URF Q co chwilę – nieustanne spowolnienie.
+U|Wieczny berserker|Bruiser|lt|triumph coup bloodline|bone|steel|bork tri sterak bt ga|Prędkość ataku i kradzież życia.
+S ga maw sterak dd chem bc fon titanic
+
+@ orianna
+I Mid | Magini z kulą – przesuwa kulę Q, spowalnia/przyspiesza W, tarczuje E i przyciąga wrogów superumiejętnością.
+N|Mechaniczna baletnica|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Luden's i Malignance – poke kulą i częsta superumiejętność.
+N|Kontrola teamfightów|Mid|elec|cheap tyrant eyeball|transc|ionian|malig rylai rab zhonya void|Rylai's i superumiejętność – przyciągnięcie i spowolnienie całej drużyny.
+A|Shockwave|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden malig rab zhonya void|W ARAM superumiejętność trafia całą grupę.
+A|Kula poke|Poke|comet|manaflow transc scorch|bone|mercs|luden horizon rylai rab zhonya|Horizon Focus i Q z dystansu.
+U|Nieskończony shockwave|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden malig rab void zhonya|W URF superumiejętność co chwilę.
+U|Kula non stop|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void orb|Q bez przerwy i Infinity Orb do dobijania.
+S zhonya banshee void morello rylai crypt horizon orb
+
+@ ornn
+I Baron | Kowal-tank, który ulepsza przedmioty sojuszników i ogłusza wrogów, odrzucając ich w ściany. Superumiejętność przywołuje barana.
+N|Kuźnia tanka|Baron|grasp|demolish secondwind overgrowth|haste|steel|sunfire despair twin fon thorn|Sunfire i Unending Despair – Ornn trzyma front i ogłusza drużynę wroga.
+N|Inicjator|Baron|ice|colossus secondwind overgrowth|celerity|mercs|iceborn despair twin fon garg|Ice Overlord po każdym ogłuszeniu, Iceborn spowalnia.
+A|Góra ognia|Tank|grasp|colossus secondwind overgrowth|haste|steel|sunfire despair twin thorn fon|W ARAM baran i E trafiają wielu wrogów.
+A|Kowal teamfightów|Tank|ice|colossus secondwind overgrowth|haste|mercs|iceborn despair twin abyssal garg|Ice Overlord i Abyssal Mask – wzmocnienie magów w drużynie.
+U|Nieskończony baran|Tank|ice|colossus secondwind overgrowth|focus|steel|sunfire despair twin garg thorn|W URF superumiejętność co chwilę.
+U|Góra żaru|Tank|grasp|colossus secondwind overgrowth|focus|mercs|heart despair twin fon thorn|Heartsteel i Grasp – rosnąca wytrzymałość.
+S thorn fon kaenic randuin fh abyssal garg mantle
