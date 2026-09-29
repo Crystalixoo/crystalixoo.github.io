@@ -4,9 +4,9 @@ N2|Z agresywnym strzelcem (Lucian, Draven, Samira) – E wzmacnia ataki, Electro
 A1|W ARAM – W leczy wielu sojuszników, Redemption i Harmonic Echo.|Przeciw dive'owi – Build 2 z Guardian.
 A2|Przeciw dive'owi – Guardian, Locket i Mercury's; bańka Q zatrzymuje nurkujących.|Gdy wrogowie są pasywni – Build 1.
 U1|W URF – W i E co chwilę, Staff of Flowing Water i Censer.|Gdy drużynie brakuje obrażeń – Build 2.
-U2|W URF, gdy drużynie brakuje obrażeń – Q i R z Comet zadają obrażenia z dystansu, Imperial Mandate wzmacnia sojuszników po unieruchomieniu, a Helia leczy z zadanych obrażeń.|Gdy drużyna potrzebuje leczenia – Build 1.
+U2|W URF, gdy drużynie brakuje obrażeń – Q i R z Comet i Luden's zadają obrażenia obszarowe, Imperial Mandate wzmacnia sojuszników po unieruchomieniu, a Helia leczy z zadanych obrażeń.|Gdy drużyna potrzebuje leczenia – Build 1.
 @nasus
-N1|Na Baronie w długich meczach – spokojne farmienie ładunków Q, Trinity Force i Sundered Sky, Frozen Heart i W tną prędkość ataku wrogów.|Przeciw magom i dużej ilości kontroli – Build 2 z Mercury's.
+N1|Na Baronie w długich meczach – spokojne farmienie ładunków Q, Conqueror w dłuższych wymianach, Trinity Force i Sundered Sky, a Frozen Heart i W tną prędkość ataku wrogów.|Przeciw magom i dużej ilości kontroli – Build 2 z Mercury's.
 N2|Tankowaty Nasus przeciw magom – Iceborn Gauntlet i Force of Nature, Sunfire.|Przeciw fizycznym bruiserom – Build 1.
 A1|W ARAM jako front – Iceborn, Frozen Heart i Thornmail, W wysusza strzelców.|Gdy drużynie brakuje obrażeń – Build 2.
 A2|W ARAM jako bruiser – Conqueror, Trinity i Sterak's.|Gdy drużyna potrzebuje tanka – Build 1.
@@ -42,10 +42,10 @@ U1|W URF przeciw miękkim celom – R (Paranoja) dostępne co kilkanaście sekun
 U2|W URF w długich walkach – Conqueror i Sundered Sky leczą, W blokuje umiejętności, a Sterak's i Death's Dance dają przeżywalność.|Przeciw miękkim celom – Build 1.
 @norra
 N1|Na midzie – portale i poke z Comet i Luden's, Malignance skraca R.|Gdy chcesz więcej kontroli – Build 2.
-N2|Kontrola rzeczywistości – Electrocute, Rylai's spowalnia, Horizon Focus.|Gdy wolisz bezpieczny poke – Build 1.
-A1|W ARAM jako poke – portale pozwalają trafiać z nieoczekiwanych kierunków, Comet i Horizon Focus wzmacniają obrażenia z dystansu.|Przeciw dive'owi – Build 2.
+N2|Kontrola rzeczywistości – Electrocute daje burst po combo, Rylai's spowalnia wszystkich trafionych, a Zhonya's ratuje przed wejściem zabójcy.|Gdy wolisz bezpieczny poke – Build 1.
+A1|W ARAM jako poke – portale pozwalają trafiać z nieoczekiwanych kierunków, Comet i Liandry's zadają obrażenia w czasie całej grupie.|Przeciw dive'owi – Build 2.
 A2|Przeciw dive'owi – Liandry's, Rylai's i Mercury's.|Gdy wrogowie są pasywni – Build 1.
-U1|W URF – portale i talizmany niemal bez odnowienia, Axiom Arcanist wzmacnia R, a Luden's i Horizon Focus dają ciągły poke.|Przeciw zabójcom – Build 2.
+U1|W URF – portale i talizmany niemal bez odnowienia, Axiom Arcanist wzmacnia R, a Luden's i Liandry's podpalają grupę.|Przeciw zabójcom – Build 2.
 U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb dobijają cele, a Malignance pozwala często używać superumiejętności.|Przeciw tankom – Build 1.
 @nunu-and-willump
 N1|W dżungli jako tank – śnieżka R+Q, Sunfire i Despair, szybkie zabieranie smoków Q.|Gdy drużynie brakuje obrażeń magicznych – Build 2.
@@ -67,7 +67,7 @@ N2|Kontrola teamfightów – Rylai's, Malignance i Ionian Boots, R w grupę wrog
 A1|W ARAM przeciw grupującym się wrogom – kula na sojuszniku i R (Shockwave) wciąga kilku wrogów, Electrocute i Luden's zabijają miękkie cele.|Przeciw dive'owi – Build 2.
 A2|Przeciw dive'owi – Mercury's, Rylai's i Zhonya's, poke kulą.|Gdy wrogowie są pasywni – Build 1.
 U1|W URF – R ze skróconym odnowieniem wciąga wrogów w niemal każdej walce, a Malignance i Luden's zadają ogromne obrażenia obszarowe.|Przeciw tankom – dodaj Liandry's.
-U2|W URF jako poke – kula Q i W bez przerwy, Horizon Focus i Comet wzmacniają trafienia, a Infinity Orb dobija cele.|Przeciw zabójcom – Build 1.
+U2|W URF jako poke – kula Q i W bez przerwy, Comet i Stormsurge wzmacniają trafienia, a Infinity Orb dobija cele.|Przeciw zabójcom – Build 1.
 @ornn
 N1|Na Baronie jako tank – Sunfire, Despair i Thornmail; ulepszenia przedmiotów dla drużyny od 13 poziomu, R inicjuje.|Gdy drużyna potrzebuje większej inicjacji – Build 2.
 N2|Inicjator – Ice Overlord i Iceborn, Gargoyle po wejściu.|Gdy potrzebujesz przetrwać linię – Build 1.

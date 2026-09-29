@@ -9,7 +9,7 @@ U2|Gdy wrogowie grupują się w teamfightach i jest dużo tanków – Black Clea
 @ahri
 N1|Na midzie przeciw magom i zabójcom z małą wytrzymałością – jeden trafiony urok + Electrocute i Luden's zabija cel. Zhonya's ratuje przed dive'm.|Gdy wróg ma dużo tanków lub tarcz – wtedy Liandry's Torment z listy sytuacyjnej lub Build 2 grający na użyteczność.
 N2|Gdy chcesz roamować i łapać cele z zaskoczenia – Rocketbelt daje dodatkowy doskok do trafienia uroku, a Ionian Boots skracają czary przywoływacza.|Przeciw drużynie z dużą ilością kontroli tłumu i burstem – Build 1 szybciej zabija i jest prostszy.
-A1|Na ARAM, gdy możesz bezpiecznie trafiać Q z dystansu i zmiękczać wrogów przed walką (Horizon Focus + Scorch).|Przeciw drużynie z silną inicjacją (Malphite, Amumu) – Build 2 z Banshee's i Zhonya's.
+A1|W ARAM, gdy możesz zmiękczyć wrogów Q z średniego dystansu i dobić cel urokiem – Comet i Scorch nagradzają trafienia, a Stormsurge kończy walkę po zadaniu 25% zdrowia.|Przeciw drużynie z silną inicjacją (Malphite, Amumu) – Build 2 z Banshee's i Zhonya's.
 A2|Przeciw nurkującym wrogom i dużej ilości kontroli tłumu – Banshee's Veil, Zhonya's i Mercury's Treads pozwalają przeżyć i odpowiedzieć urokiem.|Gdy wrogowie są pasywni i nie inicjują – Build 1 zada więcej obrażeń.
 U1|W URF przeciw miękkim celom – superumiejętność niemal zawsze gotowa, Infinity Orb dobija uciekających.|Przeciw tankom – dołóż Liandry's albo wybierz Build 2 z dodatkowym doskokiem.
 U2|Gdy wrogowie mają dużo mobilności – Rocketbelt i Dark Harvest pomagają dogonić i dobić cele.|Przeciw burstowi, który zabija cię pierwszy – weź Zhonya's (z listy sytuacyjnej) zamiast Infinity Orb.
@@ -81,5 +81,5 @@ N1|Standardowy wędrowiec – Shurelya's i Zeke's wzmacniają drużynę przy gan
 N2|Gdy twoja drużyna potrzebuje obrażeń i chcesz grać agresywnie.|Przeciw zabójcom – Build 1 z Locketem.
 A1|W ARAM – kapliczki, Harmonic Echo i Redemption.|Przeciw dive'owi – Build 2.
 A2|W ARAM przeciw zabójcom i bruiserom nurkującym na tyły – Guardian i Locket osłaniają sojusznika, Shurelya's daje ucieczkę lub pościg, a R zamraża nurkującego wroga, zanim zdąży zabić carry.|Gdy wrogowie są pasywni – Build 1.
-U1|W URF – superumiejętność co chwilę do zamrażania celów.|Gdy potrzebujesz ochrony – Build 2.
+U1|W URF, gdy drużynie brakuje obrażeń – Q ogłusza przy ścianie niemal non stop, Cheap Shot i Tyrant dokładają obrażenia po każdej kontroli, a R zatrzymuje wrogów do combo.|Gdy potrzebujesz ochrony – Build 2.
 U2|W URF, gdy drużyna ma dość obrażeń, a brakuje ochrony – Redemption, Locket i Shurelya's działają niemal w każdej walce, Helia zamienia obrażenia w leczenie, a R co chwilę rozdziela drużynę wroga.|Gdy potrzebujesz obrażeń – Build 1.

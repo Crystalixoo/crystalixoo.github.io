@@ -11,7 +11,7 @@ S zhonya banshee void fon kaenic abyssal rylai rift mantle garg
 @ garen
 I Baron | Prosty, ale skuteczny wojownik: cisza z Q, wirujące E, redukcja obrażeń z W i egzekucja superumiejętnością. Regeneruje zdrowie poza walką.
 N|Wirujący wojownik|Baron|conq|triumph laststand haste|bone|steel|stride sky sterak dd ga|Stridebreaker pomaga dogonić cel, a Sundered Sky i Death's Dance dają przeżywalność w wymianach.
-N|Krytyczny Garen|Baron|fleet|triumph coup alacrity|unshake|bers|yuntal ie navori pd ga|Wariant krytyczny: Yun Tal i Navori skracają odnowienie E – każdy obrót trafia krytycznie.
+N|Krytyczny Garen|Baron|conq|triumph coup alacrity|unshake|bers|yuntal ie navori pd ga|Wariant krytyczny: Conqueror ładuje się w obrocie E, a Yun Tal i Navori skracają odnowienie E – każdy obrót trafia krytycznie.
 A|Wir bitewny|Bruiser|conq|triumph laststand bloodline|secondwind|glut|stride sky sterak dd thorn|Wirujące E trafia wielu wrogów – leczenie z Sundered Sky i Conqueror.
 A|Tankowaty Garen|Tank|grasp|demolish secondwind overgrowth|triumph|mercs|stride bloodmail sterak fon twin|Dużo zdrowia i odporności – Garen przeżyje cały teamfight.
 U|Bez przerwy w wirze|Bruiser|conq|triumph laststand bloodline|focus|glut|stride sky sterak dd ga|W URF E i Q ciągle dostępne – nieustanny wir i cisza.
@@ -40,7 +40,7 @@ S zhonya banshee void rab liandry rift abyssal fon kaenic
 
 @ graves
 I Dżungla | Strzelec z strzelbą – zadaje ogromne obrażenia z bliska, a E daje pancerz i przyspiesza przeładowanie.
-N|Dżunglowy burst|Dżungla|fleet|triumph coup alacrity|bone|dyn|coll ie hexop ldr ga|The Collector i Infinity Edge – każdy strzał z bliska to krytyczny wybuch.
+N|Dżunglowy burst|Dżungla|fleet|triumph coup alacrity|bone|dyn|coll ie bt ldr ga|The Collector i Infinity Edge – każdy strzał z bliska to krytyczny wybuch, a Bloodthirster daje leczenie w dżungli i w walce.
 N|Lethality Graves|Dżungla|elec|impact hubris relentless|celerity|dyn|ghost eon sery dd ga|Przebicie pancerza i burst z umiejętności – szybkie zabijanie strzelców.
 A|Strzelba w tłumie|DPS|fleet|triumph laststand bloodline|secondwind|bers|yuntal ie bt ldr ga|W ARAM Graves walczy z bliska – Bloodthirster i Fleet Footwork leczą.
 A|Frontowy strzelec|Bruiser|conq|triumph laststand bloodline|bone|steel|ecl sky dd sery ga|Graves jako bruiser: Eclipse, Sundered Sky i Death's Dance.
@@ -61,7 +61,7 @@ S banshee void rab liandry rift morello nashor dnd
 @ hecarim
 I Dżungla | Szybki wojownik, który zamienia prędkość ruchu w obrażenia. Szarżuje E, odrzuca wrogów i straszy całą drużynę superumiejętnością.
 N|Szarża kawalerii|Dżungla|conq|triumph laststand haste|celerity|glut|tri ecl sterak dd ga|Trinity Force daje prędkość ruchu z ataków, a Sterak's i Death's Dance pozwalają przetrwać po wejściu.
-N|Tankowaty rycerz|Dżungla|fleet|triumph cutdown haste|unshake|steel|shojin bc sterak dmp ga|Dead Man's Plate i Black Cleaver – prędkość ruchu i redukcja pancerza całej drużyny.
+N|Tankowaty rycerz|Dżungla|prush|triumph cutdown haste|unshake|steel|shojin bc sterak dmp ga|Phase Rush po trzech trafieniach daje ogromną prędkość do szarży E, a Dead Man's Plate i Black Cleaver dają prędkość i redukcję pancerza.
 A|Szarża w tłum|Bruiser|conq|triumph laststand bloodline|secondwind|glut|gore sky sterak dd thorn|Goredrinker i leczenie z Q przy ciągłych walkach.
 A|Tank-szarżownik|Tank|grasp|colossus secondwind overgrowth|celerity|steel|dmp sunfire twin despair fon|Szarże z Dead Man's Plate i obrażenia obszarowe ze Sunfire.
 U|Wieczna szarża|Bruiser|conq|triumph laststand bloodline|focus|glut|tri ecl sterak dd ga|W URF E i superumiejętność co chwilę – Hecarim ciągle szarżuje.
@@ -134,7 +134,7 @@ N|Poke z działa|Mid|comet|manaflow transc scorch|bone|dyn|manamune ghost sery e
 N|Bruiser z młotem|Baron|conq|triumph laststand haste|unshake|steel|manamune ecl bc dd ga|Eclipse i Black Cleaver do wymian w formie młota.
 A|Artyleria|Poke|comet|manaflow transc scorch|secondwind|dyn|manamune ghost sery eon ga|W ARAM wzmocnione Q trafia całe grupy wrogów z dystansu.
 A|Wojownik ze zmianą|Bruiser|conq|triumph laststand bloodline|bone|steel|manamune ecl dd bc ga|Wersja do dłuższych walk z Death's Dance.
-U|Działo non stop|Poke|comet|axiom celerity scorch|bone|dyn|ecl ghost sery eon ga|W URF Q przez bramę co chwilę – nieustanny poke.
+U|Działo non stop|Poke|comet|cheap tyrant eyeball|celerity|dyn|ecl ghost sery eon ga|W URF działo (Q przez bramę) co chwilę – Comet i Cheap Shot/Tyrant po odrzuceniu młotem dają nieustanny poke z Lethality.
 U|Burst młota|Burst|elec|impact tyrant eyeball|gstorm|dyn|ecl ghost sery dd ga|Electrocute i lethality – combo z obu form.
 S ga maw dd bc eon sery qss chem
 

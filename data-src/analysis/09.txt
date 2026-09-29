@@ -1,7 +1,7 @@
 @syndra
 N1|Na midzie przeciw magom i zabójcom – combo Q-E ogłusza, R z pełnymi kulami zabija miękki cel; Electrocute, Luden's i Stormsurge, Zhonya's przeciw dive'owi.|Gdy linia jest pasywna i opłaca się poke – Build 2 z Comet i Horizon Focus.
-N2|Poke kulami – Comet, Horizon Focus i Malignance, bezpieczne zmiękczanie wrogów przed walką.|Przeciw zabójcom – Build 1 z Zhonya's.
-A1|W ARAM – kule z daleka, Horizon Focus i Comet.|Przeciw dive'owi – Build 2.
+N2|Poke kulami – Comet i Malignance, bezpieczne zmiękczanie wrogów Q przed walką i częsta superumiejętność; Zhonya's przeciw zabójcom.|Przeciw zabójcom – Build 1 z Zhonya's.
+A1|W ARAM – kule Q i E w grupę wrogów, Comet i Liandry's zadają obrażenia także tankom na froncie.|Przeciw dive'owi – Build 2.
 A2|Przeciw dive'owi – Banshee's, Zhonya's i Mercury's, R na carry.|Gdy wrogowie trzymają dystans – Build 1.
 U1|W URF – kule i E co chwilę, Infinity Orb dobija.|Przeciw tankom – dodaj Liandry's.
 U2|W URF – Dark Harvest i Malignance, R co chwilę.|Przeciw burstowi – dodaj Zhonya's.
@@ -10,7 +10,7 @@ N1|Na midzie – Q z Comet i Luden's, R pozwala roamować po całej mapie, combo
 N2|W dżungli – szybkie czyszczenie Q, Blackfire Torch i Liandry's, ganki przez R.|Na midzie – Build 1.
 A1|W ARAM jako poke – Q (kamienie) z Comet trafia grupę, a Liandry's i Luden's zadają obrażenia obszarowe.|Przeciw dive'owi – Build 2.
 A2|Kontrola terenu – W+E, Liandry's i Rylai's, Mercury's.|Gdy wrogowie są pasywni – Build 1.
-U1|W URF – Q i W+E niemal bez przerwy, R (ściana) dzieli drużynę wroga, a Horizon Focus wzmacnia poke.|Przeciw zabójcom – Build 2.
+U1|W URF – Q i W+E niemal bez przerwy, R (ściana) dzieli drużynę wroga, a Cheap Shot i Liandry's dokładają obrażenia po spowolnieniach.|Przeciw zabójcom – Build 2.
 U2|W URF – ściany R co chwilę dzielą drużynę wroga.|Przeciw tankom – Build 1.
 @talon
 N1|Na midzie przeciw miękkim celom – E pozwala przeskakiwać ściany do roamingu, Electrocute i Lethality (Youmuu's, Duskblade) zabijają combo W-Q-R.|W dżungli – Build 2.

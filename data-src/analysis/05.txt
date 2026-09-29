@@ -9,7 +9,7 @@ U2|W URF przeciw miękkim celom – Dark Harvest, Malignance i Luden's.|Przeciw 
 N1|Na Dragonie – Conqueror i podwójne strzały z pasywki, Essence Reaver i Navori skracają odnowienia, E pozwala grać agresywnie przeciw krótkozasięgowym strzelcom.|Na midzie lub gdy chcesz burst – Build 2.
 N2|Burst Luciana na midzie – Electrocute i Collector zabijają combo E+Q+ataki.|Przeciw tankom i w długich teamfightach – Build 1.
 A1|W ARAM – Conqueror i Bloodthirster dają sustain, Shieldbow chroni przed dive'm.|Przeciw pasywnym składom – Build 2 z poke'iem.
-A2|W ARAM jako poke – Q przebija przez stwory i sojuszniczy front, Comet i Hexoptics wzmacniają obrażenia z dystansu, a Essence Reaver odnawia manę.|Przeciw dive'owi – Build 1.
+A2|W ARAM jako poke – Q przebija przez stwory i sojuszniczy front, Comet wzmacnia trafienia Q, Rapid Firecannon daje dłuższy naładowany atak, a Essence Reaver odnawia manę.|Przeciw dive'owi – Build 1.
 U1|W URF – E niemal bez przerwy, Navori i Conqueror.|Przeciw zabójcom – dodaj Shieldbow.
 U2|Przeciw miękkim celom – Electrocute i Collector.|Przeciw tankom – Build 1.
 @lulu
@@ -17,8 +17,8 @@ N1|Ze strzelcem atakującym (Jinx, Kog'Maw, Vayne) – Ardent Censer i E dają p
 N2|Przeciw zabójcom nurkującym na strzelca – Guardian, Locket i Shurelya's, W polimorfuje zabójcę.|Z pasywnym składem wroga – Build 1 z Censer.
 A1|W ARAM – tarcze E i Harmonic Echo na wielu sojuszników, Redemption.|Gdy drużynie brakuje obrażeń – Build 2.
 A2|Gdy drużynie brakuje obrażeń – poke Q z Comet, Imperial Mandate i Luden's.|Przeciw dive'owi – Build 1.
-U1|W URF – E i W co chwilę, Staff of Flowing Water i Censer.|Gdy drużyna potrzebuje obrażeń – Build 2.
-U2|W URF, gdy drużyna potrzebuje obrażeń – Q z Comet i Luden's pokeuje co sekundę, Horizon Focus wzmacnia trafienia z dystansu, a W polimorfuje nurkujących.|Przeciw zabójcom – Build 1.
+U1|W URF – E (tarcza) i W (polimorf/przyspieszenie) co chwilę, Staff of Flowing Water i Censer wzmacniają sojuszników; runy Determinacji zamiast Axiom Arcanist, bo R Lulu nie leczy ani nie zadaje obrażeń.|Gdy drużyna potrzebuje obrażeń – Build 2.
+U2|W URF, gdy drużyna potrzebuje obrażeń – Q z Comet i Luden's pokeuje co sekundę, Stormsurge dobija cel, a W polimorfuje nurkujących.|Przeciw zabójcom – Build 1.
 @lux
 N1|Na midzie jako poke – Comet, Luden's i Horizon Focus, R z daleka dobija cele i czyści fale.|Jako wsparcie – Build 2.
 N2|Jako wsparcie – Q unieruchamia dwa cele, W tarcza, Imperial Mandate wzmacnia obrażenia strzelca.|Na midzie – Build 1.
@@ -60,7 +60,7 @@ N2|Ze strzelcem atakującym – E zwiększa zasięg ataków, Ardent Censer, Lock
 A1|W ARAM – W i R leczą wielu sojuszników naraz, R dodatkowo oczyszcza kontrolę tłumu, a Harmonic Echo i Redemption rozprowadzają leczenie po całej drużynie.|Przeciw dive'owi – Build 2.
 A2|W ARAM przeciw nurkującym wrogom – Guardian, Locket i Censer chronią carry, E wydłuża zasięg ataków strzelca, a R oczyszcza z ogłuszeń.|Gdy wrogowie są pasywni – Build 1.
 U1|W URF – leczenie i tarcze co chwilę, Staff of Flowing Water i Censer wzmacniają sojuszników, a R ratuje przed zmasowaną kontrolą tłumu.|Gdy potrzebujesz obrażeń – Build 2.
-U2|W URF, gdy drużynie brakuje obrażeń – Q z Comet i Horizon Focus pokeuje z dystansu, a Imperial Mandate wzmacnia obrażenia sojuszników po spowolnieniu.|Gdy drużyna potrzebuje leczenia – Build 1.
+U2|W URF, gdy drużynie brakuje obrażeń – Q z Comet i Luden's zadaje burst w kilku wrogów, a Imperial Mandate wzmacnia obrażenia sojuszników po spowolnieniu.|Gdy drużyna potrzebuje leczenia – Build 1.
 @miss-fortune
 N1|Na Dragonie – krytyczne Q odbija się od stworów, R z Yun Tal i IE niszczy teamfighty.|Gdy chcesz grać agresywnie od początku – Build 2 z Lethality.
 N2|Lethality MF – Collector, Youmuu's i Serylda's (R spowalnia).|Przeciw tankom – Build 1.

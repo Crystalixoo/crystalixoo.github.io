@@ -15,11 +15,11 @@ S maw ga chem bc sery thorn qss titanic hull sunderer
 I Mid | Mobilna magini z burstem: urok (E) zamyka cel, a trzy doskoki superumiejętności pozwalają ścigać lub uciekać. Świetna w pick-offach i roamingu.
 N|Burst z urokiem|Mid|elec|impact hubris eyeball|transc|bmana|luden surge rab void zhonya|Electrocute i Luden's Echo zabijają cel po jednym trafieniu uroku. Stormsurge przyspiesza po zabójstwie, a Zhonya's chroni przed zabójcami.
 N|Rocketbelt – roaming|Mid|elec|impact hubris relentless|focus|ionian|belt malig rab crypt zhonya|Hextech Rocketbelt daje dodatkowy doskok do łapania uroku z zaskoczenia, a Malignance skraca odnowienie superumiejętności do częstego roamingu.
-A|Poke i pick-off|Poke|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet i Scorch nagradzają trafianie Q z dystansu; Horizon Focus wzmacnia poke z ponad 600 jednostek.
+A|Poke i pick-off|Poke|comet|manaflow transc scorch|bone|bmana|luden malig surge rab void|Arcane Comet i Scorch nagradzają trafianie Q, a Stormsurge dobija cel zmiękczony poke'iem – Ahri gra ze średniego dystansu, więc liczy się burst po trafieniu uroku.
 A|Bezpieczny burst|Burst|elec|impact tyrant eyeball|secondwind|mercs|luden surge rab zhonya banshee|Wersja defensywna na ARAM pełen kontroli tłumu – Banshee's Veil blokuje inicjację, a Zhonya's ratuje przed nurkującymi wrogami.
 U|Nieskończone doskoki|Burst|elec|impact tyrant eyeball|focus|bmana|luden surge orb rab void|W URF superumiejętność jest dostępna niemal stale – maksymalne obrażenia i Infinity Orb do dobijania.
 U|Rocketbelt i dobijanie|Burst|dh|impact tyrant eyeball|gstorm|bmana|belt luden orb rab void|Dark Harvest zbiera dusze z każdej potyczki, a Rocketbelt daje czwarty doskok.
-S zhonya banshee void crypt orb morello horizon rab ocean
+S zhonya banshee void crypt orb morello rab ocean
 
 @ akali
 I Mid, Baron | Zabójczyni oparta na energii, niewidzialna w chmurze dymu (W). Wchodzi w walkę E i superumiejętnością, a Q zadaje obrażenia obszarowe i spowalnia.
@@ -79,7 +79,7 @@ A|Bomba teamfightowa|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden lian
 A|Przetrwanie|Poke|comet|manaflow transc scorch|bone|mercs|luden rylai rab banshee zhonya|Bezpieczniejsza wersja z Rylai's do spowalniania i Banshee's przeciw kontroli tłumu.
 U|Ciągłe ogłuszenia|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden surge orb rab void|W URF pasywka ładuje się niemal od razu – ogłuszenie co 2 sekundy i maksymalny burst.
 U|Tibbers wiecznie|Burst|dh|cheap tyrant eyeball|focus|bmana|liandry rylai rab void zhonya|Dark Harvest i obrażenia w czasie – Tibbers pali wrogów w każdej walce.
-S zhonya banshee void morello rylai orb horizon liandry
+S zhonya banshee void morello rylai orb liandry
 
 @ ashe
 I Dragon, Support | Strzelczyni z użytkową kontrolą tłumu – każdy atak spowalnia, a strzała superumiejętności ogłusza z drugiego końca mapy.
@@ -117,7 +117,7 @@ N|Wędrowiec|Support|guard|colossus bone revital|celerity|ionian|shurelya helia 
 N|Ofensywny Bard|Support|elec|cheap tyrant eyeball|celerity|bmana|helia mandate rab void zhonya|Wariant obrażeń: Q ogłusza, Electrocute i Imperial Mandate zwiększają obrażenia drużyny.
 A|Kapliczki i ogłuszenia|Wsparcie|aery|manaflow transc scorch|revital|ionian|helia mandate harmonic redemp abyssal|W ARAM Bard ogłusza i leczy – Harmonic Echo i Redemption wzmacniają sustain drużyny.
 A|Obrońca|Wsparcie|guard|unshake bone revital|celerity|mercs|locket helia shurelya zeke abyssal|Tarcze i prędkość ruchu dla drużyny w długich teamfightach.
-U|Superumiejętność co chwilę|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void zhonya|W URF ogłuszenia i superumiejętność niemal bez przerwy – AP daje realne obrażenia.
+U|Superumiejętność co chwilę|Burst|comet|cheap tyrant eyeball|celerity|bmana|helia mandate rab void zhonya|W URF ogłuszenia Q niemal bez przerwy – Cheap Shot i Tyrant dokładają obrażenia po każdej kontroli, a AP daje realny burst.
 U|Taktyk wsparcia|Wsparcie|guard|unshake bone revital|celerity|ionian|helia redemp shurelya locket abyssal|Pełne wsparcie drużyny: tarcze, leczenie i przyspieszenie.
 S mikael redemp locket zeke abyssal fh kaenic banshee
 

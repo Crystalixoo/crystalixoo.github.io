@@ -2,9 +2,9 @@
 N1|Na supporcie – W tarcza + leczenie dla drużyny, E unieruchamia spowolnionych, R urokiem przez całą mapę; Whispering Circlet → Diadem i Harmonic Echo.|Na midzie lub gdy drużynie brakuje obrażeń magicznych – Build 2.
 N2|Na midzie – Comet i Luden's, echo co trzeciej umiejętności podwaja Q, Malignance skraca R.|Jako wsparcie – Build 1.
 A1|W ARAM – W leczy wielu sojuszników, Redemption.|Gdy drużynie brakuje obrażeń – Build 2.
-A2|W ARAM jako poke – Q z Comet i Horizon Focus, echo co trzeciej umiejętności podwaja obrażenia.|Przeciw dive'owi – Build 1.
+A2|W ARAM jako poke – Q z Comet, echo co trzeciej umiejętności podwaja obrażenia, a Liandry's podpala trafionych w długich walkach.|Przeciw dive'owi – Build 1.
 U1|W URF – W co chwilę, Censer i Staff of Flowing Water.|Gdy potrzebujesz obrażeń – Build 2.
-U2|W URF – R co chwilę, Axiom Arcanist i Luden's, a W chroni drużynę.|Gdy drużyna potrzebuje leczenia – Build 1.
+U2|W URF – R co chwilę, Axiom Arcanist i Luden's, Liandry's na każdym trafieniu, a W chroni drużynę.|Gdy drużyna potrzebuje leczenia – Build 1.
 @sett
 N1|Na Baronie przeciw bruiserom walczącym wręcz – pasywka regeneruje, W zamienia otrzymane obrażenia w prawdziwe; Stridebreaker dogania, Sterak's i Death's Dance.|Przeciw magom i kontroli – Build 2.
 N2|Tankowy Sett – Bloodmail zamienia zdrowie w AD, Force of Nature i Mercury's; W rośnie z pulą zdrowia.|Przeciw fizycznym bruiserom – Build 1.

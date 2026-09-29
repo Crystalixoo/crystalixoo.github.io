@@ -31,10 +31,10 @@ S ga shieldbow ldr mr qss scimitar wits bt
 @ karma
 I Support, Mid | Enchanterka ze wzmocnieniem Mantra – wzmocnione Q eksploduje, W unieruchamia, a E daje tarczę i przyspieszenie całej drużynie.
 N|Mantra tarcz|Support|aery|manaflow transc scorch|revital|ionian|sfw harmonic shurelya redemp mikael|Staff of Flowing Water i Harmonic Echo wzmacniają tarcze E; Shurelya's dla inicjacji.
-N|Ofensywna Karma|Mid|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet i wzmocnione Q – mocny poke z linii środkowej.
+N|Ofensywna Karma|Mid|comet|manaflow transc scorch|bone|bmana|luden malig zhonya rab void|Arcane Comet i wzmocnione Q – mocny poke z linii środkowej; Zhonya's chroni przed zabójcami, którzy dochodzą do Karmy.
 A|Tarcze dla drużyny|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic sfw shurelya redemp locket|W ARAM wzmocnione E daje tarczę i przyspieszenie całej drużynie.
-A|Poke Mantry|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|Wzmocnione Q z daleka – ogromny poke w wąskiej linii.
-U|Mantra co chwilę|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Mantra dostępna niemal zawsze – wzmocnione Q za każdym razem.
+A|Poke Mantry|Poke|comet|manaflow transc scorch|secondwind|bmana|luden liandry malig rab void|Wzmocnione Q trafia grupę w wąskiej linii, a Liandry's dopala każdego trafionego w długiej walce.
+U|Mantra co chwilę|Poke|comet|axiom celerity scorch|bone|bmana|luden liandry rab void zhonya|W URF Mantra dostępna niemal zawsze – wzmocnione Q i Liandry's podpalają całą grupę.
 U|Wieczne tarcze|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic shurelya redemp locket|Tarcze dla całej drużyny co kilka sekund.
 S mikael redemp locket shurelya zhonya banshee mandate helia
 
@@ -163,7 +163,7 @@ I Dragon, Mid | Strzelec z krótkimi wymianami – po każdej umiejętności str
 N|Podwójne strzały|Dragon|conq|triumph cutdown alacrity|bone|bers|er navori ie ldr ga|Essence Reaver i Navori – ciągłe umiejętności i podwójne strzały z pasywki.
 N|Burst Luciana|Mid|elec|impact hubris eyeball|celerity|dyn|er coll ie ldr ga|Electrocute i The Collector – szybkie zabójstwa po combo.
 A|Oczyszczający|DPS|conq|triumph laststand bloodline|secondwind|bers|er navori ie bt shieldbow|W ARAM Bloodthirster i Shieldbow dla przetrwania.
-A|Poke Q|Poke|comet|manaflow transc scorch|bone|dyn|er ie hexop ldr ga|Arcane Comet i Q z dystansu – ciągły poke.
+A|Poke Q|Poke|comet|manaflow transc scorch|bone|dyn|er ie rfc ldr ga|Arcane Comet i Q z dystansu – ciągły poke; Rapid Firecannon wydłuża naładowany atak, żeby bezpiecznie dobić cel po Q.
 U|Tornado strzałów|DPS|conq|triumph coup bloodline|focus|bers|er navori ie ldr bt|W URF pasywka odpala non stop – dwa razy więcej strzałów.
 U|Egzekutor|Burst|elec|impact tyrant eyeball|gstorm|dyn|coll er ie ldr ga|Burst i dobijanie z The Collector.
 S ga shieldbow ldr mr qss scimitar bt maw
@@ -174,8 +174,8 @@ N|Strażniczka carry|Support|aery|manaflow transc gstorm|revital|ionian|censer h
 N|Czarodziejska obrończyni|Support|guard|colossus bone revital|celerity|ionian|circlet shurelya harmonic locket mikael|Guardian i Whispering Circlet – maksymalna ochrona drużyny.
 A|Magiczna ochrona|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic censer sfw redemp mikael|W ARAM tarcze i przemiany non stop.
 A|Poke wróżki|Poke|comet|manaflow transc scorch|bone|bmana|helia mandate luden rab void|Echoes of Helia i Q z dystansu – obrażenia i leczenie.
-U|Wieczne tarcze|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF tarcze i przemiany co chwilę – idealne wsparcie.
-U|AP wróżka|Burst|comet|axiom celerity scorch|bone|bmana|luden rab void horizon zhonya|Pełne AP – Q i E zadają zaskakujące obrażenia.
+U|Wieczne tarcze|Wsparcie|aery|font bone revital|celerity|ionian|sfw harmonic censer redemp mikael|W URF tarcze i przemiany co chwilę – Font of Life, Bone Plating i Revitalize wzmacniają ochronę, bo superumiejętność Lulu nie zadaje obrażeń (Axiom Arcanist nic by nie dał).
+U|AP wróżka|Burst|comet|cheap tyrant eyeball|celerity|bmana|luden surge rab void zhonya|Pełne AP – Q i E zadają zaskakujące obrażenia, a Stormsurge dobija cele; Cheap Shot działa po spowolnieniu Q.
 S mikael redemp locket shurelya censer harmonic zhonya mandate
 
 @ lux
