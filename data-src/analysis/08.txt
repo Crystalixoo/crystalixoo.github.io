@@ -1,0 +1,84 @@
+@seraphine
+N1|Na supporcie – W tarcza + leczenie dla drużyny, E unieruchamia spowolnionych, R urokiem przez całą mapę; Whispering Circlet → Diadem i Harmonic Echo.|Na midzie lub gdy drużynie brakuje obrażeń magicznych – Build 2.
+N2|Na midzie – Comet i Luden's, echo co trzeciej umiejętności podwaja Q, Malignance skraca R.|Jako wsparcie – Build 1.
+A1|W ARAM – W leczy wielu sojuszników, Redemption.|Gdy drużynie brakuje obrażeń – Build 2.
+A2|W ARAM jako poke – Q z Comet i Horizon Focus, echo co trzeciej umiejętności podwaja obrażenia.|Przeciw dive'owi – Build 1.
+U1|W URF – W co chwilę, Censer i Staff of Flowing Water.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF – R co chwilę, Axiom Arcanist i Luden's, a W chroni drużynę.|Gdy drużyna potrzebuje leczenia – Build 1.
+@sett
+N1|Na Baronie przeciw bruiserom walczącym wręcz – pasywka regeneruje, W zamienia otrzymane obrażenia w prawdziwe; Stridebreaker dogania, Sterak's i Death's Dance.|Przeciw magom i kontroli – Build 2.
+N2|Tankowy Sett – Bloodmail zamienia zdrowie w AD, Force of Nature i Mercury's; W rośnie z pulą zdrowia.|Przeciw fizycznym bruiserom – Build 1.
+A1|W ARAM – Goredrinker i Thornmail, R w grupę wrogów.|Przeciw magom – Build 2.
+A2|Wielki Szef – Heartsteel i Bloodmail, W zadaje ogromne obrażenia prawdziwe.|Gdy potrzebujesz mobilności – Build 1.
+U1|W URF – W co chwilę, Conqueror i Sundered Sky.|Przeciw magom – dodaj Maw.
+U2|W URF – pokaz siły: Bloodmail, Heartsteel i Sterak's.|Przeciw kitingowi – Build 1 ze Stridebreakerem.
+@shen
+N1|Na Baronie jako tank – R (Stand United) ratuje sojuszników na całej mapie, Titanic Hydra i Despair; E prowokuje.|Jako wsparcie – Build 2.
+N2|Jako wsparcie – Locket, Zeke's i Virtue, W blokuje autoataki wroga, R ratuje carry.|Na Baronie – Build 1.
+A1|W ARAM jako front – W blokuje ataki, Thornmail i Force of Nature.|Gdy potrzebujesz inicjacji – Build 2.
+A2|Tarcza ninja – Ice Overlord, Zeke's i Gargoyle.|Przeciw fizycznym – Build 1.
+U1|W URF – R (Stand United) co chwilę ratuje sojuszników na całej mapie, W blokuje ataki, a Titanic i Thornmail zadają obrażenia.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF jako bruiser – Conqueror, Titanic i Sterak's, R pozwala dołączać do walk na mapie.|Przeciw burstowi – Build 1.
+@shyvana
+N1|W dżungli – szybkie czyszczenie, Draconic Bloodline rośnie ze smokami, Trinity Force i Titanic; forma smoka R w teamfightach.|Gdy drużynie brakuje obrażeń magicznych – Build 2.
+N2|AP smoczyca – E (fireball) z Liandry's i Rylai's, Dark Harvest.|Przeciw burstowi – Build 1.
+A1|W ARAM – forma smoka R z Titanic Hydrą i Trinity Force trafia wielu wrogów, a Thornmail tnie leczenie.|Przeciw magom – Build 2.
+A2|W ARAM, gdy drużynie brakuje obrażeń magicznych – E (fireball) z Liandry's i Rylai's zadaje ogromne obrażenia z dystansu.|Gdy potrzebujesz tanka – Build 1.
+U1|W URF – forma smoka niemal ciągle, Conqueror i Trinity, Sterak's i Death's Dance dają przeżywalność.|Przeciw magom – dodaj Maw.
+U2|W URF przeciw miękkim celom – E z Dark Harvest i Rabadonem, Cosmic Drive daje prędkość.|Przeciw burstowi – Build 1.
+@singed
+N1|Na Baronie – trucizna Q za plecami, E przerzuca wroga do drużyny; Rod of Ages, Liandry's i Rylai's, Mercury's.|Gdy chcesz więcej prędkości do proxy-farmienia – Build 2.
+N2|Szybki chemik – Phase Rush i Cosmic Drive, prędkość do proxy i kitingu.|Przeciw fizycznym bruiserom – Build 1.
+A1|W ARAM – chmura trucizny w tłumie, Riftmaker.|Przeciw burstowi – Build 2.
+A2|W ARAM jako szalony tank – Conqueror i Force of Nature.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – trucizna Q nakłada Liandry's i Rylai's na wszystkich za tobą, E przerzuca wroga do drużyny, a Riftmaker i Despair utrzymują przy życiu podczas biegania przez tłum.|Przeciw burstowi – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Rabadon's sprawiają, że trucizna i W zadają ogromne obrażenia; Zhonya's ratuje przy ściganiu.|Przeciw fizycznym – Build 1.
+@sion
+N1|Na Baronie jako tank – Heartsteel i stosy pasywki, Titanic Hydra zadaje obrażenia ze zdrowia; R inicjuje z daleka.|Gdy drużynie brakuje obrażeń fizycznych – Build 2.
+N2|Juggernaut AD – Eclipse, Black Cleaver i Sterak's.|Gdy drużyna potrzebuje tanka – Build 1.
+A1|W ARAM jako front – Heartsteel i pasywne ładunki zdrowia rosną z każdą walką, Titanic Hydra zamienia zdrowie w obrażenia, a pasywka po śmierci pozwala dalej walczyć.|Gdy potrzebujesz inicjacji – Build 2.
+A2|Szarża R – Ice Overlord, Force of Nature i Gargoyle.|Przeciw fizycznym – Build 1.
+U1|W URF jako tank – Q (ogłuszenie) i W (tarcza) co chwilę, Heartsteel daje ogromną pulę zdrowia, a R inicjuje walki z daleka.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF, gdy drużynie brakuje obrażeń fizycznych – Eclipse i Black Cleaver z naładowanym Q, a Sterak's i Death's Dance dają przeżywalność.|Przeciw burstowi – Build 1.
+@sivir
+N1|Na Dragonie – W rykoszety czyszczą fale i trafiają wielu wrogów, E blokuje umiejętności, R przyspiesza drużynę; Yun Tal, IE i Navori.|Gdy teamfighty są długie – Build 2 z Runaan's.
+N2|Krytyczna kanonada – Lethal Tempo i Runaan's, Shieldbow.|Gdy chcesz szybsze umiejętności – Build 1.
+A1|W ARAM – W (rykoszety) trafia całą drużynę wroga stojącą w grupie, Runaan's dodaje kolejne cele, a E blokuje kluczową umiejętność.|Przeciw dive'owi – Build 2.
+A2|W ARAM – R przyspiesza drużynę, Bloodthirster.|Przeciw miękkim celom – Build 1.
+U1|W URF – W i Q niemal bez przerwy, E blokuje umiejętności co kilka sekund, a Navori skraca odnowienia jeszcze bardziej.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF jako poke – Q (ostrze) przelatuje przez wszystkich wrogów, Essence Reaver i Hexoptics zwiększają obrażenia z dystansu.|Przeciw tankom – Build 1.
+@skarner
+N1|W dżungli jako tank – R porywa wroga, Sunfire, Despair i Thornmail; E przez ściany.|Na Baronie – Build 2.
+N2|Na Baronie przeciw bruiserom walczącym wręcz – Iceborn Gauntlet i Randuin's spowalniają i karzą ataki, a R porywa carry do twojej drużyny.|W dżungli – Build 1.
+A1|W ARAM – R porywa kluczowego wroga, E przez ściany pozwala zajść grupę z boku, a Sunfire i Thornmail zadają obrażenia w walce.|Przeciw magom – Build 2.
+A2|Kryształowa skorupa – Heartsteel i Force of Nature.|Przeciw fizycznym – Build 1.
+U1|W URF – E (szarża przez ściany) i R co chwilę, więc Skarner może porywać kolejne cele; Gargoyle chroni po wejściu.|Przeciw magom – Build 2.
+U2|W URF przeciw magom – Heartsteel, Iceborn i Force of Nature, R porywa carry.|Gdy potrzebujesz inicjacji – Build 1.
+@smolder
+N1|Na Dragonie w długich meczach – ładunki Dragon Practice (Q) skalują się bez limitu, przy 175 ładunkach Q egzekwuje; Essence Reaver i Navori.|Na midzie – Build 2.
+N2|Na midzie – Comet, Manamune i Essence Reaver, poke Q i W.|Na Dragonie – Build 1.
+A1|W ARAM – oddech w tłum, Bloodthirster i Shieldbow.|Przeciw poke'owi – Build 2.
+A2|W ARAM jako poke – Q i W z Comet i Manamune, ładunki Dragon Practice rosną szybko przy ciągłej walce.|Przeciw dive'owi – Build 1.
+U1|W URF – ładunki Dragon Practice rosną błyskawicznie dzięki spamowi Q, a Navori i Essence Reaver skracają odnowienia.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF – R (Mama Smoldera) co chwilę z Comet i Axiom Arcanist, a Hexoptics wzmacnia obrażenia z dystansu.|Przeciw dive'owi – Build 1.
+@sona
+N1|Na supporcie – aury wzmacniają sojuszników, R ogłusza wielu wrogów; Whispering Circlet → Diadem, Harmonic Echo i Redemption.|Gdy chcesz agresywnej linii – Build 2.
+N2|Ofensywna Sona – Electrocute z Q i ataku z pasywką, Luden's.|Przeciw dive'owi – Build 1.
+A1|W ARAM – W leczy wielu sojuszników, aury wzmacniają całą drużynę, a Redemption i Harmonic Echo dają dodatkowe leczenie.|Gdy drużynie brakuje obrażeń – Build 2.
+A2|W ARAM jako poke – Q z Comet i Luden's trafia dwóch wrogów, a R (Crescendo) ogłusza grupę.|Przeciw dive'owi – Build 1.
+U1|W URF – aury i leczenie niemal non stop, Censer i Staff of Flowing Water wzmacniają sojuszników.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF, gdy drużynie brakuje obrażeń – Q i R z Comet i Luden's zadają burst, a Helia leczy sojuszników.|Gdy drużyna potrzebuje leczenia – Build 1.
+@soraka
+N1|Na supporcie – W leczy sojuszników, R leczy całą drużynę na mapie; Whispering Circlet → Diadem i Harmonic Echo.|Przeciw dive'owi – Build 2.
+N2|Przeciw zabójcom nurkującym na strzelca – Guardian i Locket chronią carry, E (uciszenie) przerywa combo, a Shurelya's daje ucieczkę.|Przeciw poke'owi – Build 1.
+A1|W ARAM – W i R leczą całą drużynę, Harmonic Echo rozprowadza leczenie, a Redemption leczy w teamfightach.|Przeciw dive'owi – Build 2.
+A2|Przeciw dive'owi – Guardian i Mercury's, E ucisza.|Przeciw poke'owi – Build 1.
+U1|W URF – W niemal bez odnowienia, R co chwilę; Staff of Flowing Water i Censer wzmacniają sojuszników.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF, gdy drużynie brakuje obrażeń – Q (gwiazda) z Comet i Rabadonem, a Imperial Mandate wzmacnia drużynę.|Gdy drużyna potrzebuje leczenia – Build 1.
+@swain
+N1|Na midzie – Conqueror, Liandry's i Rylai's, R (Demonic Ascension) leczy z każdego wroga w pobliżu; Mercury's przeciw kontroli.|Jako wsparcie – Build 2.
+N2|Jako wsparcie – E przyciąga, Grasp i Liandry's, Imperial Mandate.|Na midzie – Build 1.
+A1|W ARAM – R (forma demona) leczy z każdego wroga w pobliżu, a Liandry's, Rylai's i Despair zamieniają długie walki w przewagę.|Przeciw burstowi – Build 2.
+A2|W ARAM jako tank AP – Riftmaker, Despair i Gargoyle pozwalają stać w środku walki, a E przyciąga wrogów do drużyny.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – R co chwilę, E i W z Liandry's i Rylai's, a Conqueror i Riftmaker leczą w walce.|Przeciw burstowi – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Rabadon's, W z daleka i R w walce.|Przeciw tankom – Build 1.

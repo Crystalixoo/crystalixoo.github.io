@@ -1,0 +1,84 @@
+@blitzcrank
+N1|Standard na supporcie, gdy twoja drużyna ma obrażenia do zamienienia haka w zabójstwo – Ice Overlord i Zeke's wzmacniają każdy udany hak, Ionian Boots dają częstszy Flash.|Gdy wrogi bot jest mobilny i łatwo unika haków – Build 2 z First Strike i Yordle Trap daje więcej wartości z każdego trafienia.
+N2|Agresywny early game przeciw słabym na linii strzelcom – First Strike i Cheap Shot dają dodatkowe złoto i obrażenia po haku, Frozen Heart przeciw autoatakom.|Gdy musisz chronić własnego carry przed dive'm – Build 1 z Radiant Virtue i Locketem.
+A1|W ARAM, gdy wrogowie ustawiają się w linii – każdy hak w tłumie to walka 5v4; Despair i Twinguard trzymają cię przy życiu po wejściu.|Gdy wrogowie mają dużo zabójców i trzeba pilnować własnych carry – Build 2.
+A2|Przeciw dive'owi na tyły – Guardian, Frozen Heart i Abyssal Mask chronią sojuszników i wzmacniają ich obrażenia magiczne.|Gdy wrogowie trzymają się z tyłu i trzeba ich wyciągać – Build 1.
+U1|W URF hak jest dostępny co chwilę – Zeke's i Virtue nagradzają ciągłe inicjacje, a Gargoyle chroni po wejściu.|Gdy drużynie brakuje obrażeń – Build 2 z AP.
+U2|Gdy twoja drużyna ma mało obrażeń – Blitz AP zabija miękkie cele samym hakiem + R + Electrocute.|Przeciw tankom i drużynie z dużą ilością burstu – Build 1.
+@brand
+N1|Na midzie przeciw składom walczącym w grupie – podpalenia z pasywki, Blackfire Torch i Liandry's zadają ogromne obrażenia w czasie.|Przeciw zabójcom, którzy wchodzą na ciebie pierwsi – dodaj Banshee's lub graj Build 2 z Zhonya's wcześniej.
+N2|Jako ofensywne wsparcie przeciw wolnym, tankowym składom – Bloodletter's Curse i Rylai's zapewniają spowolnienia i obniżenie odporności na magię dla drużyny.|Przeciw engage'owi na bocie (Leona, Nautilus) – wybierz bezpieczniejszy build z Zhonya's wcześniej lub Build 1.
+A1|ARAM to idealne miejsce dla Branda – wrogowie stoją w grupie, więc pasywka wybucha na wielu celach; Bloodletter's topi odporność na magię całej drużyny.|Przeciw dive'owi – Build 2 z Mercury's Treads.
+A2|Przeciw leczącym składom i drużynom z dive'm – Morellonomicon tnie leczenie, Rylai's spowalnia nurkujących.|Gdy wrogowie są tankami bez leczenia – Build 1 zada więcej.
+U1|W URF ogień nie gaśnie – Blackfire Torch i Liandry's nakładane przez spam umiejętności.|Przeciw zabójcom – Build 2 z Zhonya's i Rylai's.
+U2|Przeciw tankom w URF – Bloodletter's i Liandry's topią nawet grube cele.|Przeciw miękkim celom – Build 1 z Rabadonem i Void Staff zada więcej.
+@braum
+N1|Ochrona strzelca przed zabójcami i pociskami – Knight's Vow, Frozen Heart i Radiant Virtue; E blokuje pociski dla całej drużyny.|Gdy grasz z agresywnym strzelcem i chcesz inicjować – Build 2.
+N2|Agresywny bot lane – pasywka + Ice Overlord dają szybkie ogłuszenia, Yordle Trap wzmacnia sojuszników.|Przeciw zabójcom nurkującym na tyły – Build 1.
+A1|W ARAM przeciw strzelcom i poke'owi – E blokuje pociski, Frozen Heart spowalnia autoataki.|Gdy wrogowie to głównie magowie – Build 2 z Abyssal Mask.
+A2|Gdy drużyna potrzebuje inicjatora z kontrolą – ogłuszenia z pasywki w teamfightach.|Przeciw dive'owi – Build 1.
+U1|W URF jako obrońca – tarcza E dostępna niemal zawsze.|Gdy potrzebujesz inicjacji – Build 2.
+U2|W URF jako tank inicjujący – szybkie nakładanie pasywki i Thornmail przeciw autoatakom.|Gdy trzeba chronić carry – Build 1.
+@caitlyn
+N1|Standard na Dragonie – bardzo długi zasięg, Hexoptics nagradza strzelanie z maksymalnej odległości, Shieldbow chroni przed dive'm.|Gdy chcesz dominować linię od pierwszych minut – Build 2 ze Stormrazorem.
+N2|Presja na linii przeciw krótkozasięgowym strzelcom – Stormrazor i Phantom Dancer pozwalają wymieniać ciosy i kitować.|Przeciw zabójcom w późnej grze – Build 1 z Shieldbow.
+A1|W ARAM jako poke z dystansu – Rapid Firecannon i Hexoptics dają jeszcze większy zasięg.|Gdy wrogowie nurkują – Build 2 z GA.
+A2|Gdy teamfighty są długie i front dobrze chroni – Runaan's trafia kilka celów.|Przeciw poke'owi i dystansowym składom – Build 1.
+U1|W URF ciągłe strzały w głowę z pułapek i E – krytyki i Hexoptics.|Przeciw zabójcom – dodaj Shieldbow.
+U2|Przeciw miękkim celom – Collector i Dark Harvest dobijają uciekających.|Przeciw tankom – Build 1.
+@camille
+N1|Pojedynki na Baronie przeciw bruiserom – Trinity Force i Eclipse dają burst i prawdziwe obrażenia z Q, Death's Dance przeżywalność.|Gdy chcesz zabijać strzelców i magów w teamfightach – Build 2.
+N2|Gdy twoim zadaniem jest dopaść carry – Serylda's i Edge of Night (blokuje kluczową kontrolę) po hooku.|Przeciw tankom i bruiserom na linii – Build 1.
+A1|W ARAM jako front – Sterak's i Sundered Sky, Chempunk przeciw leczącym.|Gdy możesz flankować – Build 2.
+A2|Gdy wrogie carry stoją za słabym frontem – dive R na maga i Maw przeciw magicznemu burstowi.|Przeciw tankom – Build 1.
+U1|W URF przy ciągłych Q i E – Conqueror i Sundered Sky leczą.|Przeciw miękkim celom – Build 2.
+U2|Przeciw miękkim celom w URF – Serylda's i Bloodthirster.|Przeciw tankom – Build 1.
+@chogath
+N1|Na Baronie w długich meczach – Heartsteel i stosy R dają ogromne zdrowie, Sunfire czyści fale.|Gdy drużynie brakuje obrażeń magicznych – Build 2.
+N2|Gdy twoja drużyna ma mało obrażeń – Cho AP zabija Q + W + R i nadal jest dość wytrzymały.|Przeciw zabójcom i dużej ilości kontroli tłumu – Build 1.
+A1|W ARAM jako front – Heartsteel, Warmog's i Thornmail.|Gdy drużynie brakuje obrażeń – Build 2.
+A2|Hybryda tank + obrażenia magiczne, gdy nie masz innego źródła AP w drużynie.|Przeciw burstowi – Build 1.
+U1|W URF jako front drużyny – R ze skróconym odnowieniem zbiera ładunki zdrowia bardzo szybko, Heartsteel i Warmog's dodają kolejne tysiące zdrowia, a Q i W ciągle podrzucają i uciszają wrogów.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF przy spamie Q i W – Liandry's i Rylai's.|Przeciw burstowi – Build 1.
+@corki
+N1|Na midzie przeciw magom krótkiego zasięgu – Arcane Comet + Q/R zmiękczają cel z bezpiecznej odległości, Essence Reaver odnawia manę, a Hexoptics dokłada obrażeń z dystansu. Boots of Dynamism dla przebicia pancerza.|Gdy grasz na Dragonie lub wróg ma dużo zabójców wchodzących na ciebie – Build 2 z Fleet Footwork i Guinsoo's daje więcej obrażeń w długiej walce.
+N2|Na Dragonie jako hybrydowy DPS – Guinsoo's Rageblade i Essence Reaver łączą ataki z rakietami, Fleet Footwork daje leczenie i ucieczkę.|Gdy linia jest pasywna i opłaca się poke – Build 1 z Comet.
+A1|W ARAM, gdy możesz strzelać zza frontu – Comet, Manamune i Essence Reaver pozwalają spamować rakiety bez problemów z maną.|Przeciw dive'owi (zabójcy, Rengar, Kha'Zix) – Build 2 z Shieldbow.
+A2|Gdy walki są długie i front wroga dochodzi do ciebie – Bloodthirster i Shieldbow dają przeżywalność, a Fleet leczy.|Przeciw pasywnym, poke'ującym składom – Build 1.
+U1|W URF rakiety lecą co sekundę – Axiom Arcanist wzmacnia R, a Comet nakłada się przy każdym trafieniu.|Przeciw zabójcom – zamień Bloodthirster na Guardian Angel lub Shieldbow.
+U2|Przeciw miękkim celom w URF – Electrocute + Collector dobijają cele Package'em (W) i rakietami.|Przeciw tankom – Build 1 z Lord Dominik's i ciągłymi obrażeniami.
+@darius
+N1|Na Baronie przeciw bruiserom walczącym wręcz – Stridebreaker dogania cel, pasywka nakłada 5 ładunków, a Sterak's i Death's Dance pozwalają wygrać długą wymianę.|Przeciw ranged topom (Teemo, Kennen) i magom – Build 2 z Mercury's i Force of Nature.
+N2|Przeciw magom i dużej ilości kontroli tłumu – Mercury's, Force of Nature i Unending Despair; Bloodmail zamienia zdrowie w obrażenia.|Przeciw fizycznym bruiserom, których trzeba szybko zabić – Build 1.
+A1|W ARAM w ciągłych walkach w tłumie – Goredrinker trafia wielu wrogów i leczy, Thornmail tnie leczenie wrogów walczących wręcz.|Gdy wrogowie kitują i mają dużo spowolnień – Build 2 ze Stridebreakerem.
+A2|Przeciw poke'owi i magicznym obrażeniom – dużo zdrowia i Force of Nature pozwalają dojść do celu z pełnymi ładunkami.|Gdy drużyna potrzebuje obrażeń, a nie tanka – Build 1.
+U1|W URF – szybkie odnawianie R po zabójstwach (reset) i leczenie z Sundered Sky; Stridebreaker co chwilę dogania cel.|Przeciw magicznemu burstowi – dodaj Maw of Malmortius.
+U2|W URF przeciw tankom i grupującym się wrogom – Black Cleaver, Titanic Hydra i Goredrinker w tłumie.|Przeciw kitującym strzelcom – Build 1 ze Stridebreakerem.
+@diana
+N1|W dżungli przeciw miękkim celom – szybkie ganki z Q→R, Electrocute + Stormsurge + Lich Bane zabijają maga lub strzelca jednym combo.|Na midzie przeciw bruiserom i tankom lub gdy walki są długie – Build 2 z Riftmakerem.
+N2|Na midzie przeciw bruiserom (Yasuo, Yone, Sylas) – Conqueror, Riftmaker i Dusk and Dawn dają leczenie i obrażenia w długiej walce.|Gdy możesz jednym combo zabić carry – Build 1.
+A1|W ARAM, gdy wrogie carry stoją blisko frontu – Rocketbelt daje dodatkowy doskok do celu, R ściąga wrogów w jedno miejsce.|Przeciw składom z dużym burstem i kontrolą – Build 2.
+A2|W długich teamfightach ARAM – Riftmaker i Liandry's nagradzają przebywanie w tłumie, Mercury's przeciw kontroli.|Przeciw miękkim celom – Build 1.
+U1|W URF – Q i E dostępne niemal ciągle, Infinity Orb dobija cele, Rocketbelt daje trzeci doskok.|Przeciw tankom – Build 2.
+U2|W URF przy długich walkach – Conqueror i Riftmaker ładują się błyskawicznie.|Przeciw składom z dużym burstem – dodaj Zhonya's.
+@dr-mundo
+N1|Na Baronie przeciw bruiserom i w długich meczach – Heartsteel i Warmog's dają ogromną pulę zdrowia, a R regeneruje ją w walce; Sunfire zadaje obrażenia.|Gdy grasz w dżungli – Build 2 z Titanic Hydrą do czyszczenia obozów.
+N2|W dżungli – Titanic Hydra wzmacnia E i czyszczenie, Sterak's daje tarczę po wejściu w walkę.|Na linii przeciw poke'owi – Build 1.
+A1|W ARAM jako front – Warmog's i Heartsteel, Thornmail przeciw leczącym wrogom.|Gdy drużynie brakuje obrażeń – Build 2.
+A2|W ARAM jako bruiser zadający obrażenia – Titanic i Bloodmail skalują się ze zdrowiem.|Przeciw silnemu antyleczeniu – Build 1 z większą ilością zdrowia.
+U1|W URF – tasaki (Q) co sekundę i ciągła regeneracja z R.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF jako bruiser – Titanic, Bloodmail i Heartsteel skalują obrażenia ze zdrowia.|Przeciw burstowi – Build 1.
+@draven
+N1|Na Dragonie – Hexoptics i Collector dobijają cele z dystansu, a łapanie toporów daje ogromne obrażenia i złoto z pasywki.|Gdy chcesz snowballować linię od pierwszych minut – Build 2 ze Stormrazorem.
+N2|Snowball z linii przeciw słabym na początku strzelcom – Lethal Tempo i Stormrazor, Bloodthirster daje sustain.|Przeciw zabójcom w późnej grze – Build 1 lub Shieldbow.
+A1|W ARAM – Yun Tal i Bloodthirster dają obrażenia i leczenie, Shieldbow chroni przed dive'm.|Przeciw leczącym składom – Build 2 z Mortal Reminder.
+A2|Przeciw leczeniu i miękkim celom – Mortal Reminder i Collector.|Przeciw dive'owi – Build 1 z Shieldbow.
+U1|W URF – ciągłe topory i krytyki, Hexoptics i Bloodthirster.|Przeciw zabójcom – dodaj Shieldbow.
+U2|Przeciw miękkim celom – szybkie egzekucje Collectorem i R.|Przeciw tankom – Build 1.
+@ekko
+N1|Na midzie przeciw magom i strzelcom – Rocketbelt daje doskok do combo, Lich Bane i Electrocute zabijają cel, a R cofa po nieudanej akcji.|W dżungli – Build 2.
+N2|W dżungli – Dark Harvest i Stormsurge dają burst przy gankach, Banshee's chroni przed kontrolą.|Na midzie przeciw magom – Build 1.
+A1|W ARAM – nurkowanie z Rocketbeltem na tylną linię, Zhonya's po R.|Przeciw składom z dużym burstem – Build 2.
+A2|W długich walkach ARAM – Riftmaker i Dusk and Dawn, Mercury's przeciw kontroli.|Przeciw miękkim celom – Build 1.
+U1|W URF – ciągłe doskoki, Infinity Orb dobija uciekających.|Przeciw tankom – Build 2.
+U2|W URF przy długich walkach – Conqueror i Riftmaker.|Przeciw burstowi – dodaj Zhonya's.

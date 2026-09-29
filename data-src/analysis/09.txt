@@ -1,0 +1,84 @@
+@syndra
+N1|Na midzie przeciw magom i zabójcom – combo Q-E ogłusza, R z pełnymi kulami zabija miękki cel; Electrocute, Luden's i Stormsurge, Zhonya's przeciw dive'owi.|Gdy linia jest pasywna i opłaca się poke – Build 2 z Comet i Horizon Focus.
+N2|Poke kulami – Comet, Horizon Focus i Malignance, bezpieczne zmiękczanie wrogów przed walką.|Przeciw zabójcom – Build 1 z Zhonya's.
+A1|W ARAM – kule z daleka, Horizon Focus i Comet.|Przeciw dive'owi – Build 2.
+A2|Przeciw dive'owi – Banshee's, Zhonya's i Mercury's, R na carry.|Gdy wrogowie trzymają dystans – Build 1.
+U1|W URF – kule i E co chwilę, Infinity Orb dobija.|Przeciw tankom – dodaj Liandry's.
+U2|W URF – Dark Harvest i Malignance, R co chwilę.|Przeciw burstowi – dodaj Zhonya's.
+@taliyah
+N1|Na midzie – Q z Comet i Luden's, R pozwala roamować po całej mapie, combo W+E przerzuca wrogów przez kamienie.|W dżungli – Build 2.
+N2|W dżungli – szybkie czyszczenie Q, Blackfire Torch i Liandry's, ganki przez R.|Na midzie – Build 1.
+A1|W ARAM jako poke – Q (kamienie) z Comet trafia grupę, a Liandry's i Luden's zadają obrażenia obszarowe.|Przeciw dive'owi – Build 2.
+A2|Kontrola terenu – W+E, Liandry's i Rylai's, Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – Q i W+E niemal bez przerwy, R (ściana) dzieli drużynę wroga, a Horizon Focus wzmacnia poke.|Przeciw zabójcom – Build 2.
+U2|W URF – ściany R co chwilę dzielą drużynę wroga.|Przeciw tankom – Build 1.
+@talon
+N1|Na midzie przeciw miękkim celom – E pozwala przeskakiwać ściany do roamingu, Electrocute i Lethality (Youmuu's, Duskblade) zabijają combo W-Q-R.|W dżungli – Build 2.
+N2|W dżungli – Dark Harvest i Collector, ganki przez ściany.|Na midzie – Build 1.
+A1|W ARAM przeciw miękkim celom – E przez ściany pozwala zajść strzelca z boku, Lethality i Electrocute zabijają go w sekundę.|Przeciw tankom – Build 2.
+A2|W ARAM jako wytrzymały zabójca – Eclipse i Death's Dance.|Przeciw miękkim celom – Build 1.
+U1|W URF – W i Q co chwilę, R (niewidzialność) do wejścia, Lethality zabija miękkie cele.|Przeciw tankom – Build 2.
+U2|W URF – Dark Harvest, Collector i Duskblade dobijają cele, a R pozwala wejść i wyjść z walki.|Przeciw burstowi – dodaj GA.
+@teemo
+N1|Na Baronie przeciw walczącym wręcz – oślepienie Q wyłącza ataki, Lethal Tempo i Nashor's, grzyby z Liandry's kontrolują mapę.|Przeciw składom z leczeniem – Build 2 z Morellonomicon.
+N2|AP grzybiarz – Dark Harvest, Liandry's i Rylai's, Morellonomicon przeciw leczeniu.|Gdy chcesz wygrywać wymiany atakami – Build 1.
+A1|W ARAM – grzyby R z Liandry's i Rylai's kontrolują wąski teren, a Q oślepia strzelców i wojowników.|Przeciw zabójcom i dive'owi – Build 2 z atakami i kitingiem albo wcześniejszy Zhonya's.
+A2|W ARAM przeciw walczącym wręcz – Guinsoo's i Nashor's wzmacniają ataki, Q oślepia, a Liandry's zadaje obrażenia w czasie.|Przeciw dive'owi – Build 1.
+U1|W URF – grzyby R stawiane co chwilę, Liandry's i Rylai's zamieniają teren w pole minowe.|Przeciw zabójcom – Build 2.
+U2|W URF – Lethal Tempo, Guinsoo's i Nashor's, Q oślepia co kilka sekund.|Przeciw dive'owi – Build 1.
+@thresh
+N1|Na supporcie jako inicjator – hak Q i latarnia W, Hextech Flashtraption, Zeke's i Virtue; dusze dają pancerz i AP.|Przeciw dive'owi – Build 2.
+N2|Latarnik – ochrona strzelca latarnią, Frozen Heart i Abyssal Mask.|Gdy chcesz inicjować – Build 1.
+A1|W ARAM – hak Q wciąga wrogów do drużyny, R (więzienie) spowalnia grupę, a Despair i Thornmail pozwalają stać na froncie.|Przeciw dive'owi – Build 2.
+A2|Strażnik – Virtue i Frozen Heart, latarnia ratuje sojuszników.|Gdy potrzebujesz inicjacji – Build 1.
+U1|W URF – hak i latarnia co chwilę, Ice Overlord spowalnia, a Gargoyle chroni po wejściu.|Gdy obrywasz – Build 2.
+U2|W URF przeciw fizycznym składom – Heartsteel i Thornmail, a Radiant Virtue leczy drużynę po R.|Gdy potrzebujesz kontroli – Build 1.
+@tristana
+N1|Na Dragonie w długich meczach – zasięg rośnie z poziomem, Lethal Tempo, Yun Tal i Runaan's; W resetuje się po zabójstwach.|Gdy chcesz grać agresywnie na linii – Build 2.
+N2|Rakietowy burst – E + W + R z Electrocute i Collector.|Przeciw tankom – Build 1.
+A1|W ARAM – Runaan's i krytyki trafiają kilka celów, a W resetuje się po zabójstwach.|Przeciw dive'owi – Build 2.
+A2|W ARAM przeciw leczącym składom – Mortal Reminder i Collector, a W resetuje się po zabójstwach.|Przeciw tankom – Build 1.
+U1|W URF – W resetuje się po każdym zabójstwie, a Runaan's i krytyki zabijają grupę.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF przeciw miękkim celom – E (bomba) z Electrocute i Collector zabija cel w sekundę.|Przeciw tankom – Build 1.
+@tryndamere
+N1|Na Baronie – R czyni nieśmiertelnym na 5 s, krytyki z furii, Yun Tal, IE i Navori skracają E.|Gdy chcesz split-pushować – Build 2.
+N2|Na Baronie, gdy drużyna gra na split-push – Hullbreaker i BoRK niszczą wieże, a R czyni Tryndamere'a nieśmiertelnym przy ucieczce.|Gdy drużyna potrzebuje cię w teamfightach – Build 1.
+A1|W ARAM – R czyni nieśmiertelnym na 5 s, krytyki z furii i Yun Tal, a Bloodthirster daje leczenie.|Przeciw kontroli – Build 2.
+A2|Przeciw kontroli – Mercurial Scimitar i Mercury's.|Gdy wrogowie mają mało kontroli – Build 1.
+U1|W URF – E (Spinning Slash) co chwilę, R czyni nieśmiertelnym w każdej walce, a krytyki z Yun Tal i IE zabijają cel.|Przeciw kontroli – Build 2.
+U2|W URF przeciw tankom – Trinity Force i BoRK, Conqueror leczy, a R ratuje przed śmiercią.|Przeciw miękkim celom – Build 1.
+@twisted-fate
+N1|Na midzie – złota karta ogłusza, R pozwala dołączać do walk na całej mapie; Electrocute, Lich Bane i Luden's.|Gdy chcesz grać atakami – Build 2.
+N2|On-hit TF – Guinsoo's, Nashor's i Lich Bane, E z Lethal Tempo.|Przeciw miękkim celom – Build 1.
+A1|W ARAM jako poke – karty Q z Comet trafiają grupę, a złota karta ogłusza cel.|Przeciw dive'owi – Build 2.
+A2|Szuler – Banshee's i Zhonya's, złota karta na carry.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – złota karta co kilka sekund, Lich Bane i Luden's dają burst, a R pozwala dołączać do walk z daleka.|Przeciw tankom – Build 2.
+U2|W URF – Guinsoo's i Nashor's, Lethal Tempo i E (kości) co 4. atak.|Przeciw burstowi – Build 1.
+@twitch
+N1|Na Dragonie – niewidzialność Q do flankowania, R daje zasięg i przebijające pociski; Fiendhunter Bolts, IE i Runaan's.|Przeciw tankom – Build 2 z on-hit.
+N2|On-hit trucizna – BoRK, Guinsoo's i Kraken przeciw tankom.|Przeciw miękkim celom – Build 1.
+A1|W ARAM – R (przebijające pociski) trafia całą grupę, Runaan's dodaje kolejne cele, a Q pozwala zajść z boku.|Przeciw tankom – Build 2.
+A2|W ARAM przeciw tankom i leczeniu – on-hit (BoRK, Guinsoo's, Kraken) i Mortal Reminder, E rozrywa truciznę.|Przeciw miękkim celom – Build 1.
+U1|W URF – Q (niewidzialność) i R co chwilę, krytyki z Fiendhunter Bolts i IE trafiają całą grupę.|Przeciw tankom – Build 2.
+U2|W URF przeciw tankom – on-hit szybko nakłada truciznę, E zabiera ogromną część zdrowia.|Przeciw miękkim celom – Build 1.
+@urgot
+N1|Na Baronie przeciw bruiserom – pasywka z nóg zadaje % zdrowia, W strzela bez końca na max poziomie; Eclipse, Black Cleaver, Sterak's.|Przeciw magom – Build 2 z Force of Nature.
+N2|Tankowy Urgot – Titanic, Bloodmail i Force of Nature.|Przeciw fizycznym – Build 1.
+A1|W ARAM – R egzekwuje i straszy, Goredrinker i Thornmail.|Przeciw magom – Build 2.
+A2|W ARAM jako tank-bruiser – Heartsteel, Bloodmail i Titanic zamieniają zdrowie w obrażenia, a R egzekwuje cele poniżej 25% zdrowia.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – W (ciągły ostrzał) i E co chwilę, Eclipse i Black Cleaver, a R egzekwuje i straszy.|Przeciw magom – dodaj Maw.
+U2|W URF przeciw miękkim celom – Serylda's spowalnia, R egzekwuje cele, a Sterak's i Death's Dance dają przeżywalność.|Przeciw tankom – Build 1.
+@varus
+N1|Na Dragonie jako poke – naładowane Q z Comet, Manamune i Lethality (Youmuu's, Serylda's).|Przeciw tankom – Build 2 z on-hit.
+N2|On-hit Varus – W (Blight) detonowany umiejętnościami, BoRK, Guinsoo's i Kraken.|Przeciw miękkim celom – Build 1.
+A1|W ARAM jako poke – naładowane Q z Comet i Lethality zabiera ogromną część zdrowia z bardzo daleka.|Przeciw dive'owi – Build 2.
+A2|W ARAM – R przeskakuje między wrogami, Runaan's i Shieldbow.|Przeciw poke'owi – Build 1.
+U1|W URF – Q i E co chwilę, Lethality i Comet zamieniają Varusa w artylerię.|Przeciw tankom – Build 2.
+U2|W URF przeciw tankom – W (Blight) detonowany przez Q i E zadaje % maks. zdrowia, a on-hit i Kraken zadają obrażenia.|Przeciw miękkim celom – Build 1.
+@vayne
+N1|Na Dragonie przeciw tankom – W zadaje % maks. zdrowia jako obrażenia nieuchronne, BoRK, Guinsoo's i Kraken.|Na Baronie lub przeciw miękkim celom – Build 2.
+N2|Krytyczna Vayne na Baronie – Fleet, Yun Tal, IE i Navori (Q częściej).|Przeciw tankom – Build 1.
+A1|W ARAM przeciw tankom – W zadaje % maks. zdrowia jako obrażenia nieuchronne, a R daje niewidzialność przy Q.|Przeciw kontroli – Build 2.
+A2|Przeciw kontroli – Mercurial Scimitar i Mercury's.|Gdy wrogowie mają mało kontroli – Build 1.
+U1|W URF – Q (przewrót) co chwilę, R wydłuża się z zabójstwami, a on-hit zabija nawet tanki.|Przeciw kontroli – Build 2.
+U2|W URF przeciw miękkim celom – krytyki z Yun Tal i IE, Navori skraca Q.|Przeciw tankom – Build 1.

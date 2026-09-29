@@ -144,7 +144,7 @@ img { display: block; max-width: 100%; }
 .section-title { font-size: 20px; margin: 30px 0 12px; display: flex; align-items: center; gap: 10px; }
 .section-title::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 
-.abilities { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+.abilities { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 380px), 1fr)); }
 .ability { display: grid; grid-template-columns: 48px 1fr; gap: 12px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
 .ability img { width: 48px; height: 48px; border-radius: 8px; border: 1px solid var(--line); background: #000; }
 .ability .slot { font-size: 11px; font-weight: 800; color: var(--gold); text-transform: uppercase; letter-spacing: .5px; }
@@ -295,3 +295,55 @@ img { display: block; max-width: 100%; }
   .nav a { padding: 6px 8px; font-size: 13px; }
   .patch-badge { display: none; }
 }
+
+/* ---------- dokładne wartości (umiejętności i przedmioty) ---------- */
+.sc { font-weight: 700; border-radius: 4px; padding: 0 3px; white-space: nowrap; }
+.sc-ad { color: #ffb45c; background: rgba(255, 150, 60, .12); }
+.sc-ap { color: #c69bff; background: rgba(170, 120, 255, .14); }
+.sc-hp { color: #7bd88f; background: rgba(95, 194, 126, .13); }
+.sc-res { color: #f0d27a; background: rgba(216, 179, 106, .13); }
+.dt { font-weight: 600; }
+.dt-phys { color: #ff9d57; }
+.dt-mag { color: #a9b8ff; }
+.dt-true { color: #ffffff; text-decoration: underline dotted rgba(255, 255, 255, .5); }
+b.lvl { color: var(--text); font-weight: 700; }
+.legend { color: var(--muted); font-size: 12.5px; margin: -4px 0 12px; line-height: 1.9; }
+.ab-meta { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+.ab-meta b { color: var(--teal); font-weight: 700; }
+.ability p.vals { color: #d4d9e6; font-size: 13.5px; line-height: 1.55; }
+.ability details.off { margin-top: 6px; font-size: 12.5px; }
+.ability details.off summary { cursor: pointer; color: var(--blue); }
+.ability details.off p { margin-top: 4px; font-size: 12.5px; }
+.tip .eff, .icard .eff { white-space: pre-line; font-size: 12.5px; line-height: 1.5; color: #d4d9e6; }
+.tip .eff { border-top: 1px solid var(--line); padding-top: 6px; margin: 6px 0 0; }
+.tip .eff b { color: var(--gold-2); }
+
+/* ---------- analiza buildu ---------- */
+.analysis { border-top: 1px solid var(--line); padding-top: 10px; }
+.analysis > summary {
+  cursor: pointer; list-style: none; font-weight: 700; font-size: 13.5px; color: var(--gold-2);
+  display: flex; align-items: center; gap: 8px; user-select: none;
+}
+.analysis > summary::-webkit-details-marker { display: none; }
+.analysis > summary::before {
+  content: '▸'; display: inline-block; width: 18px; height: 18px; line-height: 18px; text-align: center;
+  border-radius: 5px; background: var(--card-2); border: 1px solid var(--line); color: var(--gold); transition: transform .15s;
+}
+.analysis[open] > summary::before { transform: rotate(90deg); }
+.an-body { display: flex; flex-direction: column; gap: 12px; margin-top: 12px; font-size: 13.5px; }
+.an-body h5 { margin: 0 0 5px; font-size: 11.5px; letter-spacing: .6px; text-transform: uppercase; color: var(--muted); }
+.an-body p { margin: 0; }
+.an-grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); }
+.an-when, .an-avoid { background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.an-when { border-left: 3px solid var(--green); }
+.an-avoid { border-left: 3px solid var(--red); }
+.an-note { color: var(--muted); font-size: 12.5px; }
+.an-note b { color: var(--gold-2); }
+.stats-sum { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0; }
+.stat { background: var(--bg-2); border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; font-size: 12.5px; color: var(--muted); }
+.stat b { color: var(--green); }
+.an-list { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 5px; color: #cfd5e3; }
+.an-list small { color: var(--muted); }
+.an-list.good li::marker { color: var(--green); }
+.an-list.warn li::marker { color: var(--red); }
+.ilink { color: var(--gold-2); border-bottom: 1px dotted rgba(241, 213, 154, .5); cursor: help; }
