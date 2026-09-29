@@ -4,9 +4,9 @@ N|Tkaczka kamieni|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab vo
 N|Dżunglowa czarodziejka|Dżungla|elec|cheap tyrant eyeball|celerity|bmana|torch liandry rab void zhonya|Blackfire Torch i Liandry's – szybkie czyszczenie obozów i obrażenia w czasie.
 A|Kamienny grad|Poke|comet|manaflow transc scorch|secondwind|bmana|luden liandry rab void zhonya|W ARAM Q i miny E zadają ogromne obrażenia w wąskiej linii.
 A|Kontrola terenu|DPS|dh|cheap tyrant eyeball|bone|mercs|liandry rylai rab zhonya void|Rylai's i W – podrzucenie i spowolnienie grupy.
-U|Lawina kamieni|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Q i W co chwilę – ciągły ostrzał.
+U|Lawina kamieni|Poke|comet|cheap tyrant eyeball|celerity|bmana|luden liandry rab void zhonya|W URF Q i W co chwilę – ciągły ostrzał, a Cheap Shot i Liandry's dokładają obrażenia po spowolnieniach.
 U|Ściany bez końca|Burst|dh|cheap tyrant eyeball|gstorm|bmana|luden liandry rab void zhonya|Dark Harvest i superumiejętność co chwilę.
-S zhonya banshee void morello rylai liandry crypt horizon
+S zhonya banshee void morello rylai liandry crypt
 
 @ talon
 I Mid, Dżungla | Zabójca z ostrzami, który skacze przez ściany (E) i znika w superumiejętności. Świetny w roamingu.
@@ -113,10 +113,10 @@ I Mid | Mały mistrz zła – każde trafienie umiejętnością zwiększa jego A
 N|Nieskończone AP|Mid|elec|cheap tyrant eyeball|transc|bmana|luden rab void zhonya orb|Luden's i Rabadon's – AP z pasywki mnoży się; Infinity Orb do dobijania.
 N|Skalujący mag|Mid|comet|manaflow transc scorch|bone|bmana|roa rab void zhonya malig|Rod of Ages i Malignance – bezpieczne skalowanie.
 A|Klatka zła|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden rab void zhonya orb|W ARAM klatka łapie kilku wrogów.
-A|Mroczne skalowanie|Poke|comet|manaflow transc scorch|bone|mercs|luden rab zhonya banshee horizon|Poke Q i ochrona.
+A|Mroczne skalowanie|Poke|comet|manaflow transc scorch|bone|mercs|luden rab zhonya banshee void|Poke Q i ochrona – Banshee's i Zhonya's przeciw nurkującym, Void Staff przeciw odporności na magię.
 U|Nieskończona moc|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden rab void orb zhonya|W URF pasywka rośnie błyskawicznie.
 U|Zło bez końca|Burst|dh|cheap tyrant eyeball|focus|bmana|luden surge rab void orb|Dark Harvest i superumiejętność.
-S zhonya banshee void morello horizon orb crypt rab
+S zhonya banshee void morello orb crypt rab
 
 @ velkoz
 I Mid, Support | Oko Pustki – artyleryjski mag z odbijającym się Q, szczeliną W, podrzuceniem E i promieniem superumiejętności zadającym obrażenia nieuchronne.
@@ -131,12 +131,12 @@ S zhonya banshee void horizon morello rylai crypt liandry
 @ vex
 I Mid | Mroczna magini – przestrasza wrogów pasywką, gdy doskakują, a superumiejętnością leci do trafionego celu i resetuje się przy zabójstwie.
 N|Mroczny burst|Mid|elec|cheap tyrant eyeball|transc|bmana|luden surge rab void zhonya|Luden's i Stormsurge – superumiejętność i combo zabijają cel.
-N|Anty-nurek|Mid|comet|manaflow transc scorch|bone|bmana|malig luden horizon rab void|Malignance – częsta superumiejętność przeciw mobilnym championom.
+N|Anty-nurek|Mid|comet|manaflow transc scorch|bone|bmana|malig luden zhonya rab void|Malignance – częsta superumiejętność przeciw mobilnym championom, Zhonya's ratuje przed ich wejściem.
 A|Cień w tłumie|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden malig rab zhonya void|W ARAM W przestrasza wszystkich wokół.
-A|Mroczny poke|Poke|comet|manaflow transc scorch|bone|mercs|luden horizon rab zhonya banshee|Poke i ochrona.
+A|Mroczny poke|Poke|comet|manaflow transc scorch|bone|mercs|luden liandry rab zhonya banshee|Poke i ochrona – Liandry's na każdym trafieniu, Banshee's i Zhonya's przeciw inicjacji.
 U|Nieskończony mrok|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden surge orb rab void|W URF superumiejętność co chwilę.
 U|Cień zagłady|Burst|dh|cheap tyrant eyeball|focus|bmana|luden malig orb rab void|Dark Harvest i Infinity Orb.
-S zhonya banshee void morello horizon orb crypt rab
+S zhonya banshee void morello orb crypt rab
 
 @ vi
 I Dżungla | Egzekutorka z pięściami – szarżuje Q, rozbija pancerz W i łapie cel nieuchronną superumiejętnością.
@@ -150,11 +150,11 @@ S ga maw sterak dd bc chem sery eon qss
 
 @ viego
 I Dżungla | Zniszczony król – po zabiciu wroga przejmuje jego ciało i umiejętności. Q zadaje % obecnego zdrowia.
-N|Opętanie|Dżungla|conq|triumph laststand bloodline|celerity|glut|bork er sky dd ga|BoRK i Essence Reaver – ataki po umiejętnościach i leczenie.
+N|Opętanie|Dżungla|conq|triumph laststand bloodline|celerity|glut|bork kraken sky dd ga|BoRK i Kraken Slayer – ataki po umiejętnościach zadają % zdrowia, Sundered Sky leczy (Viego nie ma many, więc Essence Reaver byłby zmarnowany).
 N|Krytyczny król|Dżungla|lt|triumph coup alacrity|unshake|bers|yuntal ie navori bt ga|Navori skraca odnowienia Q i W przy każdym ataku.
-A|Król w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|bork er sky sterak dd|W ARAM przejmuje ciała i leczy się w ciągłej walce.
-A|Zniszczony wojownik|Bruiser|conq|triumph laststand bloodline|bone|mercs|bork er sky maw ga|Maw przeciw magom.
-U|Nieskończone opętania|Bruiser|conq|triumph coup bloodline|focus|glut|bork er sky dd ga|W URF Q i superumiejętność co chwilę.
+A|Król w tłumie|Bruiser|conq|triumph laststand bloodline|secondwind|glut|bork kraken sky sterak dd|W ARAM przejmuje ciała i leczy się w ciągłej walce – BoRK, Kraken i Sundered Sky.
+A|Zniszczony wojownik|Bruiser|conq|triumph laststand bloodline|bone|mercs|bork kraken sky maw ga|Maw przeciw magom, BoRK i Kraken zadają obrażenia.
+U|Nieskończone opętania|Bruiser|conq|triumph coup bloodline|focus|glut|bork kraken sky sterak ga|W URF Q i superumiejętność co chwilę – BoRK, Kraken i Sterak's.
 U|Krytyczny URF|DPS|lt|triumph coup alacrity|focus|bers|yuntal ie navori bt ga|Krytyki i Navori.
 S ga maw sterak dd chem bc bt kraken
 
@@ -170,7 +170,7 @@ S zhonya banshee void morello rylai horizon crypt liandry
 
 @ vladimir
 I Mid, Baron | Krwawy żniwiarz – nie używa many, lecz zdrowia. Kałuża krwi (W) daje nietykalność, a superumiejętność zwiększa obrażenia na wrogach.
-N|Krwawy mag|Mid|conq|triumph laststand bloodline|bone|bmana|belt rift rab crypt orb|Rocketbelt i Riftmaker – wejście, kałuża krwi i ogromne leczenie z Q.
+N|Krwawy mag|Mid|conq|triumph laststand bloodline|bone|bmana|belt rift rab zhonya void|Rocketbelt i Riftmaker – wejście, kałuża krwi i ogromne leczenie z Q; Zhonya's i Void Staff na późną grę.
 N|Burst krwi|Mid|elec|cheap tyrant eyeball|transc|bmana|belt surge rab void orb|Stormsurge i Infinity Orb – burst po superumiejętności.
 A|Krwawy wir|DPS|conq|triumph laststand bloodline|secondwind|bmana|rift liandry rab zhonya void|W ARAM E trafia całą grupę i leczy.
 A|Tankowy wampir|Bruiser|conq|unshake secondwind overgrowth|triumph|mercs|rift liandry rab zhonya banshee|Wytrzymała wersja.
@@ -302,11 +302,11 @@ S zhonya banshee void horizon morello rylai crypt orb
 I Support, Mid | Strażnik czasu – bomby Q ogłuszają, E przyspiesza/spowalnia, a superumiejętność wskrzesza sojusznika po śmierci.
 N|Strażnik czasu|Support|aery|manaflow transc scorch|revital|ionian|shurelya harmonic helia redemp mikael|Shurelya's i E – przyspieszenie drużyny; superumiejętność ratuje carry.
 N|Bombowy mag|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Luden's i Malignance – poke bombami.
-A|Czasowe bomby|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig horizon rab void|W ARAM bomby ogłuszają grupy.
+A|Czasowe bomby|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig rylai rab void|W ARAM bomby ogłuszają grupy, a Rylai's spowalnia trafionych.
 A|Opiekun czasu|Wsparcie|aery|manaflow transc scorch|revital|ionian|shurelya harmonic redemp mikael helia|Ochrona i przyspieszenie.
-U|Nieskończone bomby|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Q co chwilę – ogłuszenia bez końca.
-U|Wieczne wskrzeszenie|Wsparcie|aery|axiom celerity scorch|revital|ionian|shurelya harmonic sfw redemp mikael|Superumiejętność co chwilę.
-S zhonya banshee mikael redemp shurelya horizon morello void
+U|Nieskończone bomby|Poke|comet|cheap tyrant eyeball|celerity|bmana|luden rylai rab void zhonya|W URF Q co chwilę – ogłuszenia bez końca, Rylai's spowalnia, a Cheap Shot dokłada obrażenia.
+U|Wieczne wskrzeszenie|Wsparcie|aery|font bone revital|celerity|ionian|shurelya harmonic sfw redemp mikael|Superumiejętność co chwilę – Font of Life i Revitalize wzmacniają ochronę sojuszników.
+S zhonya banshee mikael redemp shurelya morello void
 
 @ zoe
 I Mid | Aspekt Zmierzchu – Q zadaje tym więcej obrażeń, im dalej leci; E usypia cele. Zbiera czary przywoływacza (W).
@@ -314,7 +314,7 @@ N|Senny pocisk|Mid|elec|cheap tyrant eyeball|transc|bmana|luden surge rab void z
 N|Poke Zmierzchu|Mid|comet|manaflow transc scorch|bone|bmana|luden horizon malig rab void|Horizon Focus i Arcane Comet – ogromny poke.
 A|Gwiezdny poke|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|W ARAM Q z maksymalnego dystansu.
 A|Usypiająca|Burst|elec|cheap tyrant eyeball|bone|mercs|luden surge rab zhonya banshee|Bezpieczna wersja.
-U|Nieskończone Q|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF Q co chwilę.
+U|Nieskończone Q|Poke|comet|cheap tyrant eyeball|celerity|bmana|luden horizon rab void zhonya|W URF Q co chwilę – Cheap Shot i Tyrant po uśpieniu i spowolnieniu E dokładają obrażenia.
 U|Sen|Burst|dh|cheap tyrant eyeball|gstorm|bmana|luden surge orb rab void|Dark Harvest i Infinity Orb.
 S zhonya banshee void horizon morello orb crypt rab
 

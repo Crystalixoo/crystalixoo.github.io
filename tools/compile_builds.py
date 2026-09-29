@@ -46,6 +46,28 @@ MODE_BANNED_ITEMS = {
 }
 MODES = {'N': 'normal', 'A': 'aram', 'U': 'urf'}
 
+# Realne wykorzystanie w grze:
+# Horizon Focus działa tylko przy trafieniu z >600 jednostek – tylko dla postaci, które realnie grają z takiego dystansu.
+HORIZON_OK = {'hwei', 'lux', 'ziggs', 'velkoz', 'zoe', 'kogmaw', 'mel', 'nidalee', 'viktor', 'yuumi', 'morgana'}
+# Axiom Arcanist wzmacnia obrażenia/leczenie/tarcze superumiejętności – bez sensu, gdy R ich nie daje.
+AXIOM_BAD = {'bard', 'lulu', 'zilean', 'zoe', 'jayce', 'taliyah', 'kalista', 'tryndamere', 'twisted-fate', 'shen', 'kindred', 'poppy'}
+# Postacie bez many – przedmioty zależne od many są zmarnowane.
+NO_MANA = {'aatrox', 'garen', 'gnar', 'katarina', 'mordekaiser', 'renekton', 'rengar', 'riven', 'rumble', 'sett',
+           'tryndamere', 'viego', 'vladimir', 'yasuo', 'yone', 'akali', 'kennen', 'lee-sin', 'zed', 'shen'}
+MANA_ITEMS = {'er', 'manamune', 'aa', 'roa', 'winter', 'circlet'}
+# Hexoptics C44 nagradza ataki z maks. dystansu – tylko dla postaci z długim zasięgiem ataku.
+HEXOP_BAD = {'graves', 'samira', 'nilah', 'kindred', 'lucian'}
+
+def check_realism(slug, where, items, runes):
+    if 'horizon' in items and slug not in HORIZON_OK:
+        err(slug, f'{where}: Horizon Focus wymaga trafień z >600 jednostek – ten champion nie gra z takiego dystansu')
+    if 'axiom' in runes and slug in AXIOM_BAD:
+        err(slug, f'{where}: Axiom Arcanist nic nie daje – superumiejętność nie zadaje obrażeń ani nie leczy')
+    if slug in NO_MANA and MANA_ITEMS & set(items):
+        err(slug, f'{where}: przedmioty oparte na manie ({MANA_ITEMS & set(items)}) dla championa bez many')
+    if 'hexop' in items and slug in HEXOP_BAD:
+        err(slug, f'{where}: Hexoptics C44 wymaga ataków z dystansu ~550 – za krótki zasięg ataku')
+
 errors = []
 
 def err(slug, msg):
@@ -102,6 +124,7 @@ def parse_build(slug, kind, line):
     if len(items) != 5 or len(set(items)) != 5:
         err(slug, f'{where}: wymagane 5 różnych przedmiotów, jest {items}')
     check_items(slug, items, where)
+    check_realism(slug, where, items, set(prim) | {sec})
     bi = MODE_BANNED_ITEMS.get(kind, set()) & set(items)
     if bi:
         err(slug, f'{where}: przedmioty bez sensu w tym trybie: {bi}')

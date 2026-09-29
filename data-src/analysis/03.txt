@@ -45,7 +45,7 @@ N1|Na midzie jako poke – działo (Q przez E) z Comet i Manamune, Lethality (Yo
 N2|Na Baronie – forma młota w zwarciu, Eclipse i Black Cleaver, Death's Dance przeżywalność.|Na midzie przeciw magom – Build 1.
 A1|W ARAM idealny do poke'u – Comet i działo z maksymalnego zasięgu.|Przeciw dive'owi – Build 2 z Death's Dance.
 A2|Gdy walki są blisko – młot, Conqueror i Death's Dance.|Przeciw pasywnym składom – Build 1.
-U1|W URF jako poke – działo (Q przez bramę E) co sekundę z Comet i Axiom Arcanist, a Lethality (Youmuu's, Serylda's) sprawia, że każde trafienie zabiera dużą część zdrowia.|Przeciw dive'owi – Build 2.
+U1|W URF jako poke – działo (Q przez bramę E) co sekundę z Comet, a Lethality (Youmuu's, Serylda's) sprawia, że każde trafienie zabiera dużą część zdrowia; odrzucenie E młotem aktywuje Cheap Shot.|Przeciw dive'owi – Build 2.
 U2|Przeciw miękkim celom – burst młota i Electrocute.|Przeciw tankom – Build 1.
 @jhin
 N1|Na Dragonie – czwarta kula krytuje, Hexoptics i Collector nagradzają strzelanie z daleka i dobijanie.|Gdy chcesz grać agresywnie na linii i roamować – Build 2.
@@ -77,8 +77,8 @@ U1|W URF przeciw tankom – on-hit (BoRK, Guinsoo's, Kraken) szybko nakłada wł
 U2|W URF przeciw miękkim celom – krytyczne włócznie z Yun Tal i IE, Runaan's nakłada ładunki na grupę, a E dobija wszystkich naraz.|Przeciw tankom – Build 1.
 @karma
 N1|Na supporcie – tarcze E i Mantra, Staff of Flowing Water i Harmonic Echo, Shurelya's daje prędkość drużynie.|Na midzie – Build 2.
-N2|Na midzie jako poke – Mantra + Q z Comet i Luden's, Horizon Focus.|Jako wsparcie – Build 1.
+N2|Na midzie jako poke – Mantra + Q z Comet i Luden's zmiękcza wrogów z bezpiecznej odległości (zasięg Q ~950), a Zhonya's chroni przed zabójcami.|Jako wsparcie – Build 1.
 A1|W ARAM – tarcze E i Shurelya's dla drużyny, Locket przeciw burstowi.|Gdy drużynie brakuje obrażeń – Build 2.
-A2|W ARAM jako poke – Mantra + Q (Soulflare) z Comet i Luden's zadaje ogromne obrażenia z dystansu, Horizon Focus wzmacnia trafienia z ponad 600 jednostek.|Przeciw dive'owi – Build 1.
-U1|W URF – Mantra odnawia się niemal ciągle, więc prawie każde Q jest wzmocnione; Comet, Luden's i Horizon Focus zamieniają Karmę w artylerię.|Przeciw zabójcom – Build 2.
+A2|W ARAM jako poke – Mantra + Q (Soulflare) z Comet i Luden's trafia grupę, a Liandry's podpala każdego trafionego w długiej walce.|Przeciw dive'owi – Build 1.
+U1|W URF – Mantra odnawia się niemal ciągle, więc prawie każde Q jest wzmocnione; Comet, Luden's i Liandry's zadają obrażenia w całej grupie.|Przeciw zabójcom – Build 2.
 U2|W URF jako wsparcie – tarcze E niemal ciągle.|Gdy potrzebujesz obrażeń – Build 1.

@@ -35,7 +35,7 @@ N|Taniec uroku|Support|ice|colossus bone overgrowth|hexflash|mercs|locket zeke v
 A|Tancerz ARAM|Wsparcie|guard|unshake bone revital|celerity|ionian|shurelya locket harmonic redemp zeke|W ARAM Rakan inicjuje i ratuje sojuszników E.
 A|Czarujący tank|Tank|ice|colossus secondwind overgrowth|celerity|mercs|locket zeke virtue despair twin|Wytrzymała wersja z ciągłymi podrzuceniami.
 U|Nieskończony taniec|Wsparcie|guard|unshake bone revital|celerity|ionian|shurelya locket harmonic redemp zeke|W URF W i E co chwilę – Rakan jest wszędzie.
-U|Pierzasty burst|Burst|elec|cheap tyrant eyeball|gstorm|bmana|helia mandate rab void horizon|Wariant AP – każde wejście zadaje obrażenia.
+U|Pierzasty burst|Burst|elec|cheap tyrant eyeball|gstorm|bmana|helia mandate rab void surge|Wariant AP – każde wejście W + R zadaje obrażenia, a Stormsurge dobija cel.
 S mikael redemp locket shurelya zeke abyssal fh kaenic
 
 @ rammus
@@ -133,10 +133,10 @@ I Support, Mid, Dragon | Gwiazda sceny – co trzecia umiejętność jest podwó
 N|Koncert wsparcia|Support|aery|manaflow transc scorch|revital|ionian|circlet harmonic sfw redemp mikael|Whispering Circlet i Harmonic Echo – podwójne W leczy całą drużynę.
 N|Magiczna diva|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Luden's i Malignance – poke Q i częsta superumiejętność.
 A|Wielki koncert|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic circlet sfw redemp mikael|W ARAM leczenie i tarcze dla całej drużyny.
-A|Poke z nutą|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|Q i superumiejętność z dystansu.
+A|Poke z nutą|Poke|comet|manaflow transc scorch|secondwind|bmana|luden liandry malig rab void|Q i superumiejętność trafiają grupę, a Liandry's zadaje obrażenia w czasie w długich walkach ARAM.
 U|Niekończąca się piosenka|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF W co chwilę – drużyna jest ciągle leczona.
-U|Rockowa diva|Burst|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|Pełny burst AP.
-S zhonya banshee void horizon mikael redemp morello mandate
+U|Rockowa diva|Burst|comet|axiom celerity scorch|bone|bmana|luden liandry rab void zhonya|Pełny burst AP z Liandry's na każdym Q i E.
+S zhonya banshee void mikael redemp morello mandate
 
 @ sett
 I Baron, Support | Szef bijący pięściami – zbiera Wytrwałość z otrzymanych obrażeń i wypuszcza ją W jako potężny cios. Superumiejętność przerzuca wroga.
@@ -251,9 +251,9 @@ S zhonya banshee void morello rylai despair garg fon
 @ syndra
 I Mid | Magini ciemnych kul – rzuca kule (Q), odrzuca je E, ogłuszając wrogów, a superumiejętność wystrzeliwuje wszystkie kule w jeden cel.
 N|Królowa kul|Mid|elec|cheap tyrant eyeball|transc|bmana|luden surge rab void zhonya|Luden's i Stormsurge – superumiejętność zabija cel.
-N|Poke kulami|Mid|comet|manaflow transc scorch|bone|bmana|luden malig horizon rab void|Arcane Comet i Horizon Focus – poke Q z dystansu.
-A|Kule w tłumie|Poke|comet|manaflow transc scorch|secondwind|bmana|luden horizon malig rab void|W ARAM Q i E trafiają grupy wrogów.
+N|Poke kulami|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Arcane Comet i Malignance – poke Q z bezpiecznej odległości i częsta superumiejętność; Zhonya's przeciw zabójcom.
+A|Kule w tłumie|Poke|comet|manaflow transc scorch|secondwind|bmana|luden liandry malig rab void|W ARAM Q i E trafiają grupy wrogów, a Liandry's zadaje obrażenia w czasie przeciw tankom frontu.
 A|Burst na carry|Burst|elec|cheap tyrant eyeball|bone|mercs|luden surge rab zhonya banshee|Szybkie zabicie jednego celu i ochrona.
 U|Nieskończone kule|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden surge orb rab void|W URF Q bez przerwy – superumiejętność z maksymalną liczbą kul.
 U|Ciemność|Burst|dh|cheap tyrant eyeball|focus|bmana|luden malig orb rab void|Dark Harvest i Infinity Orb.
-S zhonya banshee void morello horizon orb crypt rab
+S zhonya banshee void morello orb crypt rab

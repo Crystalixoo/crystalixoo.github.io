@@ -42,7 +42,7 @@ U1|W URF – prowokacja co kilka sekund, Rylai's spowalnia uciekających.|Przeci
 U2|W URF jako tank AP – Riftmaker i Gargoyle Stoneplate, Ice Overlord spowalnia.|Gdy potrzebujesz burstu – Build 1.
 @garen
 N1|Na Baronie przeciw bruiserom walczącym wręcz – Stridebreaker dogania cel, Sundered Sky leczy w wymianie, Sterak's i Death's Dance dają przeżywalność.|Gdy wrogowie są miękcy i chcesz krytyczne obrażenia z E – Build 2.
-N2|Krytyczny Garen przeciw miękkim celom – E krytuje przy każdym obrocie (Yun Tal, Infinity Edge), Navori skraca odnowienia Q i E.|Przeciw tankom i drużynie z antyleczeniem – Build 1.
+N2|Krytyczny Garen przeciw miękkim celom – E krytuje przy każdym obrocie (Yun Tal, Infinity Edge), Conqueror ładuje się w obrocie, a Navori skraca odnowienia Q i E.|Przeciw tankom i drużynie z antyleczeniem – Build 1.
 A1|W ARAM – Stridebreaker dogania kitujących, Thornmail tnie leczenie wrogów walczących wręcz.|Przeciw poke'owi i magom – Build 2 z Force of Nature.
 A2|Przeciw poke'owi i magicznym obrażeniom – Force of Nature, Bloodmail i Mercury's.|Gdy drużyna potrzebuje obrażeń – Build 1.
 U1|W URF – E niemal ciągle, Conqueror ładuje się błyskawicznie.|Przeciw magicznemu burstowi – dodaj Maw of Malmortius.
@@ -62,7 +62,7 @@ A2|Przeciw miękkim celom – Luden's i Rocketbelt dają burst po E.|Przeciw bur
 U1|W URF przeciw miękkim celom – beczka Q i E (szarża) odnawiają się błyskawicznie, Rocketbelt daje dodatkowe wejście, a R odrzuca carry w stronę twojej drużyny.|Przeciw burstowi – Build 2.
 U2|W URF jako tank AP – W zmniejsza otrzymywane obrażenia, Riftmaker i Liandry's zadają obrażenia w długich walkach, a Force of Nature i Despair pozwalają przetrwać na froncie.|Przeciw miękkim celom – Build 1.
 @graves
-N1|W dżungli przeciw miękkim celom – krytyczny strzał ze strzelby (IE) i Collector dobijają cele; Hexoptics wzmacnia strzały z dystansu.|Przeciw tankom i bruiserom – Build 2 z Death's Dance lepiej przeżywa w zwarciu.
+N1|W dżungli przeciw miękkim celom – krytyczny strzał ze strzelby (IE) i Collector dobijają cele, a Bloodthirster leczy przy czyszczeniu obozów i w walce z bliska.|Przeciw tankom i bruiserom – Build 2 z Death's Dance lepiej przeżywa w zwarciu.
 N2|Lethality Graves – szybkie ganki i burst Q+E+R, Youmuu's daje prędkość do roamingu, Edge of Night blokuje kontrolę.|Przeciw tankom i w długiej grze – Build 1.
 A1|W ARAM – Yun Tal i Bloodthirster dają obrażenia i leczenie w ciągłej walce.|Przeciw nurkującym wrogom – Build 2.
 A2|W ARAM jako strzelec frontowy – Eclipse, Sundered Sky i Death's Dance pozwalają walczyć blisko.|Przeciw miękkim, dystansowym celom – Build 1.
@@ -77,7 +77,7 @@ U1|W URF przeciw tankom – Q (nożyce) zadaje % maks. zdrowia i prawdziwe obra�
 U2|W URF – Lethal Tempo i Guinsoo's na szybkie ataki.|Przeciw tankom – Build 1.
 @hecarim
 N1|W dżungli – szarża E + R wbija się w tylną linię, Trinity Force i Eclipse dają burst, Sterak's przeżywalność.|Przeciw tankom lub gdy drużyna potrzebuje frontu – Build 2.
-N2|Tankowaty rycerz – Dead Man's Plate zwiększa prędkość szarży, Black Cleaver przeciw pancerzowi, Steelcaps przeciw autoatakom.|Przeciw miękkim celom – Build 1.
+N2|Tankowaty rycerz – Phase Rush i Dead Man's Plate dają ogromną prędkość do szarży E, Black Cleaver przeciw pancerzowi, Steelcaps przeciw autoatakom.|Przeciw miękkim celom – Build 1.
 A1|W ARAM – Goredrinker leczy w tłumie, Thornmail przeciw leczeniu.|Przeciw burstowi – Build 2.
 A2|W ARAM jako tank-szarżownik – Dead Man's Plate i Sunfire.|Gdy potrzebujesz obrażeń – Build 1.
 U1|W URF – Q (Rampage) resetuje się co chwilę i leczy przez Conqueror, a E + R pozwalają wjechać w tylną linię; Sterak's i Death's Dance dają przeżywalność po wejściu.|Przeciw magom – dodaj Maw.

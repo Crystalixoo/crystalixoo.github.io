@@ -45,7 +45,7 @@ N|Zasięg dla strzelca|Support|guard|colossus bone revital|celerity|ionian|cense
 A|Ogień leczący|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic circlet sfw redemp mikael|W ARAM leczenie i oczyszczanie non stop.
 A|Ochronny ogień|Wsparcie|guard|unshake bone revital|celerity|mercs|harmonic censer locket redemp shurelya|Guardian i Locket – ochrona przed burstem.
 U|Wieczne ognisko|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF superumiejętność co chwilę – drużyna jest odporna na kontrolę tłumu.
-U|Płomienny poke|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void horizon|Q zadaje zaskakujące obrażenia z AP.
+U|Płomienny poke|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void luden|Q zadaje zaskakujące obrażenia z AP, Luden's dokłada burst w kilka celów.
 S mikael redemp locket shurelya censer harmonic helia sfw
 
 @ miss-fortune
@@ -85,12 +85,12 @@ N|Wzmocnione ataki|Support|elec|cheap tyrant eyeball|celerity|ionian|censer heli
 A|Morze leczenia|Wsparcie|aery|manaflow transc scorch|revital|ionian|harmonic circlet sfw redemp mikael|W ARAM W leczy i zadaje obrażenia bez przerwy.
 A|Przypływ|Wsparcie|guard|unshake bone revital|celerity|mercs|harmonic censer shurelya redemp locket|Ochrona i przyspieszenie drużyny.
 U|Tsunami|Wsparcie|aery|axiom celerity scorch|revital|ionian|sfw harmonic censer redemp mikael|W URF bańki i fale co chwilę.
-U|AP syrena|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void horizon|Wariant obrażeń z AP.
+U|AP syrena|Burst|comet|axiom celerity scorch|bone|bmana|helia mandate rab void luden|Wariant obrażeń z AP – bańka Q i fala R z Luden's i Rabadonem.
 S mikael redemp locket shurelya censer harmonic helia mandate
 
 @ nasus
 I Baron | Skalujący wojownik – każde zabójstwo Q zwiększa jego obrażenia na zawsze. Wysusza wrogów W i rośnie superumiejętnością.
-N|Nieskończone stacki|Baron|fleet|triumph laststand haste|unshake|steel|tri sky fh dd twin|Trinity Force i Sundered Sky wzmacniają Q; Frozen Heart spowalnia ataki wrogów.
+N|Nieskończone stacki|Baron|conq|triumph laststand haste|unshake|steel|tri sky fh dd twin|Conqueror w długich wymianach, Trinity Force i Sundered Sky wzmacniają Q; Frozen Heart spowalnia ataki wrogów.
 N|Tankowaty Nasus|Baron|grasp|demolish secondwind overgrowth|haste|mercs|iceborn sunfire twin despair fon|Iceborn Gauntlet i tankowe przedmioty – Nasus trzyma front.
 A|Wysuszenie|Tank|grasp|colossus secondwind overgrowth|haste|steel|iceborn fh twin despair thorn|W ARAM W spowalnia carry, a Nasus przeżywa każdy teamfight.
 A|Bijący Nasus|Bruiser|conq|triumph laststand bloodline|unshake|mercs|tri sky sterak dd fon|Conqueror i Sundered Sky – leczenie z Q.
@@ -141,12 +141,12 @@ S ga maw sterak dd eon chem sery bc qss
 @ norra
 I Mid | Magini portali (champion unikalny dla Wild Rift) – W wysyła wrogów do alternatywnej rzeczywistości, E spowalnia nićmi, a superumiejętność ostrzeliwuje obszar czterema salwami.
 N|Mistrzyni portali|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Arcane Comet i Malignance – częsta superumiejętność i poke talizmanami.
-N|Kontrola rzeczywistości|Mid|elec|cheap tyrant eyeball|transc|bmana|luden rylai horizon rab void|Rylai's i E – wrogowie są spowolnieni, a Horizon Focus wzmacnia trafienia z dystansu.
-A|Portalowy poke|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig horizon rab void|W ARAM portale i salwy superumiejętności trafiają całą grupę.
+N|Kontrola rzeczywistości|Mid|elec|cheap tyrant eyeball|transc|bmana|luden rylai zhonya rab void|Rylai's i E – wrogowie są spowolnieni, a Zhonya's pozwala przetrwać wejście wrogiego zabójcy.
+A|Portalowy poke|Poke|comet|manaflow transc scorch|secondwind|bmana|luden malig liandry rab void|W ARAM portale i salwy superumiejętności trafiają całą grupę, a Liandry's zadaje obrażenia w czasie.
 A|Bezpieczne portale|DPS|dh|cheap tyrant eyeball|bone|mercs|liandry rylai rab zhonya void|Liandry's i Rylai's – obrażenia w czasie i spowolnienia.
-U|Portale bez końca|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void zhonya|W URF superumiejętność co kilka sekund.
+U|Portale bez końca|Poke|comet|axiom celerity scorch|bone|bmana|luden liandry rab void zhonya|W URF superumiejętność co kilka sekund – Liandry's podpala każdego trafionego.
 U|Talizmany URF|Burst|dh|cheap tyrant eyeball|gstorm|bmana|malig luden orb rab void|Dark Harvest i Infinity Orb – dobijanie salwami.
-S zhonya banshee void horizon morello rylai crypt orb
+S zhonya banshee void morello rylai crypt orb
 
 @ nunu-and-willump
 I Dżungla | Chłopiec i yeti – toczą ogromną śnieżkę (W), pożerają potwory i stwory (Q), rzucają śnieżkami (E) i zamrażają obszar superumiejętnością.
@@ -173,10 +173,10 @@ I Mid | Magini z kulą – przesuwa kulę Q, spowalnia/przyspiesza W, tarczuje E
 N|Mechaniczna baletnica|Mid|comet|manaflow transc scorch|bone|bmana|luden malig rab void zhonya|Luden's i Malignance – poke kulą i częsta superumiejętność.
 N|Kontrola teamfightów|Mid|elec|cheap tyrant eyeball|transc|ionian|malig rylai rab zhonya void|Rylai's i superumiejętność – przyciągnięcie i spowolnienie całej drużyny.
 A|Shockwave|Burst|elec|cheap tyrant eyeball|secondwind|bmana|luden malig rab zhonya void|W ARAM superumiejętność trafia całą grupę.
-A|Kula poke|Poke|comet|manaflow transc scorch|bone|mercs|luden horizon rylai rab zhonya|Horizon Focus i Q z dystansu.
+A|Kula poke|Poke|comet|manaflow transc scorch|bone|mercs|luden liandry rylai rab zhonya|Poke kulą w ARAM – Liandry's i Rylai's podpalają i spowalniają trafionych, a Mercury's i Zhonya's chronią przed dive'm.
 U|Nieskończony shockwave|Burst|elec|cheap tyrant eyeball|gstorm|bmana|luden malig rab void zhonya|W URF superumiejętność co chwilę.
-U|Kula non stop|Poke|comet|axiom celerity scorch|bone|bmana|luden horizon rab void orb|Q bez przerwy i Infinity Orb do dobijania.
-S zhonya banshee void morello rylai crypt horizon orb
+U|Kula non stop|Poke|comet|axiom celerity scorch|bone|bmana|luden surge rab void orb|Q bez przerwy, Stormsurge i Infinity Orb do dobijania.
+S zhonya banshee void morello rylai crypt orb
 
 @ ornn
 I Baron | Kowal-tank, który ulepsza przedmioty sojuszników i ogłusza wrogów, odrzucając ich w ściany. Superumiejętność przywołuje barana.

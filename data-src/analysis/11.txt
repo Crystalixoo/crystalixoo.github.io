@@ -50,16 +50,16 @@ U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, R co chwilę.|P
 @zilean
 N1|Na supporcie – R wskrzesza sojusznika, E przyspiesza lub spowalnia, podwójna bomba Q ogłusza; Shurelya's, Harmonic Echo i Helia.|Na midzie – Build 2.
 N2|Bombowy mag na midzie – Comet, Luden's i Malignance.|Jako wsparcie – Build 1.
-A1|W ARAM jako poke – bomby Q z Comet i Horizon Focus ogłuszają przy podwójnym trafieniu.|Przeciw dive'owi – Build 2.
+A1|W ARAM jako poke – bomby Q z Comet ogłuszają przy podwójnym trafieniu, a Rylai's spowalnia trafionych.|Przeciw dive'owi – Build 2.
 A2|W ARAM jako wsparcie – R wskrzesza sojusznika, Redemption i Harmonic Echo leczą drużynę.|Gdy potrzebujesz obrażeń – Build 1.
-U1|W URF – bomby Q co sekundę, a Horizon Focus i Luden's zamieniają Zileana w artylerię.|Przeciw dive'owi – Build 2.
-U2|W URF – R wskrzesza sojusznika co chwilę, a Shurelya's i Staff of Flowing Water wzmacniają drużynę.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – bomby Q co sekundę, Rylai's spowalnia, a Cheap Shot i Luden's dokładają obrażenia.|Przeciw dive'owi – Build 2.
+U2|W URF – R wskrzesza sojusznika co chwilę, Shurelya's i Staff of Flowing Water wzmacniają drużynę, a Font of Life i Revitalize dodają leczenia.|Gdy potrzebujesz obrażeń – Build 1.
 @zoe
 N1|Na midzie – E usypia, Q z daleka zadaje ogromne obrażenia; Electrocute, Luden's i Stormsurge.|Gdy wolisz bezpieczny poke – Build 2.
 N2|Poke Zmierzchu – Comet, Horizon Focus i Malignance.|Przeciw zabójcom – Build 1 z Zhonya's.
 A1|W ARAM jako poke – Q (gwiazda) z Comet i Horizon Focus zadaje ogromne obrażenia z dystansu.|Przeciw dive'owi – Build 2.
 A2|W ARAM przeciw dive'owi – E (usypianie) zatrzymuje nurkujących, a Banshee's i Zhonya's chronią.|Gdy wrogowie są pasywni – Build 1.
-U1|W URF – Q co sekundę, a Horizon Focus i Luden's zamieniają Zoe w artylerię.|Przeciw zabójcom – Build 2.
+U1|W URF – Q co sekundę, Horizon Focus i Luden's (Zoe trafia Q z bardzo dużej odległości), a Cheap Shot działa po spowolnieniu i uśpieniu E.|Przeciw zabójcom – Build 2.
 U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, E usypia cel przed combo.|Przeciw tankom – dodaj Liandry's.
 @zyra
 N1|Na supporcie – rośliny zadają obrażenia, E unieruchamia; Dark Harvest, Liandry's, Rylai's i Bloodletter's Curse.|Na midzie – Build 2.
