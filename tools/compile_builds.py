@@ -11,6 +11,12 @@ Format pliku (jeden champion = blok):
   U|...  U|...                  (2 buildy URF)
   S kod kod kod ...             (przedmioty sytuacyjne)
 
+Analiza sytuacyjna każdego buildu jest w data-src/analysis/*.txt:
+
+  @ slug
+  N1|kiedy build się sprawdza|kiedy wybrać inny wariant
+  N2|...  A1|...  A2|...  U1|...  U2|...
+
 Reguły walidacji (patch 7.3):
   * keystone z listy 13 keystone'ów,
   * 3 runy główne z jednego drzewa, po jednej z każdego rzędu,
@@ -105,6 +111,37 @@ def parse_build(slug, kind, line):
     return dict(name=name, lane=lane, keystone=key, tree=tree, primary=prim_sorted,
                 secTree=RUNE_POS.get(sec, (None,))[0], secondary=sec, boots=boots, items=items, desc=desc)
 
+def load_analysis(data):
+    """Dołącza do buildów pola `when` (kiedy się sprawdza) i `avoid` (kiedy wybrać inny wariant)."""
+    seen = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, 'data-src', 'analysis', '*.txt'))):
+        cur = None
+        for ln, raw in enumerate(open(f, encoding='utf-8'), 1):
+            line = raw.rstrip('\n')
+            if not line.strip() or line.lstrip().startswith('#'):
+                continue
+            if line.startswith('@'):
+                cur = line[1:].strip()
+                if cur not in data:
+                    err(cur, f'analiza dla nieznanego championa ({os.path.basename(f)}:{ln})')
+                continue
+            parts = [p.strip() for p in line.split('|')]
+            if len(parts) != 3 or not re.fullmatch(r'[NAU][12]', parts[0]) or not parts[1] or not parts[2]:
+                err(cur, f'zła linia analizy ({os.path.basename(f)}:{ln}): {line[:50]}')
+                continue
+            key = (cur, parts[0])
+            if key in seen:
+                err(cur, f'zdublowana analiza {parts[0]}')
+            seen[key] = (parts[1], parts[2])
+    for slug, d in data.items():
+        for k, m in MODES.items():
+            for i, b in enumerate(d[m]):
+                a = seen.get((slug, f'{k}{i + 1}'))
+                if not a:
+                    err(slug, f'brak analizy sytuacyjnej {k}{i + 1}')
+                    continue
+                b['when'], b['avoid'] = a
+
 def main():
     data = {}
     files = sorted(glob.glob(os.path.join(ROOT, 'data-src', 'builds', '*.txt')))
@@ -151,6 +188,7 @@ def main():
             err(slug, 'za mało przedmiotów sytuacyjnych (min. 6)')
         if not d['about']:
             err(slug, 'brak analizy (linia I)')
+    load_analysis(data)
     missing = sorted(set(CHAMPS) - set(data))
     strict = '--strict' in sys.argv
     if missing:

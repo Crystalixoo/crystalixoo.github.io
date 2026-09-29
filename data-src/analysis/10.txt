@@ -1,0 +1,84 @@
+@veigar
+N1|Na midzie w meczach, które potrwają – każde trafienie umiejętnością daje trwałe AP (Fenomenalne Zło), klatka E zamyka wrogów, a R zadaje do 100% więcej obrażeń celom z niskim zdrowiem; Infinity Orb krytuje dobijające umiejętności.|Przeciw bardzo mobilnym zabójcom i agresywnym wczesnym championom – Build 2 z Rod of Ages daje więcej zdrowia i bezpieczeństwa.
+N2|Skalujący mag – Rod of Ages i Comet, bezpieczne farmienie Q, Malignance skraca R.|Gdy chcesz szybciej grozić burstem – Build 1.
+A1|W ARAM – klatka E na grupę wrogów, Electrocute i Luden's.|Przeciw dive'owi – Build 2 z Banshee's.
+A2|Przeciw dive'owi – Banshee's, Zhonya's i Mercury's, poke W z Horizon Focus.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – ładunki AP rosną błyskawicznie, R co chwilę.|Przeciw burstowi – Build 2.
+U2|W URF – Dark Harvest i Stormsurge, dobijanie.|Przeciw tankom – dodaj Liandry's.
+@velkoz
+N1|Na midzie jako artyleria – Q i W z Comet, R zadaje obrażenia nieuchronne po 3 ładunkach pasywki; Luden's i Horizon Focus.|Jako wsparcie – Build 2.
+N2|Jako wsparcie – poke z daleka, Imperial Mandate i Liandry's.|Na midzie – Build 1.
+A1|W ARAM idealny – poke z Pustki, Horizon Focus.|Przeciw dive'owi – Build 2.
+A2|W ARAM – rozkład z Liandry's i Rylai's, Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – R (promień) co chwilę z Comet i Horizon Focus, a Q i W zadają obrażenia z dystansu.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, a Malignance skraca R.|Przeciw tankom – dodaj Liandry's.
+@vex
+N1|Na midzie przeciw championom z doskokami – pasywka (Mrok) karze każdy doskok strachem, R daje reset po zabójstwie; Electrocute, Luden's i Stormsurge.|Gdy wrogowie nie mają doskoków – Build 2 z Comet.
+N2|Anty-nurek – Comet, Malignance i Horizon Focus, bezpieczny poke.|Gdy chcesz burst na zabójcach – Build 1.
+A1|W ARAM – cień w tłumie, strach na wielu wrogach.|Przeciw poke'owi – Build 2.
+A2|W ARAM – mroczny poke z Banshee's i Mercury's.|Gdy wrogowie nurkują – Build 1.
+U1|W URF – pasywka (Zguba) i W niemal ciągle straszą wrogów, a Electrocute i Stormsurge zabijają miękkie cele.|Przeciw tankom – dodaj Liandry's.
+U2|W URF – Dark Harvest i Malignance, R resetuje się po zabójstwach.|Przeciw burstowi – dodaj Zhonya's.
+@vi
+N1|W dżungli – Q doskok, R nie do zatrzymania na wybranym celu; Eclipse, Black Cleaver i Sterak's, Conqueror.|Przeciw miękkim celom – Build 2 z Lethality.
+N2|Burst Vi – Electrocute, Youmuu's i Serylda's, R zabija carry.|Przeciw tankom – Build 1.
+A1|W ARAM – Goredrinker trafia kilku wrogów i leczy, Black Cleaver pomaga drużynie, a R (pościg) wyrywa carry z grupy.|Przeciw miękkim celom – Build 2.
+A2|W ARAM przeciw miękkim celom – R nie do zatrzymania na carry, Lethality i Maw przeciw magom.|Przeciw tankom – Build 1.
+U1|W URF – Q i E co chwilę, R (pościg) co kilkanaście sekund, a Conqueror i Sterak's dają przeżywalność.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw miękkim celom – Q + R z Electrocute i Lethality zabija cel.|Przeciw tankom – Build 1.
+@viego
+N1|W dżungli – opętanie wrogów po zabójstwie pozwala resetować walkę; BoRK zadaje % obecnego zdrowia, Essence Reaver i Sundered Sky.|Przeciw miękkim celom – Build 2 krytyczny.
+N2|Krytyczny król – Lethal Tempo, Yun Tal, IE i Navori.|Przeciw tankom – Build 1.
+A1|W ARAM – opętania po zabójstwach resetują walkę, BoRK zadaje % obecnego zdrowia, a Sterak's daje tarczę.|Przeciw magom – Build 2.
+A2|W ARAM przeciw magom – Maw of Malmortius chroni przed magicznym burstem, a BoRK i Sundered Sky leczą.|Przeciw fizycznym bruiserom i strzelcom – Build 1 ze Sterak's i Death's Dance.
+U1|W URF – opętania niemal ciągle, BoRK i Essence Reaver, a Death's Dance daje przeżywalność.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw miękkim celom – krytyki z Yun Tal i IE, Navori skraca Q.|Przeciw tankom – Build 1.
+@viktor
+N1|Na midzie – ulepszenia Hexcore z pasywki, E z Comet, Luden's i Malignance; R kontroluje teamfight.|Gdy chcesz więcej kontroli i obrażeń w czasie – Build 2.
+N2|Kontrola pola – Electrocute, Rylai's i Liandry's, W zatrzymuje nurkujących.|Gdy wolisz poke – Build 1.
+A1|W ARAM jako poke – E (laser) z Comet i Horizon Focus trafia grupę z dystansu.|Przeciw dive'owi – Build 2.
+A2|W ARAM – burza w tłumie, Liandry's i Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – E i W co chwilę, a Horizon Focus i Luden's zamieniają Viktora w artylerię.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, R (burza) co chwilę.|Przeciw tankom – dodaj Liandry's.
+@vladimir
+N1|Na midzie – Q leczy, W (kałuża) unika wszystkiego, R wzmacnia obrażenia drużyny; Conqueror, Rocketbelt, Riftmaker i Cryptbloom.|Gdy chcesz więcej burstu – Build 2.
+N2|Burst krwi – Electrocute, Rocketbelt i Stormsurge.|Przeciw bruiserom – Build 1.
+A1|W ARAM – E i R trafiają grupę, W (kałuża) unika obrażeń, a Riftmaker i Liandry's rosną w długich walkach.|Przeciw ciężkiemu burstowi – Build 2.
+A2|Tankowy wampir – Banshee's, Zhonya's i Mercury's.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – Q leczy co chwilę, W unika wszystkiego, a Rocketbelt i Riftmaker dają wejście i leczenie.|Przeciw burstowi – Build 2.
+U2|W URF przeciw miękkim celom – Rocketbelt, Stormsurge i Dark Harvest, Q i E zabijają cel.|Przeciw tankom – Build 1.
+@volibear
+N1|W dżungli – Q ogłusza, R wyłącza wieże przy nurkowaniu; Stridebreaker, Sundered Sky i Sterak's.|Na Baronie lub przeciw magom – Build 2.
+N2|Magiczny niedźwiedź na Baronie – E i pasywka z Riftmakerem i Liandry's, Force of Nature.|W dżungli – Build 1.
+A1|W ARAM – burza w tłumie, Goredrinker i Thornmail.|Przeciw magom – Build 2.
+A2|Tankowy niedźwiedź – Heartsteel i Force of Nature.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – Q (ogłuszenie) i E co chwilę, R wyłącza wieże, a Stridebreaker i Sundered Sky dają pościg i leczenie.|Przeciw magom – dodaj Maw.
+U2|W URF jako tank AP – E i pasywka z Riftmakerem i Liandry's, a Despair i Twinguard dają wytrzymałość.|Przeciw fizycznym – Build 1.
+@warwick
+N1|W dżungli – pasywka leczy poniżej 50% zdrowia, W wyczuwa krwawiących wrogów, R tłumi; BoRK, Trinity i Sterak's.|Na Baronie – Build 2.
+N2|Tankowy wilk na Baronie – BoRK, Titanic i Force of Nature.|W dżungli – Build 1.
+A1|W ARAM – pasywka leczy poniżej 50% zdrowia, Goredrinker trafia kilku wrogów, a Thornmail tnie leczenie.|Przeciw kontroli – Build 2.
+A2|Przeciw kontroli i magom – Wit's End i Mercury's.|Przeciw fizycznym – Build 1.
+U1|W URF – Q i R co chwilę, BoRK i Trinity Force, a Conqueror leczy.|Przeciw magom – Build 2.
+U2|W URF – Lethal Tempo i Guinsoo's, pasywka W daje prędkość ataku przeciw rannym.|Przeciw burstowi – Build 1.
+@wukong
+N1|W dżungli – W (klon) myli wrogów, R podrzuca grupę; Eclipse, Black Cleaver i Sterak's.|Na Baronie – Build 2.
+N2|Na Baronie – Trinity Force i Sundered Sky, R w tłum.|W dżungli – Build 1.
+A1|W ARAM – R (wir) podrzuca całą grupę, Goredrinker leczy, a Thornmail tnie leczenie.|Przeciw magom – Build 2.
+A2|Tankowy małpiszon – Titanic i Force of Nature.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – R dwukrotnie co chwilę, E i Q, a Eclipse i Black Cleaver dają obrażenia.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw miękkim celom – E + Q + R z Electrocute i Lethality.|Przeciw tankom – Build 1.
+@xayah
+N1|Na Dragonie – pióra E unieruchamiają, R daje nietykalność; Lethal Tempo, Yun Tal, IE i Navori.|Przeciw dive'owi – Build 2 z Shieldbow.
+N2|Krytyczna buntowniczka – Fleet, Essence Reaver i Shieldbow.|Gdy walki są długie – Build 1.
+A1|W ARAM – pióra E unieruchamiają kilku wrogów, a Runaan's rozprowadza pióra na grupę.|Przeciw kontroli – Build 2.
+A2|Przeciw kontroli – Mercurial Scimitar i Mercury's.|Gdy wrogowie mają mało kontroli – Build 1.
+U1|W URF – pióra co chwilę, R (nietykalność) w każdej walce, a Navori skraca odnowienia.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF – Essence Reaver i Navori, Fleet leczy, a krytyki z IE.|Przeciw tankom – Build 1.
+@xin-zhao
+N1|W dżungli – E doskok, Q podrzuca, R blokuje obrażenia z daleka; Trinity, Eclipse i Sterak's.|Gdy drużyna potrzebuje tanka – Build 2.
+N2|Tankowy Xin – Stridebreaker i Sunfire, Force of Nature.|Gdy potrzebujesz obrażeń – Build 1.
+A1|W ARAM – Goredrinker i Sundered Sky, Q podrzuca, a R odrzuca wszystkich poza wyzwanym celem.|Przeciw magom – Build 2.
+A2|Frontowy Xin – Stridebreaker i Force of Nature.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – E i Q co chwilę, Trinity Force i Eclipse, a Conqueror leczy.|Przeciw magom – dodaj Maw.
+U2|W URF – Lethal Tempo, BoRK, Trinity i Kraken, W podrzuca co trzeci atak.|Przeciw burstowi – Build 1.

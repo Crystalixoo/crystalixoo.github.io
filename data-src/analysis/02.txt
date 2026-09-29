@@ -1,0 +1,84 @@
+@evelynn
+N1|W dżungli przeciw drużynie bez wielu wardów i z miękkimi carry – kamuflaż pozwala zajść cel, a urok + Electrocute + Stormsurge zabija go w sekundę; Banshee's blokuje kontrolę tłumu po wejściu.|Gdy wróg ma dużo detekcji lub tanków – Build 2 z Dark Harvest skaluje się z każdym zabójstwem i lepiej radzi sobie w długich meczach.
+N2|W dłuższych meczach, gdy możesz regularnie dobijać cele – Dark Harvest rośnie z każdym zabójstwem, a Infinity Orb krytuje umiejętności na celach poniżej 40% zdrowia.|Gdy potrzebujesz mocnego burstu od wczesnej gry – Build 1 ze Stormsurge.
+A1|W ARAM, gdy można flankować przez boczne ściany – Electrocute + Stormsurge zabija maga lub strzelca po jednym uroku.|Przeciw tankowym, grupującym się składom – Build 2 z Riftmakerem.
+A2|W długich walkach ARAM i przeciw kontroli tłumu – Riftmaker i Liandry's dają obrażenia w czasie i leczenie, Mercury's skraca kontrolę.|Gdy wrogie carry są odsłonięte – Build 1.
+U1|W URF – urok niemal co sekundę, Infinity Orb dobija cele, Stormsurge dodaje burst.|Przeciw tankom – zamień Infinity Orb na Liandry's.
+U2|W długich meczach URF – Dark Harvest i Stormsurge sumują się przy ciągłych zabójstwach.|Przeciw burstowi – Banshee's z listy sytuacyjnej.
+@ezreal
+N1|Standard na Dragonie – Q nakłada Conqueror i Spellblade Trinity Force, Manamune zamienia manę w obrażenia, Black Cleaver pomaga drużynie przeciw pancerzowi. Świetny w bezpiecznym poke'u.|Gdy wrogowie są miękcy i chcesz więcej obrażeń krytycznych – Build 2.
+N2|Przeciw miękkim celom – krytyki z Q (Essence Reaver, Navori skraca odnowienia, Infinity Edge).|Przeciw tankom i bruiserom – Build 1 z Black Cleaver.
+A1|W ARAM idealny do poke'u – Comet i Q z dystansu, Maw of Malmortius przeciw magom.|Gdy wrogowie nurkują – Build 2 z Death's Dance.
+A2|Przeciw fizycznemu dive'owi – Death's Dance i Plated Steelcaps.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF Q leci co pół sekundy – Trinity Force i Serylda's spowalniają, Conqueror leczy.|Przeciw magom – dodaj Maw.
+U2|Gdy twoja drużyna ma za dużo obrażeń fizycznych – Ezreal AP z Lich Bane i Luden's.|Przeciw tankom – Build 1.
+@fiddlesticks
+N1|W dżungli z ukrycia – Rocketbelt pozwala wejść R z zaskoczenia w grupę wrogów, Liandry's i Dark Harvest zadają ogromne obrażenia w czasie.|Gdy wrogowie mają dużo wardów i detekcji – Build 2 z Blackfire Torch zadaje więcej w długiej walce.
+N2|W dłuższych walkach – W wysysa zdrowie, Blackfire Torch i Liandry's podpalają, Ionian Boots skracają Flash do R+Flash.|Przeciw składom łatwym do zaskoczenia – Build 1.
+A1|W ARAM wrogowie stoją w grupie – R i W trafiają wiele celów, Liandry's i Torch rosną z liczbą trafionych.|Przeciw burstowi i kontroli – Build 2.
+A2|Przeciw dive'owi – Rylai's, Riftmaker i Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – R dostępne co chwilę, Rocketbelt do wejścia.|Przeciw tankom – Build 2.
+U2|W URF przy długich walkach – Conqueror i Riftmaker leczą.|Przeciw burstowi – dodaj Zhonya's.
+@fiora
+N1|Pojedynki na Baronie przeciw bruiserom walczącym wręcz – Trinity Force i Eclipse, parowanie W odbija kluczową kontrolę, Death's Dance przeżywalność.|Gdy drużyna gra wokół split-pushu – Build 2.
+N2|Split-push – Hullbreaker i Grasp niszczą wieże, Black Cleaver przeciw tankom.|Gdy drużyna potrzebuje cię w teamfightach – Build 1.
+A1|W ARAM w ciągłej walce – Goredrinker leczy za każdego trafionego, Chempunk przeciw leczeniu.|Gdy możesz flankować i zabić carry – Build 2.
+A2|Przeciw miękkim carry – Serylda's i Eclipse, Maw przeciw magom.|Przeciw tankom – Build 1.
+U1|W URF – parowanie i Q co chwilę, Conqueror i Sundered Sky leczą.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw tankom i bruiserom – BoRK zadaje % obecnego zdrowia, punkty słabości z pasywki pękają co chwilę, a Bloodthirster i Sundered Sky leczą w każdej wymianie.|Przeciw magom – dodaj Maw.
+@fizz
+N1|Na midzie przeciw magom i zabójcom – E (Playful/Trickster) unika kluczowych umiejętności, a R + Electrocute + Stormsurge zabija cel w jednym combo.|Przeciw bruiserom i tankom (Galio, Sylas, Yasuo) – Build 2 z Riftmakerem wygrywa długie walki.
+N2|Na midzie przeciw bruiserom – Conqueror, Riftmaker i Dusk and Dawn dają leczenie i obrażenia w wymianach trwających kilka sekund.|Gdy wrogie carry są miękkie i łatwo je zabić jednym R – Build 1.
+A1|W ARAM, gdy wrogie carry stoją blisko frontu – Rocketbelt daje drugi doskok, R trafia grupę, a Zhonya's ratuje po wejściu.|Przeciw składom z dużą ilością kontroli i burstu – Build 2.
+A2|W długich walkach ARAM – Riftmaker, Dusk and Dawn i Liandry's; Mercury's skraca kontrolę tłumu.|Przeciw miękkim, poke'ującym magom – Build 1.
+U1|W URF – E i Q niemal ciągle, Rocketbelt daje trzeci doskok, Infinity Orb dobija cele.|Przeciw tankom – zamień Infinity Orb na Liandry's.
+U2|W URF przeciw miękkim celom – Dark Harvest rośnie z każdym zabójstwem, Stormsurge dokłada burst.|Przeciw burstowi – dodaj Zhonya's z listy sytuacyjnej.
+@galio
+N1|Na midzie przeciw magom – pasywna tarcza W pochłania obrażenia magiczne, Rocketbelt ustawia E, a R pozwala dołączać do walk na bocznych liniach.|Gdy grasz jako wsparcie lub drużynie brakuje tanka – Build 2.
+N2|Jako wsparcie-tank – Radiant Virtue, Zeke's i Abyssal Mask wzmacniają drużynę, R ratuje zaatakowanego sojusznika.|Na midzie przeciw magom – Build 1.
+A1|W ARAM jako tank z obrażeniami – Riftmaker i Liandry's rosną w długich walkach, Force of Nature przeciw magom.|Gdy drużynie brakuje burstu – Build 2.
+A2|Przeciw miękkim celom – Rocketbelt + E + Luden's daje burst po prowokacji.|Przeciw magicznemu burstowi – Build 1 z Force of Nature.
+U1|W URF – prowokacja co kilka sekund, Rylai's spowalnia uciekających.|Przeciw magom i długim walkom – Build 2.
+U2|W URF jako tank AP – Riftmaker i Gargoyle Stoneplate, Ice Overlord spowalnia.|Gdy potrzebujesz burstu – Build 1.
+@garen
+N1|Na Baronie przeciw bruiserom walczącym wręcz – Stridebreaker dogania cel, Sundered Sky leczy w wymianie, Sterak's i Death's Dance dają przeżywalność.|Gdy wrogowie są miękcy i chcesz krytyczne obrażenia z E – Build 2.
+N2|Krytyczny Garen przeciw miękkim celom – E krytuje przy każdym obrocie (Yun Tal, Infinity Edge), Navori skraca odnowienia Q i E.|Przeciw tankom i drużynie z antyleczeniem – Build 1.
+A1|W ARAM – Stridebreaker dogania kitujących, Thornmail tnie leczenie wrogów walczących wręcz.|Przeciw poke'owi i magom – Build 2 z Force of Nature.
+A2|Przeciw poke'owi i magicznym obrażeniom – Force of Nature, Bloodmail i Mercury's.|Gdy drużyna potrzebuje obrażeń – Build 1.
+U1|W URF – E niemal ciągle, Conqueror ładuje się błyskawicznie.|Przeciw magicznemu burstowi – dodaj Maw of Malmortius.
+U2|Przeciw miękkim celom – Lethality i egzekucja Q + R.|Przeciw tankom – Build 1.
+@gnar
+N1|Na Baronie – Fleet Footwork i kiting w Mini Gnarze, a Trinity Force i Sterak's pozwalają przetrwać w Mega Gnarze.|Przeciw składom magicznym – Build 2 z Force of Nature.
+N2|Tankowaty Gnar przeciw magom i kontroli – Force of Nature, Despair i Mercury's; Mega Gnar inicjuje R.|Przeciw bruiserom fizycznym – Build 1.
+A1|W ARAM – kiting w Mini, a Thornmail przeciw autoatakom w Mega.|Gdy drużyna potrzebuje prawdziwego frontu – Build 2.
+A2|W ARAM jako tank inicjujący – Heartsteel i Despair dają wytrzymałość po R.|Gdy drużyna potrzebuje obrażeń – Build 1.
+U1|W URF – szybka przemiana, Conqueror i Trinity.|Przeciw magom – dodaj Maw.
+U2|W URF jako tank – Titanic i Heartsteel, R w tłum.|Gdy potrzebujesz obrażeń – Build 1.
+@gragas
+N1|W dżungli – beczka + E + Rocketbelt dają zaskakujące ganki i burst z Luden's.|Na Baronie przeciw bruiserom – Build 2.
+N2|Na Baronie jako tank AP – Riftmaker i Liandry's, Despair i Force of Nature.|W dżungli – Build 1.
+A1|W ARAM jako tank AP – Abyssal Mask wzmacnia drużynę.|Gdy drużynie brakuje burstu – Build 2.
+A2|Przeciw miękkim celom – Luden's i Rocketbelt dają burst po E.|Przeciw burstowi – Build 1.
+U1|W URF przeciw miękkim celom – beczka Q i E (szarża) odnawiają się błyskawicznie, Rocketbelt daje dodatkowe wejście, a R odrzuca carry w stronę twojej drużyny.|Przeciw burstowi – Build 2.
+U2|W URF jako tank AP – W zmniejsza otrzymywane obrażenia, Riftmaker i Liandry's zadają obrażenia w długich walkach, a Force of Nature i Despair pozwalają przetrwać na froncie.|Przeciw miękkim celom – Build 1.
+@graves
+N1|W dżungli przeciw miękkim celom – krytyczny strzał ze strzelby (IE) i Collector dobijają cele; Hexoptics wzmacnia strzały z dystansu.|Przeciw tankom i bruiserom – Build 2 z Death's Dance lepiej przeżywa w zwarciu.
+N2|Lethality Graves – szybkie ganki i burst Q+E+R, Youmuu's daje prędkość do roamingu, Edge of Night blokuje kontrolę.|Przeciw tankom i w długiej grze – Build 1.
+A1|W ARAM – Yun Tal i Bloodthirster dają obrażenia i leczenie w ciągłej walce.|Przeciw nurkującym wrogom – Build 2.
+A2|W ARAM jako strzelec frontowy – Eclipse, Sundered Sky i Death's Dance pozwalają walczyć blisko.|Przeciw miękkim, dystansowym celom – Build 1.
+U1|W URF – Navori i E skracają przeładowanie, krytyki co chwilę.|Przeciw zabójcom – dodaj Guardian Angel.
+U2|Przeciw miękkim celom – Electrocute i Collector dają błyskawiczny burst.|Przeciw tankom – Build 1.
+@gwen
+N1|Na Baronie przeciw tankom i bruiserom – Q zadaje prawdziwe obrażenia w środku, Riftmaker i Nashor's rosną w długiej walce, W blokuje obrażenia spoza mgły.|W dżungli – Build 2.
+N2|W dżungli – Dusk and Dawn i Riftmaker, Battle Zeal i Legend: Haste przyspieszają czyszczenie.|Na linii przeciw tankom – Build 1.
+A1|W ARAM – Riftmaker i Liandry's w długich teamfightach, Banshee's przeciw kontroli.|Przeciw ciężkiemu burstowi – Build 2.
+A2|Przeciw kontroli tłumu i burstowi – Banshee's, Mercury's i runy Determinacji.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF przeciw tankom – Q (nożyce) zadaje % maks. zdrowia i prawdziwe obrażenia w środku, Riftmaker i Nashor's skalują się z długością walki, a W (mgła) chroni przed obrażeniami spoza niej.|Przeciw burstowi – Build 2.
+U2|W URF – Lethal Tempo i Guinsoo's na szybkie ataki.|Przeciw tankom – Build 1.
+@hecarim
+N1|W dżungli – szarża E + R wbija się w tylną linię, Trinity Force i Eclipse dają burst, Sterak's przeżywalność.|Przeciw tankom lub gdy drużyna potrzebuje frontu – Build 2.
+N2|Tankowaty rycerz – Dead Man's Plate zwiększa prędkość szarży, Black Cleaver przeciw pancerzowi, Steelcaps przeciw autoatakom.|Przeciw miękkim celom – Build 1.
+A1|W ARAM – Goredrinker leczy w tłumie, Thornmail przeciw leczeniu.|Przeciw burstowi – Build 2.
+A2|W ARAM jako tank-szarżownik – Dead Man's Plate i Sunfire.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – Q (Rampage) resetuje się co chwilę i leczy przez Conqueror, a E + R pozwalają wjechać w tylną linię; Sterak's i Death's Dance dają przeżywalność po wejściu.|Przeciw magom – dodaj Maw.
+U2|W URF przeciw tankom – Black Cleaver i Spear of Shojin.|Przeciw burstowi – Build 1.

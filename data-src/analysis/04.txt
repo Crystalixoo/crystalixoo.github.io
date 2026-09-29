@@ -1,0 +1,84 @@
+@kassadin
+N1|W długich meczach na midzie – Archangel's i Rod of Ages skalują się z maną, a po 16 poziomie R pozwala teleportować się w tylną linię; najlepszy przeciw drużynom magów (pasywna redukcja obrażeń magicznych).|Gdy musisz wygrać wczesną fazę gry lub mecz będzie krótki – Build 2 z First Strike i Luden's.
+N2|Gdy chcesz wcześniej grozić zabójstwem – First Strike daje złoto, Luden's i Lich Bane burst już od 2 przedmiotów, Banshee's chroni przed kontrolą.|W długiej grze przeciw tankom – Build 1 skaluje się lepiej.
+A1|W ARAM teleport R w tylną linię – Archangel's i RoA dają manę na wielokrotne R, Zhonya's po wejściu.|Przeciw ciężkiej kontroli tłumu – Build 2.
+A2|Przeciw drużynie pełnej magów – pasywka Kassadina i Banshee's, Riftmaker i Liandry's w długich walkach.|Gdy wrogowie są fizyczni – Build 1.
+U1|W URF R jest niemal darmowe – Lich Bane i Luden's zadają burst przy każdym teleporcie.|Przeciw tankom – dodaj Liandry's.
+U2|W URF przeciw miękkim celom – Dark Harvest rośnie z każdym zabójstwem, Infinity Orb dobija.|Przeciw burstowi – dodaj Zhonya's.
+@katarina
+N1|Na midzie przeciw składom z małą ilością kontroli tłumu – resety po zabójstwach (Shunpo) pozwalają przeskakiwać między celami, Stormsurge i Lich Bane dają burst, Zhonya's pozwala przeczekać.|Przeciw składom z wieloma tankami lub bruiserami – Build 2 hybrydowy z Riftmakerem.
+N2|Hybrydowa Katarina przeciw tankom – Dusk and Dawn i Nashor's wzmacniają ataki, Riftmaker leczy, Conqueror w długiej walce.|Przeciw miękkim celom – Build 1 zabija szybciej.
+A1|W ARAM wrogowie stoją w grupie – R trafia wielu, resety po każdym zabójstwie; Zhonya's po wejściu.|Przeciw ciężkiej kontroli – Build 2 z Mercury's.
+A2|Przeciw kontroli i długim walkom – Riftmaker, Dusk and Dawn i Mercury's.|Gdy wrogowie są miękcy – Build 1.
+U1|W URF – E i Q bez przerwy, Infinity Orb dobija cele do resetu.|Przeciw tankom – Build 2.
+U2|W URF przeciw tankom – Conqueror, Riftmaker i Liandry's.|Przeciw burstowi – dodaj Zhonya's.
+@kayle
+N1|Na Baronie w długich meczach – Kayle jest słaba na początku, ale od 11. poziomu atakuje z dystansu, a Nashor's i Guinsoo's zamieniają ataki w fale obrażeń magicznych; Banshee's przeciw kontroli.|Gdy drużynie brakuje obrażeń fizycznych – Build 2 hybrydowy.
+N2|Hybrydowa Kayle na midzie – Kraken, Terminus i Guinsoo's mieszają typy obrażeń, co utrudnia wrogom budowanie odporności.|Gdy drużyna ma już dużo obrażeń fizycznych – Build 1 AP.
+A1|W ARAM ogniste fale trafiają wielu wrogów – Nashor's, Guinsoo's i Rabadon's.|Przeciw dive'owi – Build 2 z Mercury's i Riftmakerem.
+A2|Przeciw dive'owi i kontroli – R czyni sojusznika nietykalnym, Riftmaker leczy, Banshee's i Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – R niemal co chwilę ratuje drużynę, fale ogniste i Lethal Tempo.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw grupującym się wrogom – Statikk Shiv i fale ogniste czyszczą teamfighty.|Przeciw tankom – Build 1.
+@kayn
+N1|Rhaast (czerwona forma) – wybierz, gdy wrogowie mają dużo walczących wręcz; Eclipse, Sundered Sky i Sterak's dają leczenie z Q i R w długich walkach.|Gdy wrogowie mają dużo dystansowych carry – Build 2 (Cień).
+N2|Cień (niebieska forma) – przeciw dystansowym składom; Lethality (Youmuu's, Duskblade) i przechodzenie przez ściany dają zabójcze ganki.|Przeciw składom wręcz – Build 1 (Rhaast).
+A1|W ARAM – Rhaast w tłumie, Goredrinker i Chempunk przeciw leczeniu.|Gdy wrogie carry są odsłonięte – Build 2.
+A2|W ARAM przeciw miękkim celom – Lethality i E przez ściany na flankę.|Przeciw tankom – Build 1.
+U1|W URF przeciw składom walczącym wręcz – Rhaast (czerwona forma) leczy się z każdego trafienia umiejętnością, Q i W odnawiają się co chwilę, a Sterak's i Death's Dance dają przeżywalność.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw dystansowym, miękkim składom – Cień (niebieska forma) przechodzi przez ściany, Lethality i Electrocute zabijają carry, a Edge of Night blokuje kontrolę.|Przeciw tankom – Build 1.
+@kennen
+N1|Na Baronie przeciw walczącym wręcz – dystansowy poke Q, a Rocketbelt + R w grupę wrogów to jedno z najlepszych ogłuszeń obszarowych w grze.|Gdy drużynie brakuje DPS-u z ataków – Build 2 z Lethal Tempo.
+N2|Kennen atakujący – Nashor's i Guinsoo's wzmacniają ataki, pasywka nakłada się szybciej.|Gdy potrzebujesz burstu i inicjacji – Build 1.
+A1|W ARAM – Rocketbelt + R w tłum ogłusza całą drużynę, Liandry's dokłada obrażenia w czasie.|Przeciw ciężkiemu burstowi – Build 2.
+A2|W długich walkach ARAM – Conqueror, Riftmaker i Mercury's.|Gdy wrogowie są miękcy – Build 1.
+U1|W URF – Rocketbelt + E + R ogłusza całą grupę wrogów co kilkanaście sekund, a Liandry's i Rabadon's sprawiają, że burza zadaje ogromne obrażenia.|Przeciw tankom – Build 2.
+U2|W URF – Lethal Tempo i Guinsoo's pozwalają atakować z pasywką W, która szybko nakłada ogłuszenia; Nashor's dodaje obrażenia magiczne do ataków.|Przeciw burstowi – Build 1.
+@khazix
+N1|W dżungli przeciw drużynie, która często rozdziela się po mapie – izolowane cele otrzymują znacznie więcej obrażeń z Q; Lethality (Youmuu's, Duskblade) i ewolucja Q/E.|Przeciw składom trzymającym się razem i tankom – Build 2 bruiserowy.
+N2|Bruiser Kha'Zix – Eclipse, Shojin i Death's Dance, Conqueror w dłuższych walkach.|Przeciw miękkim, izolowanym celom – Build 1.
+A1|W ARAM z flanki – ewolucja R i niewidzialność, Lethality na strzelca.|Przeciw tankom – Build 2.
+A2|W ARAM w długich walkach – Conqueror i Sundered Sky.|Przeciw miękkim celom – Build 1.
+U1|W URF przeciw miękkim, izolowanym celom – ewoluowane E (skok) resetuje się po zabójstwach, Q zadaje dodatkowe obrażenia samotnym celom, a Lethality i Electrocute kończą walkę w sekundę.|Przeciw tankom – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Collector.|Przeciw burstowi – dodaj Guardian Angel.
+@kindred
+N1|W dżungli przeciw tankom i bruiserom – Lethal Tempo, Kraken i BoRK, znaki rosną z każdym zdobytym łowem.|Przeciw miękkim celom – Build 2 krytyczny.
+N2|Krytyczne Kindred przeciw miękkim celom – Yun Tal, IE i Navori (szybsze Q).|Przeciw tankom – Build 1.
+A1|W ARAM – R chroni drużynę przed śmiercią, Runaan's trafia kilka celów.|Przeciw dive'owi – Build 2.
+A2|Przeciw dive'owi – Fleet, Bloodthirster i Shieldbow, Mortal Reminder przeciw leczeniu.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF przeciw tankom – Q (doskok) co chwilę, on-hit (Kraken, BoRK, Guinsoo's) topi zdrowie frontu, a R chroni drużynę przed śmiercią w kluczowym momencie.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF przeciw miękkim celom – krytyki i Navori.|Przeciw tankom – Build 1.
+@kogmaw
+N1|Na Dragonie przeciw tankom – W zadaje % maks. zdrowia, BoRK, Guinsoo's, Kraken i Wit's End miażdżą każdy front.|Przeciw miękkim celom i poke'owi – Build 2 AP.
+N2|Artyleria AP – R z Luden's i Horizon Focus pokeuje z ogromnego zasięgu.|Przeciw tankom – Build 1.
+A1|W ARAM przeciw tankowym składom – W zadaje % maks. zdrowia jako obrażenia magiczne, BoRK i Kraken dokładają obrażenia, a Wit's End chroni przed magami.|Przeciw miękkim celom – Build 2.
+A2|W ARAM jako artyleria – R z ogromnego zasięgu co kilka sekund, Comet i Horizon Focus wzmacniają każde trafienie, a Luden's daje burst obszarowy.|Przeciw dive'owi – Build 1.
+U1|W URF przeciw tankom – W niemal non stop zamienia każdy atak w % obrażeń maks. zdrowia, a Terminus i Kraken dokładają przebicie i obrażenia przeciw frontowi.|Przeciw zabójcom nurkującym na ciebie – kup Guardian Angel wcześniej lub zamień Terminus na Immortal Shieldbow.
+U2|W URF jako artyleria AP – R spada co chwilę z Axiom Arcanist i Comet, a Horizon Focus ujawnia i wzmacnia obrażenia na trafionych celach.|Przeciw tankom – Build 1.
+@ksante
+N1|Na Baronie jako tank – Iceborn Gauntlet i Despair, W blokuje kontrolę; R wyrzuca carry wroga z teamfightu.|Gdy drużynie brakuje obrażeń – Build 2 (All Out).
+N2|All Out bruiser – Black Cleaver i Sterak's, R zamienia K'Sante w agresywnego wojownika.|Gdy drużyna potrzebuje tanka – Build 1.
+A1|W ARAM jako front – Iceborn, Despair i Thornmail.|Gdy potrzebujesz obrażeń – Build 2.
+A2|W ARAM jako bruiser – Conqueror, Sterak's i Death's Dance.|Gdy drużyna potrzebuje tanka – Build 1.
+U1|W URF jako tank – Q ogłusza, W blokuje kontrolę i obrażenia, a R wyrzuca carry z walki; Iceborn, Despair i Thornmail czynią K'Sante niemal nie do zabicia.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF jako bruiser – R (All Out) zamienia pancerz w obrażenia, a Black Cleaver i Sterak's pozwalają walczyć z przodu; Conqueror leczy w długiej walce.|Przeciw burstowi – Build 1.
+@lee-sin
+N1|W dżungli – Conqueror i Eclipse, Black Cleaver przeciw pancerzowi, R (Insec) wyrzuca carry do drużyny.|Przeciw miękkim celom – Build 2 z Lethality.
+N2|Burst mnicha – Electrocute, Youmuu's i Serylda's zabijają Q+Q+R.|Przeciw tankom – Build 1.
+A1|W ARAM przeciw grupującym się wrogom – Goredrinker trafia wielu wrogów i leczy, Black Cleaver pomaga drużynie przeciw pancerzowi, a Thornmail tnie leczenie walczących wręcz.|Przeciw miękkim celom – Build 2.
+A2|W ARAM przeciw miękkim celom – kopnięcie w drużynę, Maw przeciw magom.|Przeciw tankom – Build 1.
+U1|W URF – Q i W (doskoki do sojuszników) resetują się błyskawicznie, więc Lee może skakać po polu walki; Conqueror i Sundered Sky leczą.|Przeciw miękkim celom – Build 2.
+U2|W URF przeciw miękkim celom – R (kopnięcie) co kilkanaście sekund wyrzuca carry do twojej drużyny, a Lethality i Electrocute zabijają go po drodze.|Przeciw tankom – Build 1.
+@leona
+N1|Na supporcie jako inicjator – E+Q+R ogłusza, Ice Overlord i Zeke's wzmacniają combo, Dawnshroud ujawnia i rani.|Gdy musisz chronić carry – Build 2.
+N2|Agresywna Leona z Hextech Flashtraption – nieoczekiwane wejścia, Yordle Trap wzmacnia sojuszników.|Przeciw dive'owi – Build 1.
+A1|W ARAM jako front – combo E+Q+R ogłusza kilka celów, Locket i Radiant Virtue chronią i leczą drużynę, a Zeke's spowalnia wrogów po każdej superumiejętności.|Przeciw poke'owi – Build 2.
+A2|W ARAM jako wieczna tarcza – Dawnshroud i Thornmail.|Gdy drużyna potrzebuje inicjacji – Build 1.
+U1|W URF – ogłuszenia Q, E i R co kilka sekund, Ice Overlord spowalnia, a Dawnshroud rani i ujawnia wrogów przy każdym unieruchomieniu.|Gdy potrzebujesz wytrzymałości – Build 2.
+U2|W URF przeciw fizycznym składom – Heartsteel rośnie z każdą walką, Thornmail i W (pancerz) karzą autoataki, a Grasp leczy w wymianach.|Gdy potrzebujesz kontroli – Build 1.
+@lillia
+N1|W dżungli – Conqueror, Blackfire Torch i Liandry's podpalają przez pasywkę, R usypia drużynę.|Gdy potrzebujesz większej prędkości – Build 2.
+N2|Szybka driada – Phase Rush i Cosmic Drive, kiting po walkach.|Przeciw tankom – Build 1.
+A1|W ARAM przeciw grupującym się wrogom – pasywka podpala każdego trafionego, Liandry's i Rylai's dodają obrażenia i spowolnienia, a R usypia całą drużynę.|Przeciw burstowi – Build 2.
+A2|W ARAM przeciw burstowi i kontroli – Riftmaker leczy, Banshee's blokuje kluczową umiejętność, a runy Determinacji dają wytrzymałość, przy zachowaniu obrażeń z Liandry's.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – Q (kwiat) co sekundę daje prędkość ruchu i obrażenia, Blackfire Torch i Liandry's podpalają wszystkich wokół, a Rylai's spowalnia uciekających.|Przeciw burstowi – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest dobija cele, Cosmic Drive daje prędkość do kitingu, a R usypia wrogów do kolejnego combo.|Przeciw tankom – Build 1.

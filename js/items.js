@@ -1,6 +1,6 @@
 /* Strona przedmiotów i run */
 (function () {
-  const { esc, ROLE_PL, TREE_PL, gold } = window.WR;
+  const { esc, fmtVals, ROLE_PL, TREE_PL, gold } = window.WR;
   const ITEMS = window.WR_ITEMS.items;
   const BOOTS = window.WR_ITEMS.boots;
   const RUNES = window.WR_RUNES;
@@ -48,7 +48,7 @@
         ${badges ? `<div class="badges">${badges}</div>` : ''}
         <ul class="stats">${it.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>
         <p>${esc(it.desc)}</p>
-        ${it.passive ? `<details><summary>Opis z gry (EN)</summary><p class="en">${esc(it.passive)}</p></details>` : ''}
+        ${it.effect ? `<p class="eff">${fmtVals(it.effect)}</p>` : ''}
         <div class="usage">W buildach: ${usage[code] || 0} championów</div>
       </div></article>`;
   }
@@ -59,8 +59,9 @@
         <h4>${esc(b.name)} <small>${gold(b.cost)} zł.</small></h4>
         <ul class="stats">${b.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>
         <p>${esc(b.desc)}</p>
+        ${b.effect ? `<p class="eff">${fmtVals(b.effect)}</p>` : ''}
         <div class="t3line"><b>Tier 3 od 10:00 → ${esc(b.t3.name)}</b> (${gold(b.t3.cost)} zł. łącznie)
-          <ul class="stats">${b.t3.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${esc(b.t3.effect)}</p></div>
+          <ul class="stats">${b.t3.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p class="eff">${fmtVals(b.t3.effect)}</p></div>
         <div class="usage">W buildach: ${usage[`boots:${code}`] || 0} championów</div>
       </div></article>`;
   }
@@ -75,7 +76,7 @@
     let html = '';
     const itemCats = cat === 'all' ? ['ad', 'mm', 'ap', 'tank', 'supp'] : ['ad', 'mm', 'ap', 'tank', 'supp'].filter((c) => c === cat);
     itemCats.forEach((c) => {
-      const list = Object.entries(ITEMS).filter(([, it]) => it.cat === c && match(term, it.name, it.desc))
+      const list = Object.entries(ITEMS).filter(([, it]) => it.cat === c && match(term, it.name, it.desc, it.effect || ''))
         .sort((a, b) => a[1].name.localeCompare(b[1].name));
       if (list.length) html += `<h2 class="section-title">${CAT_TITLE[c]} <small class="n">${list.length}</small></h2><div class="igrid">${list.map(([k, it]) => itemCard(k, it)).join('')}</div>`;
     });

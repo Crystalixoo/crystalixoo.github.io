@@ -1,0 +1,70 @@
+@yasuo
+N1|Na midzie – pasywka podwaja szansę na krytyka, więc już 2 przedmioty dają 50%+; W (ściana wiatru) blokuje pociski, R wymaga podrzucenia (Q3 lub sojusznika). Yun Tal, IE, Navori i Bloodthirster.|Na Baronie lub przeciw burstowi – Build 2 z Death's Dance.
+N2|Na Baronie – Conqueror i Death's Dance dają przeżywalność w długich wymianach.|Na midzie przeciw magom – Build 1.
+A1|W ARAM – tornado w tłum, sojusznicy z podrzuceniami dają R.|Przeciw kontroli – Build 2.
+A2|Przeciw kontroli – Mercurial Scimitar i Mercury's.|Gdy wrogowie mają mało kontroli – Build 1.
+U1|W URF – Q (Steel Tempest) niemal non stop, tornado co kilka sekund, a krytyki z Yun Tal i IE.|Przeciw burstowi – Build 2.
+U2|W URF – szermierz z Death's Dance i Sterak's.|Przeciw miękkim celom – Build 1.
+@yone
+N1|Na midzie – podwójna szansa na krytyka, E (Forma Ducha) pozwala wejść i wrócić, R przyciąga grupę; Yun Tal, IE i Navori.|Na Baronie – Build 2.
+N2|Na Baronie przeciw bruiserom – Conqueror i Death's Dance dają przeżywalność w długich wymianach, a krytyki z IE zadają obrażenia.|Na midzie – Build 1.
+A1|W ARAM – R przyciąga wielu wrogów, Shieldbow.|Przeciw magom – Build 2.
+A2|W ARAM przeciw magom – Maw of Malmortius chroni przed magicznym burstem, a Conqueror leczy.|Przeciw fizycznym składom – Build 1 z Shieldbow.
+U1|W URF – Q i E co chwilę, krytyki z Yun Tal i IE.|Przeciw burstowi – Build 2.
+U2|W URF – Conqueror, Death's Dance i Sterak's, R przyciąga grupę.|Przeciw miękkim celom – Build 1.
+@yunara
+N1|Na Dragonie – krytyki zadają dodatkowe obrażenia magiczne, Stan Transcendencji (R) wzmacnia umiejętności; Fiendhunter Bolts, IE i Runaan's.|Przeciw tankom – Build 2 z on-hit.
+N2|On-hit Yunara – Kraken, Guinsoo's i BoRK przeciw tankom.|Przeciw miękkim celom – Build 1.
+A1|W ARAM – Runaan's i Fiendhunter Bolts, krytyki trafiają kilka celów.|Przeciw tankom – Build 2.
+A2|W ARAM – transcendentny DPS z Mortal Reminder.|Przeciw miękkim celom – Build 1.
+U1|W URF – Stan Transcendencji (R) niemal ciągle, a Fiendhunter Bolts daje gwarantowane krytyki po R.|Przeciw tankom – Build 2.
+U2|W URF przeciw tankom – Łuk Zagłady z on-hit (Kraken, Guinsoo's, BoRK).|Przeciw miękkim celom – Build 1.
+@yuumi
+N1|Na supporcie – przyczepiona do Najlepszego Przyjaciela leczy i daje tarcze, Whispering Circlet → Diadem, Harmonic Echo i Mikael's.|Gdy drużynie brakuje obrażeń – Build 2.
+N2|Kot bojowy – pocisk Q z Comet i Luden's, Imperial Mandate.|Gdy drużyna potrzebuje leczenia – Build 1.
+A1|W ARAM – leczenie i tarcze na Najlepszym Przyjacielu, Redemption i Harmonic Echo.|Przeciw dive'owi – Build 2.
+A2|W ARAM przeciw nurkującym wrogom – Guardian i Censer chronią sojusznika, a Mikael's oczyszcza z kontroli.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – leczenie i tarcze niemal non stop, Censer wzmacnia sojusznika.|Gdy potrzebujesz obrażeń – Build 2.
+U2|W URF, gdy drużynie brakuje obrażeń – Q z Comet i Horizon Focus, a Helia leczy.|Gdy drużyna potrzebuje leczenia – Build 1.
+@zed
+N1|Na midzie przeciw miękkim celom – cienie W pozwalają trafiać Q z kilku kierunków, R (Znak Śmierci) zadaje % zadanych obrażeń; Electrocute, Youmuu's i Duskblade.|W dżungli – Build 2.
+N2|W dżungli – W (cień) i E pozwalają łatwo gankować, a Dark Harvest i Collector dobijają cele.|Na midzie – Build 1.
+A1|W ARAM przeciw miękkim celom – cienie W i R pozwalają zajść carry, a Lethality zabija go w sekundę.|Przeciw tankom – Build 2.
+A2|W ARAM jako wytrzymały zabójca – Eclipse, Sundered Sky i Death's Dance.|Przeciw miękkim celom – Build 1.
+U1|W URF – W i R co chwilę, Q z cieniami, a Lethality zabija miękkie cele.|Przeciw tankom – Build 2.
+U2|W URF – Dark Harvest i Collector dobijają cele po R.|Przeciw burstowi – dodaj GA.
+@zeri
+N1|Na Dragonie – Q to automatyczne ataki, E przeskakuje ściany; Lethal Tempo, Fiendhunter Bolts, IE i Runaan's.|Przeciw dive'owi – Build 2 z Fleet.
+N2|Przeciw dive'owi – Fleet Footwork leczy i daje prędkość, a krytyki z Yun Tal i IE z Navori skracają E.|Gdy walki są długie – Build 1.
+A1|W ARAM – Runaan's i Fiendhunter Bolts, Q trafia kilku wrogów.|Przeciw dive'owi – Build 2.
+A2|W ARAM – Fleet i Bloodthirster dają sustain, a Navori skraca E.|Przeciw miękkim celom – Build 1.
+U1|W URF – E co chwilę, Fiendhunter Bolts i Runaan's.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF – Fleet i Navori, krytyki z Yun Tal i IE.|Przeciw tankom – Build 1.
+@ziggs
+N1|Na midzie – Q z Comet i Luden's, W niszczy wieże, R z ogromnego zasięgu; Horizon Focus.|Na Dragonie – Build 2.
+N2|Oblężenie na Dragonie – First Strike, szybkie niszczenie wież W i pasywką.|Na midzie – Build 1.
+A1|W ARAM jako poke – Q z Comet i Horizon Focus trafia grupę, a R z ogromnego zasięgu.|Przeciw dive'owi – Build 2.
+A2|W ARAM – miny z Liandry's i Rylai's, Mercury's.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – Q i R co chwilę, a Horizon Focus i Luden's zamieniają Ziggsa w artylerię.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, R co chwilę.|Przeciw tankom – dodaj Liandry's.
+@zilean
+N1|Na supporcie – R wskrzesza sojusznika, E przyspiesza lub spowalnia, podwójna bomba Q ogłusza; Shurelya's, Harmonic Echo i Helia.|Na midzie – Build 2.
+N2|Bombowy mag na midzie – Comet, Luden's i Malignance.|Jako wsparcie – Build 1.
+A1|W ARAM jako poke – bomby Q z Comet i Horizon Focus ogłuszają przy podwójnym trafieniu.|Przeciw dive'owi – Build 2.
+A2|W ARAM jako wsparcie – R wskrzesza sojusznika, Redemption i Harmonic Echo leczą drużynę.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF – bomby Q co sekundę, a Horizon Focus i Luden's zamieniają Zileana w artylerię.|Przeciw dive'owi – Build 2.
+U2|W URF – R wskrzesza sojusznika co chwilę, a Shurelya's i Staff of Flowing Water wzmacniają drużynę.|Gdy potrzebujesz obrażeń – Build 1.
+@zoe
+N1|Na midzie – E usypia, Q z daleka zadaje ogromne obrażenia; Electrocute, Luden's i Stormsurge.|Gdy wolisz bezpieczny poke – Build 2.
+N2|Poke Zmierzchu – Comet, Horizon Focus i Malignance.|Przeciw zabójcom – Build 1 z Zhonya's.
+A1|W ARAM jako poke – Q (gwiazda) z Comet i Horizon Focus zadaje ogromne obrażenia z dystansu.|Przeciw dive'owi – Build 2.
+A2|W ARAM przeciw dive'owi – E (usypianie) zatrzymuje nurkujących, a Banshee's i Zhonya's chronią.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF – Q co sekundę, a Horizon Focus i Luden's zamieniają Zoe w artylerię.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw miękkim celom – Dark Harvest i Infinity Orb, E usypia cel przed combo.|Przeciw tankom – dodaj Liandry's.
+@zyra
+N1|Na supporcie – rośliny zadają obrażenia, E unieruchamia; Dark Harvest, Liandry's, Rylai's i Bloodletter's Curse.|Na midzie – Build 2.
+N2|Mag roślin na midzie – Comet, Blackfire Torch i Liandry's.|Jako wsparcie – Build 1.
+A1|W ARAM – rośliny i R trafiają grupę, Liandry's i Blackfire Torch podpalają.|Przeciw leczeniu – Build 2.
+A2|Przeciw leczeniu – Morellonomicon i Mercury's.|Gdy wrogowie nie leczą – Build 1.
+U1|W URF – rośliny co chwilę, Liandry's i Rylai's, a R podrzuca grupę.|Przeciw dive'owi – Build 2.
+U2|W URF jako poke – Comet i Bloodletter's Curse, rośliny zadają obrażenia z dystansu.|Przeciw tankom – Build 1.

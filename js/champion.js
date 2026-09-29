@@ -1,7 +1,7 @@
 /* Strona championa – informacje, buildy i przedmioty sytuacyjne */
 (function () {
   const WR = window.WR;
-  const { esc, ROLE_PL, TREE_PL, champImg, abilityImg } = WR;
+  const { esc, fmtVals, ROLE_PL, TREE_PL, champImg, abilityImg, gold } = WR;
   const ITEMS = window.WR_ITEMS.items;
   const BOOTS = window.WR_ITEMS.boots;
   const app = document.getElementById('app');
@@ -50,6 +50,120 @@
       <div class="rname">${esc(r.name)}</div></div>`;
   }
 
+  // ---------- analiza buildu ----------
+  const STAT_SHORT = {
+    'obrażeń od ataku': 'AD', 'mocy umiejętności': 'AP', 'zdrowia': 'Zdrowie', 'pancerza': 'Pancerz',
+    'odporności na magię': 'Odporność na magię', 'prędkości ataku': 'Prędkość ataku', 'szansy na trafienie krytyczne': 'Szansa na kryt',
+    'przyspieszenia umiejętności': 'Przyspieszenie umiejętności', 'prędkości ruchu': 'Prędkość ruchu', 'many': 'Mana',
+    'siły leczenia i tarcz': 'Siła leczenia i tarcz', 'przebicia pancerza': 'Przebicie pancerza', 'przebicia odporności na magię': 'Przebicie magii',
+    'nieustępliwości': 'Nieustępliwość', 'kradzieży życia': 'Kradzież życia', 'wampiryzmu fizycznego': 'Wampiryzm fizyczny',
+    'regeneracji zdrowia': 'Regeneracja zdrowia', 'podstawowej regeneracji many': 'Regeneracja many',
+  };
+  const STAT_ORDER = ['AD', 'AP', 'Zdrowie', 'Pancerz', 'Odporność na magię', 'Prędkość ataku', 'Szansa na kryt', 'Przyspieszenie umiejętności'];
+  function sumStats(list) {
+    const acc = new Map();
+    list.forEach((line) => {
+      const m = /^\+?(\d+(?:[.,]\d+)?)(%?)\s+(.+)$/.exec(line.trim());
+      if (!m) return;
+      const label = STAT_SHORT[m[3]] || m[3];
+      const key = label + m[2];
+      const cur = acc.get(key) || { label, pct: m[2], v: 0 };
+      cur.v += parseFloat(m[1].replace(',', '.'));
+      acc.set(key, cur);
+    });
+    const rank = (x) => { const i = STAT_ORDER.indexOf(x.label); return i < 0 ? 99 : i; };
+    return [...acc.values()].sort((a, b) => rank(a) - rank(b));
+  }
+  const statVal = (stats, label) => stats.filter((x) => x.label === label && !x.pct).reduce((s, x) => s + x.v, 0);
+
+  // Cechy wynikające z przedmiotów: [klucz, mocna strona, przeciw czemu, kody przedmiotów]
+  const TRAITS = [
+    ['antiheal', 'Antyleczenie (Głębokie Rany)', 'wrogom, którzy dużo się leczą (Soraka, Aatrox, Vladimir, Dr. Mundo, Yuumi)', ['chem', 'mr', 'morello', 'thorn']],
+    ['antitank', 'Przebicie i obrażenia zależne od zdrowia', 'tankom i postaciom z dużą ilością zdrowia, pancerza lub odporności na magię', ['bc', 'ldr', 'sery', 'mr', 'bork', 'term', 'kraken', 'sunderer', 'void', 'liandry', 'bloodletter', 'abyssal']],
+    ['antishield', 'Osłabianie tarcz', 'drużynom z tarczami (Janna, Lulu, Karma, Sterak\'s, Immortal Shieldbow)', ['fang', 'ocean']],
+    ['anticc', 'Ochrona przed kontrolą tłumu', 'składom z ogłuszeniami, tłumieniem i unieruchomieniami', ['qss', 'scimitar', 'banshee', 'eon', 'mikael']],
+    ['antiburst', 'Przeżywalność przeciw burstowi', 'zabójcom i drużynom zadającym dużo obrażeń naraz', ['ga', 'zhonya', 'shieldbow', 'sterak', 'maw', 'dd', 'mantle', 'kaenic', 'garg', 'locket']],
+    ['vsad', 'Obrona przed obrażeniami fizycznymi', 'strzelcom, zabójcom AD i bruiserom', ['fh', 'randuin', 'thorn']],
+    ['vsap', 'Obrona przed obrażeniami magicznymi', 'magom i drużynom z dużą ilością obrażeń magicznych', ['fon', 'kaenic', 'maw', 'wits', 'banshee']],
+    ['aoe', 'Obrażenia obszarowe', 'grupującym się wrogom i w teamfightach', ['titanic', 'runaan', 'shiv', 'luden', 'liandry', 'sunfire', 'hollow', 'gore', 'torch', 'malig', 'despair']],
+    ['slow', 'Spowolnienia z przedmiotów', 'mobilnym, uciekającym celom', ['rylai', 'sery', 'bork', 'iceborn', 'stride', 'dmp', 'fh', 'zeke']],
+    ['mobility', 'Dodatkowa mobilność', 'gdy trzeba dogonić cel lub szybko się przemieścić', ['belt', 'gale', 'stride', 'ghost', 'dmp', 'cosmic', 'surge', 'shurelya', 'storm', 'hexplate']],
+    ['utility', 'Wzmocnienie drużyny', 'w walkach drużynowych, gdzie liczy się ochrona sojuszników', ['locket', 'zeke', 'virtue', 'shurelya', 'redemp', 'mikael', 'harmonic', 'censer', 'sfw', 'helia', 'abyssal', 'bloodletter', 'mandate', 'trap', 'vow', 'dawn']],
+  ];
+  const TRAIT = Object.fromEntries(TRAITS.map((t) => [t[0], t]));
+  const itemLink = (c) => `<span class="ilink" tabindex="0" data-tip="item:${c}">${esc(ITEMS[c].name)}</span>`;
+  const bootsLink = (c) => `<span class="ilink" tabindex="0" data-tip="boots:${c}">${esc(BOOTS[c].name)}</span>`;
+  const runeLink = (c) => `<span class="ilink" tabindex="0" data-tip="rune:${c}">${esc(RUNE_INDEX[c].name)}</span>`;
+  const list = (arr) => arr.length < 2 ? arr.join('') : `${arr.slice(0, -1).join(', ')} i ${arr[arr.length - 1]}`;
+
+  function analysisHtml(b) {
+    const stats = sumStats([...b.items.flatMap((c) => ITEMS[c].stats), ...BOOTS[b.boots].stats]);
+    const has = {};
+    TRAITS.forEach(([k, , , codes]) => { has[k] = b.items.filter((c) => codes.includes(c)); });
+    const armor = statVal(stats, 'Pancerz'), mr = statVal(stats, 'Odporność na magię');
+    const hpSum = statVal(stats, 'Zdrowie');
+    if (b.boots === 'mercs') has.anticc = [...has.anticc, 'boots:mercs'];
+    if (b.boots === 'steel') has.vsad = [...has.vsad, 'boots:steel'];
+    if (b.boots === 'mercs') has.vsap = [...has.vsap, 'boots:mercs'];
+    const link = (c) => (c.startsWith('boots:') ? bootsLink(c.slice(6)) : itemLink(c));
+    const isTanky = /Tank|Wsparcie|Support/.test(b.lane) || ['support', 'tank'].some((x) => (b.name || '').toLowerCase().includes(x)) ||
+      b.items.filter((c) => ['tank', 'supp'].includes(ITEMS[c].cat)).length >= 3;
+
+    const strengths = TRAITS.filter(([k]) => has[k].length).map(([k, name, vs]) =>
+      `<li><b>${name}</b> – ${list(has[k].map(link))}. Pomaga przeciw: ${vs}.</li>`);
+    if (armor >= 60 && !has.vsad.length) strengths.push(`<li><b>Dużo pancerza</b> (+${armor}) – dobre przeciw strzelcom i zabójcom AD.</li>`);
+    if (mr >= 60 && !has.vsap.length) strengths.push(`<li><b>Dużo odporności na magię</b> (+${mr}) – dobre przeciw magom.</li>`);
+
+    // Słabe strony + zamienniki z listy sytuacyjnej championa
+    const sit = (data.situational || []).filter((c) => !b.items.includes(c));
+    const swap = (k) => {
+      const alt = sit.filter((c) => TRAIT[k][3].includes(c));
+      return alt.length ? ` Zamiennik z listy sytuacyjnej: ${list(alt.slice(0, 3).map(itemLink))}.` : '';
+    };
+    const weak = [];
+    if (!has.antiheal.length) weak.push(`<li><b>Brak antyleczenia</b> – przeciw ${TRAIT.antiheal[2]} warto zamienić ostatni przedmiot.${swap('antiheal')}</li>`);
+    if (!isTanky && !has.antitank.length) weak.push(`<li><b>Brak przebicia / obrażeń % zdrowia</b> – build słabnie przeciw składom z 2+ tankami.${swap('antitank')}</li>`);
+    if (!has.anticc.length) weak.push(`<li><b>Brak ochrony przed kontrolą tłumu</b> – przeciw wielu ogłuszeniom rozważ Mercury's Treads lub przedmiot oczyszczający.${swap('anticc')}</li>`);
+    if (!isTanky && !has.antiburst.length && armor + mr < 60) weak.push(`<li><b>Mała przeżywalność</b> – build jest „szklany”, wymaga dobrej pozycji za frontem.${swap('antiburst')}</li>`);
+    if (isTanky && !has.vsap.length && mr < 40) weak.push(`<li><b>Mało odporności na magię</b> – przeciw magom zamień jeden przedmiot na obronny.${swap('vsap')}</li>`);
+    if (isTanky && !has.vsad.length && armor < 40) weak.push(`<li><b>Mało pancerza</b> – przeciw strzelcom i zabójcom AD zamień jeden przedmiot.${swap('vsad')}</li>`);
+
+    const t2 = b.items.slice(0, 2).reduce((s, c) => s + ITEMS[c].cost, 0) + BOOTS[b.boots].cost;
+    const t3 = t2 + ITEMS[b.items[2]].cost;
+    const statChips = stats.map((x) => `<span class="stat"><b>+${Math.round(x.v * 10) / 10}${x.pct}</b> ${esc(x.label)}</span>`).join('');
+    const dmgType = (() => {
+      const ad = statVal(stats, 'AD'), ap = statVal(stats, 'AP');
+      if (ad && ap && Math.min(ad, ap) / Math.max(ad, ap) > 0.35) return 'hybrydowe (AD + AP)';
+      if (ap > ad) return 'magiczne (AP)';
+      if (ad) return 'fizyczne (AD)';
+      return hpSum ? 'wytrzymałość i użyteczność' : 'użyteczność';
+    })();
+
+    const items = b.items.map((c) => `<li>${itemLink(c)} <small>${gold(ITEMS[c].cost)} zł.</small> – ${esc(ITEMS[c].desc)}</li>`).join('');
+    const boots = `<li>${bootsLink(b.boots)} → ${esc(BOOTS[b.boots].t3.name)} (tier 3 od 10:00) – ${esc(BOOTS[b.boots].desc)}</li>`;
+    const runes = [b.keystone, ...b.primary, b.secondary].map((r, k) => {
+      const tag = k === 0 ? 'Keystone' : k <= 3 ? `${TREE_PL[b.tree]}` : `${TREE_PL[b.secTree]} (dodatkowa)`;
+      return `<li><b>${runeLink(r)}</b> <small>${tag}</small> – ${esc(RUNE_INDEX[r].desc)}</li>`;
+    }).join('');
+
+    return `<details class="analysis">
+      <summary>Analiza buildu – dlaczego ten zestaw i kiedy go wybrać</summary>
+      <div class="an-body">
+        <div class="an-grid">
+          <section class="an-when"><h5>Kiedy się sprawdza</h5><p>${esc(b.when)}</p></section>
+          <section class="an-avoid"><h5>Kiedy wybrać inny wariant</h5><p>${esc(b.avoid)}</p></section>
+        </div>
+        <section><h5>Profil po ukończeniu</h5>
+          <p class="an-note">Główne obrażenia: <b>${dmgType}</b>. Pierwszy skok mocy po 2 przedmiotach + butach (<b>${gold(t2)}</b> zł.), kolejny po 3. przedmiocie (<b>${gold(t3)}</b> zł.).</p>
+          <div class="stats-sum">${statChips}</div>
+          <p class="an-note">Suma statystyk 5 przedmiotów i butów tier 2 (bez run i statystyk bohatera).</p></section>
+        ${strengths.length ? `<section><h5>Mocne strony zestawu</h5><ul class="an-list good">${strengths.join('')}</ul></section>` : ''}
+        ${weak.length ? `<section><h5>Na co uważać</h5><ul class="an-list warn">${weak.join('')}</ul></section>` : ''}
+        <section><h5>Rola każdego przedmiotu (kolejność zakupu)</h5><ol class="an-list">${items}${boots}</ol></section>
+        <section><h5>Dlaczego te runy</h5><ul class="an-list">${runes}</ul></section>
+      </div></details>`;
+  }
+
   function buildCard(b, i, mode) {
     const total = b.items.reduce((s, c) => s + ITEMS[c].cost, 0) + BOOTS[b.boots].cost;
     const totalT3 = total - BOOTS[b.boots].cost + BOOTS[b.boots].t3.cost;
@@ -76,13 +190,25 @@
         </div>
       </div>
       <p class="build-desc">${esc(b.desc)}</p>
+      ${b.when ? analysisHtml(b) : ''}
     </article>`;
   }
 
-  const abilitiesHtml = champ.abilities.map((a, i) => `<div class="ability">
+  const abilitiesHtml = champ.abilities.map((a, i) => {
+    const meta = [a.cd ? `<span>Odnowienie: <b>${esc(a.cd)}</b> s</span>` : '', a.cost ? `<span>Koszt: <b>${esc(a.cost)}</b></span>` : ''].join('');
+    const body = a.vals
+      ? `<p class="vals">${fmtVals(a.vals)}</p><details class="off"><summary>Opis ogólny</summary><p>${esc(a.desc)}</p></details>`
+      : `<p>${esc(a.desc)}</p>`;
+    return `<div class="ability">
       <img src="${abilityImg(champ.slug, i)}" alt="" width="48" height="48" loading="lazy" />
-      <div><div class="slot">${SLOT_PL[a.slot] || esc(a.slot)}</div><h4>${esc(a.name)}</h4><p>${esc(a.desc)}</p></div>
-    </div>`).join('');
+      <div><div class="slot">${SLOT_PL[a.slot] || esc(a.slot)}</div><h4>${esc(a.name)}</h4>
+        ${meta ? `<div class="ab-meta">${meta}</div>` : ''}${body}</div>
+    </div>`;
+  }).join('');
+  const legend = `<div class="legend">Wartości dla kolejnych poziomów umiejętności oddzielone „/”.
+    Skalowanie: <span class="sc sc-ad">% AD</span> <span class="sc sc-ap">% AP</span> <span class="sc sc-hp">% zdrowia</span> <span class="sc sc-res">% pancerza / odp.</span>
+    · Typ obrażeń: <span class="dt dt-phys">fizyczne</span> <span class="dt dt-mag">magiczne</span> <span class="dt dt-true">nieuchronne</span>.
+    „dod.” = tylko dodatkowe (z przedmiotów i run).</div>`;
 
   let html = `<a class="back" href="index.html">← Wszyscy championowie</a>
     <section class="champ-hero">
@@ -99,6 +225,7 @@
       ${data ? `<p class="about">${esc(data.about)}</p>` : ''}
     </section>
     <h2 class="section-title">Umiejętności</h2>
+    ${legend}
     <div class="abilities">${abilitiesHtml}</div>`;
 
   if (!data) {

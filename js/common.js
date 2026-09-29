@@ -23,6 +23,31 @@
     return runeIdx;
   }
 
+  /* Formatuje dokładne wartości (umiejętności, efekty przedmiotów): koloruje skalowanie AD/AP/HP,
+     wartości na poziomach i typy obrażeń. Wejście to czysty tekst – najpierw jest escapowany. */
+  const N = String.raw`\d+(?:\.\d+)?`;
+  const PCTS = String.raw`[+]?${N}%(?:\s*[-–/~]\s*${N}%)*`;
+  const RX = new RegExp([
+    String.raw`(?<ad>${PCTS}\s*(?:dod\.\s*|bazowego\s*)?AD\b)`,
+    String.raw`(?<ap>${PCTS}\s*(?:dod\.\s*)?AP\b)`,
+    String.raw`(?<hp>${PCTS}\s*(?:maks\.\s*|dod\.\s*)?(?:HP\b|zdrowia|dodatkowego zdrowia|dod\. zdrowia))`,
+    String.raw`(?<armor>${PCTS}\s*(?:dod\.\s*)?(?:pancerza|odporności na magię))`,
+    String.raw`(?<lvl>${N}%?(?:\s*/\s*${N}%?)+)`,
+    String.raw`(?<dmg>obrażeń (?:fizycznych|magicznych|nieuchronnych)|obrażenia (?:fizyczne|magiczne|nieuchronne))`,
+  ].join('|'), 'g');
+  function fmtVals(text) {
+    return esc(text).replace(RX, (m, ...args) => {
+      const g = args[args.length - 1];
+      if (g.ad) return `<span class="sc sc-ad">${m}</span>`;
+      if (g.ap) return `<span class="sc sc-ap">${m}</span>`;
+      if (g.hp) return `<span class="sc sc-hp">${m}</span>`;
+      if (g.armor) return `<span class="sc sc-res">${m}</span>`;
+      if (g.lvl) return `<b class="lvl">${m}</b>`;
+      const t = /fizyczn/.test(m) ? 'phys' : /magiczn/.test(m) ? 'mag' : 'true';
+      return `<span class="dt dt-${t}">${m}</span>`;
+    });
+  }
+
   function tipHtml(key) {
     const [type, code] = key.split(':');
     if (type === 'item') {
@@ -30,14 +55,15 @@
       const cls = it.cls ? `<div class="tcls">Tylko dla klas: ${it.cls.map((c) => ROLE_PL[c]).join(', ')}</div>` : '';
       return `<h5>${esc(it.name)}</h5><div class="tcost">${gold(it.cost)} złota</div>${cls}
         <ul>${it.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${esc(it.desc)}</p>
-        ${it.passive ? `<div class="en"><b>Opis z gry (EN):</b>\n${esc(it.passive)}</div>` : ''}`;
+        ${it.effect ? `<div class="eff"><b>Efekt:</b>\n${fmtVals(it.effect)}</div>` : ''}`;
     }
     if (type === 'boots') {
       const b = window.WR_ITEMS.boots[code];
       return `<h5>${esc(b.name)}</h5><div class="tcost">${gold(b.cost)} złota · ${esc(b.desc)}</div>
         <ul>${b.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>
+        ${b.effect ? `<div class="eff">${fmtVals(b.effect)}</div>` : ''}
         <div class="t3box"><b>Tier 3 (od 10:00): ${esc(b.t3.name)}</b> – ${gold(b.t3.cost)} złota łącznie
-        <ul>${b.t3.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${esc(b.t3.effect)}</p></div>`;
+        <ul>${b.t3.stats.map((s) => `<li>${esc(s)}</li>`).join('')}</ul><p>${fmtVals(b.t3.effect)}</p></div>`;
     }
     const r = runeIndex()[code];
     const where = r.tree === 'Keystone' ? 'Keystone (runa główna)' : `${TREE_PL[r.tree]} · rząd ${r.row}`;
@@ -80,5 +106,5 @@
     window.addEventListener('scroll', hide, { passive: true });
   }
 
-  window.WR = { esc, ROLE_ORDER, ROLE_PL, TREE_PL, LANES, champImg, abilityImg, gold, runeIndex, tipHtml, initTooltips, PATCH: '7.3' };
+  window.WR = { esc, fmtVals, ROLE_ORDER, ROLE_PL, TREE_PL, LANES, champImg, abilityImg, gold, runeIndex, tipHtml, initTooltips, PATCH: '7.3' };
 })();

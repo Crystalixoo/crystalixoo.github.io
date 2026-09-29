@@ -1,0 +1,84 @@
+@heimerdinger
+N1|Na midzie przeciw krótkozasięgowym magom i zabójcom – wieżyczki kontrolują linię, Liandry's i Rylai's zamieniają każdą rakietę i granat w spowolnienie z obrażeniami w czasie.|Jako wsparcie na bocie – Build 2 z Imperial Mandate i Helią.
+N2|Jako wsparcie – wieżyczki w krzakach dają kontrolę bota, Imperial Mandate wzmacnia obrażenia sojuszników po ogłuszeniu E.|Na midzie lub gdy drużynie brakuje obrażeń – Build 1.
+A1|W ARAM na wąskiej mapie wieżyczki strzelają cały czas – Blackfire Torch i Liandry's rosną z liczbą trafionych wrogów.|Przeciw drużynie z silną inicjacją – Build 2 z Mercury's i Morellonomicon.
+A2|Przeciw leczącym składom i dive'owi – Morellonomicon, Rylai's i Mercury's; wieżyczki bronią pozycji.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF wieżyczki stawiane co chwilę – Dark Harvest i Liandry's na każdej rakiecie.|Przeciw dive'owi – dodaj Banshee's.
+U2|Przeciw miękkim celom – wzmocnione rakiety R, Luden's i Stormsurge dają burst.|Przeciw tankom – Build 1.
+@hwei
+N1|Na midzie – Hwei ma 9 umiejętności do poke'u i kontroli; Comet, Luden's i Horizon Focus nagradzają trafianie z dystansu ponad 600 jednostek, Malignance skraca R.|Jako wsparcie – Build 2 z Imperial Mandate.
+N2|Jako wsparcie – E (strach, unieruchomienie, spowolnienie) i Imperial Mandate wzmacniają obrażenia strzelca po każdej kontroli.|Na midzie – Build 1 zadaje znacznie więcej obrażeń.
+A1|W ARAM idealny do poke'u – QQ/QE z maksymalnego zasięgu, Horizon Focus ujawnia i wzmacnia obrażenia.|Przeciw nurkującym składom – Build 2 z Banshee's i Zhonya's.
+A2|Przeciw dive'owi – Electrocute na szybki burst, Banshee's i Zhonya's przeciw inicjacji.|Gdy wrogowie trzymają dystans – Build 1.
+U1|W URF – ciągłe QQ i QE, Axiom Arcanist wzmacnia R.|Przeciw zabójcom – Build 2.
+U2|W URF przeciw składom z dive'm – kontrola E i szybki burst Electrocute.|Przeciw tankom – dodaj Liandry's.
+@irelia
+N1|Na Baronie przeciw bruiserom i tankom – BoRK i Trinity z resetami Q, Conqueror i Sundered Sky leczą; pasywka przy 5 ładunkach daje ogromną prędkość ataku.|Przeciw wielu magom lub na midzie – Build 2 z Wit's End.
+N2|Na midzie przeciw magom – Wit's End daje odporność na magię i obrażenia magiczne, Lethal Tempo i Terminus wzmacniają pojedynki.|Przeciw fizycznym bruiserom – Build 1.
+A1|W ARAM wiele celów do resetowania Q – BoRK i Sterak's pozwalają przeskakiwać po wrogach i stworach.|Przeciw magicznemu burstowi – Build 2.
+A2|Przeciw magom i kontroli – Wit's End, Maw i Mercury's.|Przeciw fizycznym bruiserom – Build 1.
+U1|W URF – Q resetuje się bez przerwy, Conqueror leczy.|Przeciw magom – Build 2 z URF-owym Wit's End (lista sytuacyjna).
+U2|W URF przeciw tankom – on-hit z Guinsoo's, Kraken i Terminus.|Przeciw burstowi – Build 1.
+@janna
+N1|Standardowe wsparcie z tarczami – Whispering Circlet → Diadem daje manę i siłę leczenia, Staff of Flowing Water i Harmonic Echo wzmacniają sojuszników, R i Q odpychają dive.|Przeciw zabójcom nurkującym na strzelca – Build 2 z Locketem.
+N2|Gdy grasz ze strzelcem opartym na atakach – Ardent Censer daje mu prędkość ataku, Locket i Mikael's chronią przed burstem i kontrolą.|Z magiem lub poke'ującym carry – Build 1 ze Staff of Flowing Water.
+A1|W ARAM tarcze E na każdego sojusznika – Harmonic Echo i Redemption leczą całą drużynę w ciągłej walce.|Przeciw wielu zabójcom – Build 2.
+A2|Przeciw dive'owi – Guardian, Locket i Mercury's; Q i R rozpraszają inicjację.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF tarcza E niemal ciągle – Staff of Flowing Water i Censer wzmacniają drużynę.|Gdy drużynie brakuje obrażeń – Build 2.
+U2|Gdy drużynie brakuje obrażeń – Janna AP z Comet i poke'iem W.|Gdy sojusznicy potrzebują ochrony – Build 1.
+@jarvan-iv
+N1|W dżungli jako inicjator – combo E+Q podrzuca, R zamyka cel; Eclipse i Black Cleaver dają obrażenia, Sterak's przeżywalność.|Gdy drużyna potrzebuje tanka – Build 2.
+N2|Tankowaty książę – Sunfire i Despair, Dead Man's Plate do szybkiej inicjacji; R zamyka wrogów razem z drużyną.|Gdy drużynie brakuje obrażeń – Build 1.
+A1|W ARAM – R zamyka kilka celów, Goredrinker i Thornmail w tłumie.|Przeciw burstowi – Build 2.
+A2|W ARAM jako front – Sunfire, Despair i Gargoyle po inicjacji.|Gdy drużyna potrzebuje obrażeń – Build 1.
+U1|W URF – combo E+Q (podrzucenie) dostępne co kilka sekund, R zamyka carry w arenie; Black Cleaver zmniejsza pancerz dla całej drużyny, a Conqueror leczy w długiej walce.|Przeciw magom – dodaj Maw.
+U2|Przeciw miękkim celom – Lethality i burst E+Q+R.|Przeciw tankom – Build 1.
+@jax
+N1|Na Baronie przeciw bruiserom – E blokuje autoataki, Trinity Force i Sundered Sky dają obrażenia i leczenie, Death's Dance przeżywalność.|W dżungli lub przeciw tankom – Build 2 z on-hit.
+N2|W dżungli przeciw tankom – Lethal Tempo, BoRK, Kraken i Terminus nakładają się z każdym atakiem.|Na linii przeciw bruiserom – Build 1.
+A1|W ARAM – Trinity i Sterak's, Chempunk przeciw leczeniu.|Przeciw magom – Build 2.
+A2|Przeciw magom i kontroli – Force of Nature, Despair i Mercury's.|Gdy potrzebujesz obrażeń – Build 1.
+U1|W URF przeciw bruiserom walczącym wręcz – E (kontratak) blokuje ataki niemal non stop, Q skacze do celu, a Trinity Force i Sundered Sky dają burst i leczenie.|Przeciw tankom – Build 2.
+U2|W URF przeciw tankom – on-hit (BoRK, Guinsoo's, Kraken).|Przeciw burstowi – Build 1.
+@jayce
+N1|Na midzie jako poke – działo (Q przez E) z Comet i Manamune, Lethality (Youmuu's, Serylda's) dla burstu, Edge of Night przeciw kontroli.|Na Baronie przeciw bruiserom – Build 2.
+N2|Na Baronie – forma młota w zwarciu, Eclipse i Black Cleaver, Death's Dance przeżywalność.|Na midzie przeciw magom – Build 1.
+A1|W ARAM idealny do poke'u – Comet i działo z maksymalnego zasięgu.|Przeciw dive'owi – Build 2 z Death's Dance.
+A2|Gdy walki są blisko – młot, Conqueror i Death's Dance.|Przeciw pasywnym składom – Build 1.
+U1|W URF jako poke – działo (Q przez bramę E) co sekundę z Comet i Axiom Arcanist, a Lethality (Youmuu's, Serylda's) sprawia, że każde trafienie zabiera dużą część zdrowia.|Przeciw dive'owi – Build 2.
+U2|Przeciw miękkim celom – burst młota i Electrocute.|Przeciw tankom – Build 1.
+@jhin
+N1|Na Dragonie – czwarta kula krytuje, Hexoptics i Collector nagradzają strzelanie z daleka i dobijanie.|Gdy chcesz grać agresywnie na linii i roamować – Build 2.
+N2|Lethality Jhin – Electrocute i Collector zabijają W+4. kula, Mortal Reminder przeciw leczeniu, Shieldbow przeciw dive'owi.|Przeciw tankom – Build 1 z Lord Dominik's.
+A1|W ARAM – poke W i R z daleka, Hexoptics i Collector.|Przeciw dive'owi – Build 2.
+A2|W ARAM w długich walkach – Bloodthirster i Guardian Angel.|Przeciw poke'owi – Build 1.
+U1|W URF – Dark Harvest i Collector dobijają cele.|Przeciw tankom – Build 2.
+U2|W URF w długich walkach – Fleet Footwork i Bloodthirster dają leczenie, czwarta kula krytuje, a Hexoptics i Collector pozwalają dobijać cele z bezpiecznej odległości.|Przeciw zabójcom – dodaj Shieldbow.
+@jinx
+N1|Na Dragonie – Lethal Tempo, Yun Tal i Runaan's; reset z pasywki po zabójstwie wygrywa teamfighty.|Gdy potrzebujesz więcej zasięgu przeciw poke'owi – Build 2.
+N2|Przeciw dystansowym strzelcom – Rapid Firecannon i Hexoptics dają zasięg rakiet.|Gdy teamfighty są długie – Build 1.
+A1|W ARAM – Runaan's trafia wielu wrogów, reset pasywki.|Przeciw dive'owi – Build 2.
+A2|Przeciw dive'owi – Fleet, Bloodthirster i GA.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF w teamfightach – rakiety i W co chwilę, reset pasywki po zabójstwie przyspiesza ataki, a Runaan's i Yun Tal trafiają kilka celów krytykami.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF przeciw poke'owi – zasięg rakiet i Hexoptics.|Przeciw tankom – Build 1.
+@kaisa
+N1|Na Dragonie – krytyczna Kai'Sa ewoluuje Q (Yun Tal, IE), Navori skraca odnowienia.|Gdy chcesz ewoluować W i E – Build 2 hybrydowy.
+N2|Hybrydowa Kai'Sa – Guinsoo's i Nashor's, ewolucja W (AP) daje poke z dystansu.|Przeciw miękkim celom – Build 1.
+A1|W ARAM za dobrym frontem – krytyczna Kai'Sa z Runaan's rozprowadza obrażenia na kilku wrogów, R pozwala doskoczyć do oznaczonego celu, a Shieldbow chroni przed zabójcami.|Przeciw poke'owi – Build 2.
+A2|W ARAM, gdy możesz pokeować zza frontu – ewoluowane W (AP) z Comet zadaje ogromne obrażenia z dystansu, a Guinsoo's i Nashor's dają obrażenia w walce.|Przeciw dive'owi – Build 1.
+U1|W URF – Q (Icathian Rain) co chwilę, Navori jeszcze skraca odnowienia, a krytyki z Yun Tal i IE zadają ogromne obrażenia izolowanym celom.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF – AP Kai'Sa strzela W z mapy niemal bez przerwy, Comet i Statikk Shiv dokładają obrażeń, a Guinsoo's i Nashor's wzmacniają ataki.|Przeciw tankom – Build 1.
+@kalista
+N1|Na Dragonie – on-hit Kalista (BoRK, Guinsoo's, Kraken) nakłada włócznie na tanki, E rozrywa.|Przeciw miękkim celom – Build 2 krytyczny.
+N2|Przeciw miękkim celom i w drużynie z dobrym frontem – Yun Tal i IE zwiększają obrażenia włóczni, Runaan's nakłada je na kilka celów naraz, co wzmacnia E (Rozdarcie).|Przeciw tankom – Build 1.
+A1|W ARAM – Runaan's nakłada włócznie na wielu wrogów.|Przeciw dive'owi – Build 2.
+A2|Przeciw dive'owi – Fleet, Phantom Dancer i Shieldbow.|Gdy wrogowie są pasywni – Build 1.
+U1|W URF przeciw tankom – on-hit (BoRK, Guinsoo's, Kraken) szybko nakłada włócznie, a E (Rozdarcie) co kilka sekund zabiera ogromną część zdrowia; Bloodthirster daje sustain.|Przeciw zabójcom – dodaj Shieldbow.
+U2|W URF przeciw miękkim celom – krytyczne włócznie z Yun Tal i IE, Runaan's nakłada ładunki na grupę, a E dobija wszystkich naraz.|Przeciw tankom – Build 1.
+@karma
+N1|Na supporcie – tarcze E i Mantra, Staff of Flowing Water i Harmonic Echo, Shurelya's daje prędkość drużynie.|Na midzie – Build 2.
+N2|Na midzie jako poke – Mantra + Q z Comet i Luden's, Horizon Focus.|Jako wsparcie – Build 1.
+A1|W ARAM – tarcze E i Shurelya's dla drużyny, Locket przeciw burstowi.|Gdy drużynie brakuje obrażeń – Build 2.
+A2|W ARAM jako poke – Mantra + Q (Soulflare) z Comet i Luden's zadaje ogromne obrażenia z dystansu, Horizon Focus wzmacnia trafienia z ponad 600 jednostek.|Przeciw dive'owi – Build 1.
+U1|W URF – Mantra odnawia się niemal ciągle, więc prawie każde Q jest wzmocnione; Comet, Luden's i Horizon Focus zamieniają Karmę w artylerię.|Przeciw zabójcom – Build 2.
+U2|W URF jako wsparcie – tarcze E niemal ciągle.|Gdy potrzebujesz obrażeń – Build 1.
